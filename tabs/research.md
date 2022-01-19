@@ -11,7 +11,7 @@ Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=
 
 ## 2022
 
-S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M Abdel Wahab. Damage Identification in Frame Structure Based on Inverse Analysis. *Proceedings of the 2nd International Conference on Structural Damage Modelling and Assessment*. 2022. <a href="https://doi.org/10.1007/978-981-16-7216-3_15" target="_blank"> https://doi.org/10.1007/978-981-16-7216-3_15 </a>
+S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M Abdel Wahab. Damage Identification in Frame Structure Based on Inverse Analysis. *The 2nd International Conference on Structural Damage Modelling and Assessment*. 2022. <a href="https://doi.org/10.1007/978-981-16-7216-3_15" target="_blank"> https://doi.org/10.1007/978-981-16-7216-3_15 </a>
 
 F Althobiani, S Khatir, **B Benaissa**, E Ghandourah, S Mirjalili, M Abdel Wahab. A hybrid PSO and Grey Wolf optimization algorithm for static and dynamic Crack identification. *Theoretical and Applied Fracture Mechanics*. 2022. <a href="https://doi.org/10.1016/j.tafmec.2021.103213" target="_blank"> https://doi.org/10.1016/j.tafmec.2021.103213 </a>
 
@@ -37,7 +37,7 @@ S S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. 
 
 ## 2018
 
-
+S Khatir, M A Wahab, **B Benaissa**, M Köppen. Crack identification using eXtended IsoGeometric analysis and particle swarm optimization. *The 7th International Conference on Fracture Fatigue and Wear*. 2018. <a href="https://doi.org/10.1007/978-981-13-0411-8_21" target="_blank"> https://doi.org/10.1007/978-981-13-0411-8_21 </a> 
 
 
 ---
