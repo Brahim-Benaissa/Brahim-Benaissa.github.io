@@ -13,7 +13,7 @@ Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=
 
 S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M .Abdel Wahab. Damage Identification in Frame Structure Based on Inverse Analysis. *Proceedings of the 2nd International Conference on Structural Damage Modelling and Assessment*. 2022. <a href="https://doi.org/10.1007/978-981-16-7216-3_15" target="_blank"> https://doi.org/10.1007/978-981-16-7216-3_15 </a>
 
-A Behtani, S Tiachacht, T Khatir, S Khatir, M A Wahab, **B Benaissa**. Residual Force Method for damage identification in a laminated composite plate with different boundary conditions. *Frattura ed Integrità Strutturale*. 2022. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank"> Paper </a>. 
+A Behtani, S Tiachacht, T Khatir, S Khatir, M A Wahab, **B Benaissa**. Residual Force Method for damage identification in a laminated composite plate with different boundary conditions. *Frattura ed Integrità Strutturale*. 2022. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank"> PDF Paper </a>. 
 
 
 ## 2021
