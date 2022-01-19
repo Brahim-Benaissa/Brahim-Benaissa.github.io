@@ -13,7 +13,7 @@ toc: true
 (June 2021 - *Present*) | **Toyota technological Institute, Japan** | **Design engineering Lab, Mechanical Systems Engineering**
 
 Research area in the intersection of machine learning and immersive technologies.
-The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.<br>
+The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.
 
 ---
 
@@ -37,7 +37,7 @@ Design, and development of a multimodal systems for mental health interventions.
 ## PhD. Computational Mechanics
 (January 2012 - July 2016 ) | **Boumerdes University, Algeria**
 
-Research area is the intersection between machine learning and immersive technologies.
+
 ---
 
 ## Visiting Research
@@ -49,12 +49,12 @@ Design, and development of a multimodal systems for mental health interventions.
 ## MSc. Conceptual design in mechanics
 (September 2009 - July 2011 ) | **Medea University, Algeria**
 
-Design, implementation and management of projects related to digital health technologies and health information systems.
+
 ---
 ## BSc. Conceptual design in mechanics
 (September 2006 - July 2009 ) | **Medea University, Algeria**
 
-Courses on signal processing, computer vision, control theory, telecommunication systems. <br>
+Courses on signal processing, computer vision, control theory, telecommunication systems.
 
 ---
 
