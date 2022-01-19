@@ -64,11 +64,13 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic algorithm based o
 
 ---
 
-# 📜 Teaching
+# 📜 Patents
 
 
 
-# 📝 Teaching
+---
+
+# 👨‍🏫 Teaching
 
 ## Data Science
 
@@ -88,26 +90,15 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic algorithm based o
 
 ---
 
+<!--
 # 📜 Thesis Supervision
 
 
 ## 2021
 
-- Mawada Hamad,*The trade-off between performance and compression rate when applying knowledge distillation*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
-- Samiiha Nalwooga, *Knowledge distillation for building accurate plant classification models for mobile devices*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
-- Alborz Alipour, *Outlier Detection in Stock Market Prediction through Anomaly Detection*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
-- Dana Kokey, *Towards detecting arousal level from heart rate information in virtual reality 360-degree videos*, MSc. Health Informatics, Karolinska Institutet, Sweden.
 
-<!--
-## 2021
-
-- Student, *Thesis title*, MSc.,  Year, Stockhom University, Sweden. -->
+- Student, *Thesis title*, MSc.,  Year, University.
 
 ---
 
-# 📚 Other research activities
-
-- Program Committee member in IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR) <http://www.ieee-aivr.org/>
-- Reviewer in IEEE VR (2021)
-- Reviewer in IEEE AIVR (2020, 2021)
-- Reviewer in Granular Computing Journal (2019)
+-->
