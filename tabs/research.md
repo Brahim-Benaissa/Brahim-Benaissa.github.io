@@ -53,11 +53,13 @@ W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need N
 
 **B Benaissa**, M KÖPPEN, K Yoshida. Activity and emotion recognition for elderly health monitoring. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a>
 
-
-
 ## 2016
 
+**B Benaissa**, N Aït Hocine, I Belaidi, A Hamrani, V Pettarin. Crack identification using model reduction based on proper orthogonal decomposition coupled with radial basis functions. *Structural and Multidisciplinary Optimization*. 2016. <a href="https://doi.org/10.1007/s00158-016-1400-y" target="_blank"> https://doi.org/10.1007/s00158-016-1400-y </a>
 
+## 2015
+
+S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic algorithm based objective functions comparative study for damage detection and localization in beam structures.*Journal of Physics: Conference Series*. 2015. <a href="https://doi.org/10.1088/1742-6596/628/1/012035" target="_blank"> https://doi.org/10.1088/1742-6596/628/1/012035 </a>.  
 ---
 
 # 📝 Teaching
