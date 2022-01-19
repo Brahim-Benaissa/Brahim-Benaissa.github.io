@@ -24,7 +24,7 @@ Initial setup
 git config --global user.name “Luis Quintero”
 git config --global
 user.email "user@email"
-git config --list 
+git config --list
 ```
 
 Get help in commands
@@ -82,7 +82,7 @@ git clone ../remote_repo .	#Clone in the current director`
 View information about remote repository
 
 ``` bash
-git remote -v	# Information of the repository 
+git remote -v	# Information of the repository
 git branch -a	# Branches in the repo locally and remotely
 ```
 
@@ -120,7 +120,7 @@ git checkout master
 git pull origin master	#In case any changes were made
 git branch --merged		#Check which branches have been merged
 git merge <branchname>	#MERGE!
-git push origin master	
+git push origin master
 git branch --merged		#Double check that everything was merged
 git branch -d <branchname>	#Delete from local repository
 git push origin --delete <branchname>	#Delete from origin
@@ -237,7 +237,7 @@ Summary of the submodules from the superproject
 
 ## Unit tests
 
-To test a `calc.py` file with basic calculations. 
+To test a `calc.py` file with basic calculations.
 
 Runn the unit test with the normal execution of the file:
 
@@ -250,7 +250,7 @@ import unittest
 import calc		# or any other module
 
 class TestCalc(unittest.TestCase):
-	
+
 	def setUp(self):
 		pass % Executed before every test
 
@@ -472,4 +472,3 @@ git svn dcommit
 ```
 ---
 ---
-
