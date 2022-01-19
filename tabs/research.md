@@ -22,33 +22,22 @@ A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. Resid
 
 **B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a> <a href="{{ site.baseurl }}{% link /assets/files/YUKI Algorithm 2021.pdf %}" target="_blank">Download Preprint PDF</a>
 
+S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. Damage identification in steel plate using FRF and inverse analysis. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a> <a href="	https://www.fracturae.com/index.php/fis/article/view/3235/3370 " target="_blank"> Download PDF </a>.
 
-
-
-**Quintero L**, Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality. *2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bari, Italy (virtual). 2021. <https://doi.org/10.1109/ISMAR52148.2021.00052>
-
-Muñoz JE, **Quintero L**, Stephens CL and Pope AT. Taxonomy of Physiologically Adaptive Systems and Design Framework. *International Conference on Human-Computer Interaction (HCII 2021)*, Adaptive Instructional Systems, Lecture Notes in Computer Science, pp 559-576. 2021. <https://doi.org/10.1007/978-3-030-77857-6_40>
 
 ## 2020
 
-**Quintero L**. Understanding research methodologies when combining virtual reality technology with machine learning techniques
-. *In The 13th PErvasive Technologies Related to Assistive Environments Conference (PETRA’20)*, Corfu, Greece. ACM, 4 pages. <https://doi.org/10.1145/3389189.3394093>
 
-Muñoz JE, **Quintero L**, Stephens CL and Pope AT. A Psychophysiological Model of Firearms Training in Police Officers: A Virtual Reality Experiment for Biocybernetic Adaptation. *Frontiers in Psychology*. 11:683. 2020. **Journal (Open Access) 📖**<https://doi.org/10.3389/fpsyg.2020.00683>
 
 ## 2019
 
-**Quintero L**, Muñoz JE, Papapetrou P. Open-Source Physiological Computing Framework using Heart Rate Variability in Mobile Virtual Reality Applications. *2nd International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, San Diego, CA, USA. 2019. <https://doi.org/10.1109/AIVR46125.2019.00027>
 
-**Quintero L**, Papapetrou P, Muñoz JE, Fors U. Implementation of Mobile-based Real-time Heart Rate Variability Detection for Personalized Healthcare. *Workshop TMDM in IEEE International Conference on Data Mining (ICDMW)*, Beijing, China. 2019. <https://doi.org/10.1109/ICDMW.2019.00123>
 
-Muñoz JE, Pope AT, **Quintero L.V.**. Integrating Biocybernetic Adaptation in Virtual Reality Training Concentration and Calmness in Target Shooting. *International Conference on Physiological Computing Systems (PhyCS)*. 2019. <https://doi.org/10.1007/978-3-030-27950-9_12>
-
-\[Master's Thesis\][PDF]({{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}): **Quintero, L**. *Facilitating Technology-based Mental Health Interventions with Mobile Virtual Reality and Wearable Smartwatches*. Karolinska Institutet \| Stockholm University. Master's Programme in Health Informatics.  
 
 ## 2018
 
-Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S., Cipresso, P., & Gaggioli, A. Towards Emotionally-Adaptive Virtual Reality for Mental Health Applications. *IEEE Journal of Biomedical and Health Informatics*. **Journal (Open Access) 📖**<https://doi.org/10.1109/JBHI.2018.2878846>
+
+
 
 ---
 
