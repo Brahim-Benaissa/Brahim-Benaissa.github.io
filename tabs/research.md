@@ -60,6 +60,8 @@ W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need N
 ## 2015
 
 S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic algorithm based objective functions comparative study for damage detection and localization in beam structures.*Journal of Physics: Conference Series*. 2015. <a href="https://doi.org/10.1088/1742-6596/628/1/012035" target="_blank"> https://doi.org/10.1088/1742-6596/628/1/012035 </a>.  
+
+
 ---
 
 # 📝 Teaching
