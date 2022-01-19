@@ -31,7 +31,7 @@ Muñoz JE, **Quintero L**, Stephens CL and Pope AT. A Psychophysiological Model 
 
 Muñoz JE, Pope AT, **Quintero L.V.**. Integrating Biocybernetic Adaptation in Virtual Reality Training Concentration and Calmness in Target Shooting. *International Conference on Physiological Computing Systems (PhyCS)*. 2019. <https://doi.org/10.1007/978-3-030-27950-9_12>
 
-\[Master's Thesis\][PDF]({{ site.baseurl }}{% link /assets/files/2019_MasterThesis_LuisQuintero.pdf %}): **Quintero, L**. *Facilitating Technology-based Mental Health Interventions with Mobile Virtual Reality and Wearable Smartwatches*. Karolinska Institutet \| Stockholm University. Master's Programme in Health Informatics.  
+\[Master's Thesis\][PDF]({{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}): **Quintero, L**. *Facilitating Technology-based Mental Health Interventions with Mobile Virtual Reality and Wearable Smartwatches*. Karolinska Institutet \| Stockholm University. Master's Programme in Health Informatics.  
 
 ## 2018
 
@@ -57,7 +57,7 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - (2016) *Introduction to databases*, Course Leader, Feb-Jun. For students of vocational training in Computer Science. **Unitécnica Manizales, Colombia**.
 
 
---- 
+---
 
 # 📜 Thesis Supervision
 
@@ -69,7 +69,7 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - Alborz Alipour, *Outlier Detection in Stock Market Prediction through Anomaly Detection*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
 - Dana Kokey, *Towards detecting arousal level from heart rate information in virtual reality 360-degree videos*, MSc. Health Informatics, Karolinska Institutet, Sweden.
 
-<!-- 
+<!--
 ## 2021
 
 - Student, *Thesis title*, MSc.,  Year, Stockhom University, Sweden. -->
