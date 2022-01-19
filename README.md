@@ -13,11 +13,11 @@
 
 4. Replace the personal information and the posts:
 
-   a. Follow the #comments instructions in "_config.yml" file (don't forget to change the Google Analytics ID or leave empty if you don't have it).
-   b. Modify text and profile image in the home.html file (Folder: "_latouts" ).
-   c. Change the email address in the  home.html and sidebar.html files (Folders respectively: "_latouts" and "_includes" ).
-   d. Modify/Delete .md files in tabs CV, Project, etc... (Folder: "tabs").
-   e. Modify/Delete .md files in posts and projects (Folders: "_posts", "projects").
+   a) Follow the #comments instructions in "_config.yml" file (don't forget to change the Google Analytics ID or leave empty if you don't have it).
+   b) Modify text and profile image in the home.html file (Folder: "_latouts" ).
+   c) Change the email address in the  home.html and sidebar.html files (Folders respectively: "_latouts" and "_includes" ).
+   d) Modify/Delete .md files in tabs CV, Project, etc... (Folder: "tabs").
+   e) Modify/Delete .md files in posts and projects (Folders: "_posts", "projects").
 
 5. Enjoy your cool website powered by GitHub Pages and Jekyll.
 
