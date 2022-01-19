@@ -7,7 +7,7 @@ toc: true
 📄 <a href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" target="_blank">Download CV (PDF)</a>
 ---
 
-# 💻 Experience
+# 🔨 Experience
 
 ## Postdoctoral Researcher
 (June 2021 - *Present*) | **Toyota technological Institute, Japan** | **Design engineering Lab, Mechanical Systems Engineering**
