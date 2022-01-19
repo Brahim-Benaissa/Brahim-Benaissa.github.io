@@ -20,9 +20,11 @@ F Althobiani, S Khatir, **B Benaissa**, E Ghandourah, S Mirjalili, M Abdel Wahab
 
 A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. Residual Force Method for damage identification in a laminated composite plate with different boundary conditions. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank"> Download PDF </a>.
 
-**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a> <a href="{{ site.baseurl }}{% link /assets/files/YUKI Algorithm 2021.pdf %}" target="_blank">Download Preprint PDF</a>
+**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a> <a href="{{ site.baseurl }}{% link /assets/files/YUKI Algorithm 2021.pdf %}" target="_blank">Download Preprint PDF</a>.
 
 S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. Damage identification in steel plate using FRF and inverse analysis. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a> <a href="	https://www.fracturae.com/index.php/fis/article/view/3235/3370 " target="_blank"> Download PDF </a>.
+
+S S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. Summary of the Cooking Activity Recognition Challenge. *Human Activity Recognition Challenge Book*. 2021. <a href="https://doi.org/10.1007/978-981-15-8269-1_1" target="_blank"> https://doi.org/10.1007/978-981-15-8269-1_1 </a> 
 
 
 ## 2020
