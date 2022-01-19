@@ -24,16 +24,15 @@ A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. Resid
 
 S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. Damage identification in steel plate using FRF and inverse analysis. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a> <a href="	https://www.fracturae.com/index.php/fis/article/download/3235/3370/17171 " target="_blank"> (Download PDF) </a>.
 
-S S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. Summary of the Cooking Activity Recognition Challenge. *Human Activity Recognition Challenge Book*. 2021. <a href="https://doi.org/10.1007/978-981-15-8269-1_1" target="_blank"> https://doi.org/10.1007/978-981-15-8269-1_1 </a>
-
 
 ## 2020
 
+S S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. Summary of the Cooking Activity Recognition Challenge. *Human Activity Recognition Challenge Book*. 2020. <a href="https://doi.org/10.1007/978-981-15-8269-1_1" target="_blank"> https://doi.org/10.1007/978-981-15-8269-1_1 </a>
 
 
 ## 2019
 
-
+**B Benaissa**, K Yoshida, M Köppen, F Hendrichovsky. Updatable indoor localization based on BLE signal fingerprint. *2018 International Conference on Applied Smart Systems*. 2019. <a href="https://doi.org/10.1109/ICASS.2018.8652035" target="_blank"> https://doi.org/10.1109/ICASS.2018.8652035 </a>
 
 
 ## 2018
