@@ -11,14 +11,14 @@ Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=
 
 ## 2022
 
-S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M .Abdel Wahab. Damage Identification in Frame Structure Based on Inverse Analysis. *Proceedings of the 2nd International Conference on Structural Damage Modelling and Assessment*. 2022. <a href="https://doi.org/10.1007/978-981-16-7216-3_15" target="_blank"> https://doi.org/10.1007/978-981-16-7216-3_15 </a>
+S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M Abdel Wahab. Damage Identification in Frame Structure Based on Inverse Analysis. *Proceedings of the 2nd International Conference on Structural Damage Modelling and Assessment*. 2022. <a href="https://doi.org/10.1007/978-981-16-7216-3_15" target="_blank"> https://doi.org/10.1007/978-981-16-7216-3_15 </a>
 
-A Behtani, S Tiachacht, T Khatir, S Khatir, M A Wahab, **B Benaissa**. Residual Force Method for damage identification in a laminated composite plate with different boundary conditions. *Frattura ed Integrità Strutturale*. 2022. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank"> PDF Paper </a>. 
+F Althobiani, S Khatir, **B Benaissa**, E Ghandourah, S Mirjalili, M Abdel Wahab. A hybrid PSO and Grey Wolf optimization algorithm for static and dynamic Crack identification. *Theoretical and Applied Fracture Mechanics*. 2022. <a href="https://doi.org/10.1016/j.tafmec.2021.103213" target="_blank"> https://doi.org/10.1016/j.tafmec.2021.103213 </a>
 
 
 ## 2021
 
-**Quintero L**, Papapetrou P,  Hollmén J, Fors U. Effective Classification of Head Motion Trajectories in Virtual Reality using Time-Series Methods. *4th International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, Taichung, Taiwan (virtual). 2021. <https://doi.org/10.1109/AIVR52153.2021.00015>
+A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. Residual Force Method for damage identification in a laminated composite plate with different boundary conditions. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank"> Download PDF </a>.
 
 **Quintero L**, Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality. *2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bari, Italy (virtual). 2021. <https://doi.org/10.1109/ISMAR52148.2021.00052>
 
