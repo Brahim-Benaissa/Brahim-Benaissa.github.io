@@ -68,11 +68,11 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic algorithm based o
 
 ## 2021
 
-DBelanova, K Yoshida, B Benaissa. VA spatial image correction system. Patent number: 2019173523, Application number: 2021051512, Publication date: 2021/4/1, Patent office: JP. <a href="https://astamuse.com/ja/published/JP/No/2021051512" target="_blank"> Patent </a>.
+D Belanova, K Yoshida, **B Benaissa**. VA spatial image correction system. Patent number: 2019173523, Application number: 2021051512, Publication date: 2021/4/1, Patent office: JP. <a href="https://astamuse.com/ja/published/JP/No/2021051512" target="_blank"> Patent </a>.
 
 ## 2020
 
-**B Benaissa**, K Yoshida, F Hendrichovsky. Indoor positioning method and application, Patent number: 2020085715, Application number: 2018222171, Publication date: 2020/6/4, Patent office: JP. <a href="https://astamuse.com/ja/published/JP/No/2020085715" target="_blank"> Patent </a>.
+**B Benaissa**, F Hendrichovsky, K Yoshida. Indoor positioning method and application, Patent number: 2020085715, Application number: 2018222171, Publication date: 2020/6/4, Patent office: JP. <a href="https://astamuse.com/ja/published/JP/No/2020085715" target="_blank"> Patent </a>.
 
 ## 2019
 
