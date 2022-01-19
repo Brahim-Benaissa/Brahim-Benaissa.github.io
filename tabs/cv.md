@@ -15,6 +15,8 @@ toc: true
 Research area in the intersection of machine learning and immersive technologies.
 The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.<br>
 
+---
+
 ## Startup Founder
 (June 2019 - January 2021) | **Management** | **Design** | **Code**
 
