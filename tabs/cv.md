@@ -34,16 +34,17 @@ Design, and development of a multimodal systems for mental health interventions.
 
 ---
 
+## PhD. Computational Mechanics
+(January 2012 - July 2016 ) | **Boumerdes University, Algeria**
+
+Research area is the intersection between machine learning and immersive technologies.
+---
+
 ## Visiting Research
 (September 2014 - December 2014) | **INSA centre val de loire Blois, France** | **Laboratory of Mechanical Engineering and Rheology**
 
 Design, and development of a multimodal systems for mental health interventions. Using devices like HTC-Vive, KinectV2, and wearable sensor Zephyr. Programming Windows apps using C#, and Unity. *Side projects:* 3D-calibration tool for low-cost CAVE systems and visual scripting toolbox for physiologically adaptive systems.
 
----
-## PhD. Computational Mechanics
-(January 2012 - July 2016 ) | **Boumerdes University, Algeria**
-
-Research area is the intersection between machine learning and immersive technologies.
 ---
 ## MSc. Conceptual design in mechanics
 (September 2009 - July 2011 ) | **Medea University, Algeria**
@@ -54,7 +55,6 @@ Design, implementation and management of projects related to digital health tech
 (September 2006 - July 2009 ) | **Medea University, Algeria**
 
 Courses on signal processing, computer vision, control theory, telecommunication systems. <br>
-GPA: 4.4/5.0 - Best 10% among graduated students.
 
 ---
 
