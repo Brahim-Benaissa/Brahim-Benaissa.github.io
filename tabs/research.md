@@ -4,7 +4,7 @@ title: Research
 toc: true
 ---
 
-# 📑 Publications
+# 📰 Publications
 
 Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a>
 
