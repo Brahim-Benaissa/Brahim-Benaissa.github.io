@@ -37,9 +37,9 @@ S S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. 
 
 ## 2018
 
-S Khatir, M A Wahab, **B Benaissa**, M Köppen. Crack identification using eXtended IsoGeometric analysis and particle swarm optimization. *The 7th International Conference on Fracture Fatigue and Wear*. 2018. <a href="https://doi.org/10.1007/978-981-13-0411-8_21" target="_blank"> https://doi.org/10.1007/978-981-13-0411-8_21 </a> 
+S Khatir, M A Wahab, **B Benaissa**, M Köppen. Crack identification using eXtended IsoGeometric analysis and particle swarm optimization. *The 7th International Conference on Fracture Fatigue and Wear*. 2018. <a href="https://doi.org/10.1007/978-981-13-0411-8_21" target="_blank"> https://doi.org/10.1007/978-981-13-0411-8_21 </a>
 
-
+S Khatir, **B Benaissa**, R Capozucca, M Abdel Wahab. Damage detection in CFRP composite beams based on vibration analysis using proper orthogonal decomposition method with radial basis functions and cuckoo search algorithm. *Composite Structures*. 2018. <a href="https://doi.org/10.1016/j.compstruct.2017.12.058" target="_blank"> https://doi.org/10.1016/j.compstruct.2017.12.058 </a> 
 ---
 
 # 📝 Teaching
