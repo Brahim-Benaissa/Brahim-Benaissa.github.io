@@ -6,7 +6,15 @@ toc: true
 
 # 📑 Publications
 
-Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a> 
+Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a>
+
+
+## 2021
+
+S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M .Abdel Wahab Damage Identification in Frame Structure Based on Inverse Analysis. *Proceedings of the 2nd International Conference on Structural Damage Modelling and Assessment*. 2022. <a href="https://link.springer.com/chapter/10.1007/978-981-16-7216-3_15" target="_blank"> https://doi.org/10.1007/978-981-16-7216-3_15 </a>
+
+**Quintero L**, Papapetrou P,  Hollmén J, Fors U. Effective Classification of Head Motion Trajectories in Virtual Reality using Time-Series Methods. *4th International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, Taichung, Taiwan (virtual). 2021. <https://doi.org/10.1109/AIVR52153.2021.00015> </a>
+
 
 ## 2021
 
