@@ -1,0 +1,122 @@
+---
+layout: page
+# The Home page layout
+---
+
+<div class="d-flex justify-content-center">
+<h1 class="dynamic-title">
+  {{site.title}}
+</h1>
+</div>
+
+<hr>
+
+<div class="row justify-content-center">
+  <div class="col-4 col-lg-3 col-xl-3">
+    <!-- <div id="avatar" class="d-flex align-content-center"> -->
+      <img style="width:100%; border-radius: 50%" src="{{site.baseurl}}/assets/img/profile.jpg">
+    <!-- </div> -->
+  </div> <!-- #page -->
+  <div class="col-10 col-lg-7 col-xl-7">
+    <p align="justify">
+      Doctoral researcher exploring behavioral user modeling with machine learning <b>(ML)</b> and adaptive virtual reality <b>(VR)</b> enviroments
+      in the <i><a target="_blank" href="https://datascience.dsv.su.se/">Data Science Group</a>, <a target="_blank" href="https://www.su.se/profiles/luva3178">Stockholm University</a>.</i>
+      <br><br>
+      Interested in applications combining ML and VR for healthcare, professional training, and education.
+
+      Most of my work refers to real-time analysis of physiological signals, motion trajectories,
+      and gameplay interactions to classify subjective user characteristics like skill level,
+      emotional states, or mental workload. <br>
+    </p>
+  </div> <!-- #page -->
+</div><!-- .col-12 -->
+
+<div class="d-flex justify-content-center">
+  <ul class="list-inline list-social-icons mb-12">
+    <li class="list-inline-item">
+      {% assign email = site.social.email | split: '@' %}
+      <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a target="_blank" rel="noopener noreferrer" href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-google fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/profile/Brahim-Benaissa">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0000-0002-9472-9331">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<br>
+<div class="d-flex justify-content-center">
+  🌎 Nagoya, Japan
+</div>
+
+
+
+<hr>
+<br>
+
+<h1 class="d-flex justify-content-center">
+  Blog Notes
+</h1>
+
+<div id="post-list">
+  {% for post in paginator.posts %}
+  <div class="post-preview">
+    <h1>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h1>
+    <div class="post-content">
+      <p>
+      {% assign _content = post.content %}
+      {% include no-linenos.html %}
+      {{ _content | markdownify | strip_html | truncate: 200 }}
+      </p>
+    </div>
+
+    <div class="post-meta text-muted">
+      <!-- posted date -->
+      <i class="far fa-clock fa-fw"></i>
+      <span class="timeago" data-toggle="tooltip" data-placement="bottom"
+        title="{{ post.date | date: site.data.date_format.tooltip }}">
+      {{ post.date | date: site.data.date_format.post }}
+      <i class="unloaded">{{ post.date | date_to_xmlschema }}</i>
+      </span>
+      <!-- page views -->
+      {% if site.google_analytics.pv.enabled %}
+      <i class="far fa-eye fa-fw"></i>
+      <span id="pv_{{-post.title-}}" class="pageviews">
+        <i class="fas fa-spinner fa-spin fa-fw"></i>
+      </span>
+      {% endif %}
+    </div>
+  </div> <!-- .post-review -->
+  {% endfor %}
+</div> <!-- #post-list -->
+
+{% if paginator.total_pages > 0 %}
+  {% include post-paginator.html %}
+{% endif %}
