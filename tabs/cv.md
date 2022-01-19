@@ -18,7 +18,7 @@ The aim of the project is to gain understanding on how behavioral data (physiolo
 ---
 
 ## Startup Founder
-(June 2019 - June 2021) | **Management** | **Design** | **Code**
+(June 2019 - June 2021) | **Entrepreneurship** | **Web** | 
 
 Eyenbros.com: IT company with a web platform product for community interaction and project
 collaboration.  
