@@ -18,11 +18,11 @@ F Althobiani, S Khatir, **B Benaissa**, E Ghandourah, S Mirjalili, M Abdel Wahab
 
 ## 2021
 
-A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. Residual Force Method for damage identification in a laminated composite plate with different boundary conditions. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank"> (Download PDF) </a>.
+A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. Residual Force Method for damage identification in a laminated composite plate with different boundary conditions. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank"> (Download PDF) </a>
 
-**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a> <a href="{{ site.baseurl }}{% link /assets/files/YUKI Algorithm 2021.pdf %}" target="_blank"> (Download Preprint PDF) </a>.
+**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a> <a href="{{ site.baseurl }}{% link /assets/files/YUKI Algorithm 2021.pdf %}" target="_blank"> (Download Preprint PDF) </a>
 
-S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. Damage identification in steel plate using FRF and inverse analysis. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a> <a href="	https://www.fracturae.com/index.php/fis/article/download/3235/3370/17171 " target="_blank"> (Download PDF) </a>.
+S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. Damage identification in steel plate using FRF and inverse analysis. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a> <a href="	https://www.fracturae.com/index.php/fis/article/download/3235/3370/17171 " target="_blank"> (Download PDF) </a>
 
 
 ## 2020
@@ -39,7 +39,22 @@ S S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. 
 
 S Khatir, M A Wahab, **B Benaissa**, M Köppen. Crack identification using eXtended IsoGeometric analysis and particle swarm optimization. *The 7th International Conference on Fracture Fatigue and Wear*. 2018. <a href="https://doi.org/10.1007/978-981-13-0411-8_21" target="_blank"> https://doi.org/10.1007/978-981-13-0411-8_21 </a>
 
-S Khatir, **B Benaissa**, R Capozucca, M Abdel Wahab. Damage detection in CFRP composite beams based on vibration analysis using proper orthogonal decomposition method with radial basis functions and cuckoo search algorithm. *Composite Structures*. 2018. <a href="https://doi.org/10.1016/j.compstruct.2017.12.058" target="_blank"> https://doi.org/10.1016/j.compstruct.2017.12.058 </a> 
+S Khatir, **B Benaissa**, R Capozucca, M Abdel Wahab. Damage detection in CFRP composite beams based on vibration analysis using proper orthogonal decomposition method with radial basis functions and cuckoo search algorithm. *Composite Structures*. 2018. <a href="https://doi.org/10.1016/j.compstruct.2017.12.058" target="_blank"> https://doi.org/10.1016/j.compstruct.2017.12.058 </a>
+
+**B Benaissa**, F Hendrichovsky, K Yishida, M Koppen, P Sincak. Phone application for indoor localization based on Ble signal fingerprint. *9th IFIP International Conference on New Technologies, Mobility and Security*. 2018. <a href="https://doi.org/10.1109/NTMS.2018.8328729" target="_blank"> https://doi.org/10.1109/NTMS.2018.8328729 </a>
+
+W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need No Parameters?. *The 10th International Joint Conference on Computational Intelligence*. 2018. <a href="https://doi.org/10.5220/0006960702640268 " target="_blank"> https://doi.org/10.5220/0006960702640268  </a>
+
+## 2017
+
+**B Benaissa**, I Belaidi, A Hamrani. Identifying defect size in two dimensional plates based on boundary measurements using reduced model and genetic algorithm. *Journal of Sciences & Technology*. 2017.
+
+**B Benaissa**, M Köppen, M Abdel Wahab, S Khatir. Application of proper orthogonal decomposition and radial basis functions for crack size estimation using particle swarm optimization. *Journal of Physics: Conference Series*. 2017. <a href="https://doi.org/10.1088/1742-6596/842/1/012014  " target="_blank"> https://doi.org/10.1088/1742-6596/842/1/012014</a> 
+
+
+## 2016
+
+
 ---
 
 # 📝 Teaching
