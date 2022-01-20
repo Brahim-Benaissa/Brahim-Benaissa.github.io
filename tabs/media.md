@@ -4,10 +4,6 @@ title: Activities
 toc: true
 ---
 
-
-
----
-
 # 👨‍🏫 Teaching
 
 ## Data Science
@@ -41,7 +37,7 @@ toc: true
 
 -->
 
-# 🎦 Teaching
+# 🎦 Online
 
 📡 **Podcasts, interviews, presentations, and other media.**
 
