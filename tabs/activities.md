@@ -46,5 +46,34 @@ toc: true
 | *2021-09-24* 🎤 **Panel GAME-ON 2021** <br> Participant in the discussion panel "*The Use of Digital Games and AI for Health and Wellbeing*", held in the [EUROSIS GAME-ON Conference 2021](https://eurosis.org/conf/gameon/2021/index.html). | ![GAMEON21]({{site.baseurl}}/assets/img/media/202109panelgames4health.jpg){:width="100%"} 🔗 *No link available* |
 | *2020-10-26* 🔊 **Podcast Interview: Combining ML with VR**  <br> Interviewed by the [Immersive Learning Network](https://immersivelrn.org/). Here, I discuss with Patrick O'Shea about the methodological aspects of combining ML and VR in research projects. The talk is based on one of [my papers](https://doi.org/10.1145/3389189.3394093). | 🔗 [**Link to the podcast**](https://www.podomatic.com/podcasts/versatilist/episodes/2020-10-25T19_04_00-07_00){:target="_blank"}|
 
+---
+
+# 🎤 Talks
+
+
+
+
+---
+
+# 💾 Datasets
+
+
+
+
+
+---
+
+# ✋ Roles
+
+
+
+
+---
 
 # 💡 Collaboration
+
+
+
+
+
+---
