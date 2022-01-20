@@ -33,7 +33,7 @@
 #   path: tabs
 #   url: tags
 -
-  name: Media
+  name: Activities
   icon: "fas fa-seedling"
   path: tabs
   url: media
