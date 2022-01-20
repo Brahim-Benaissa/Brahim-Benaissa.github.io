@@ -24,12 +24,6 @@
   path: tabs
   url: research
 
--
-  name: Activities
-  icon: "fas fa-graduation-cap"
-  path: tabs
-  url: activities
-
 # -
 #   name: Categories
 #   icon: "fas fa-stream"
