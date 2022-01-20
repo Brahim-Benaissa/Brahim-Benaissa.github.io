@@ -4,7 +4,7 @@ title: Projects
 toc: true
 ---
 
-#Latest Projects
+# Latest Projects
 
 ## ExciteOMeter *(Research Project)*
 |<a href="{{site.baseurl}}/projects/ExciteOMeter"><img src="{{site.baseurl}}/assets/img/portfolio/EoM.jpg" width="90%"> </a> |
