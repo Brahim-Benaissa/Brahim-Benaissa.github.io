@@ -5,6 +5,7 @@ toc: true
 ---
 
 #Latest Projects
+
 ## ExciteOMeter *(Research Project)*
 |<a href="{{site.baseurl}}/projects/ExciteOMeter"><img src="{{site.baseurl}}/assets/img/portfolio/EoM.jpg" width="90%"> </a> |
 ## BioPhyS *(Research Project)*
@@ -20,15 +21,27 @@ toc: true
 
 # 2017-2018
 
-| BL Engine & CAVE *(Research Project)* <br> <a href="{{site.baseurl}}/projects/BLEngine"><img src="{{site.baseurl}}/assets/img/portfolio/Unity3D.png" width="100%"> </a> |
- 3Dream *(Research Paper)* <br> <a href="{{site.baseurl}}/projects/3Dream"><img src="{{site.baseurl}}/assets/img/portfolio/3Dream.png" width="100%"> </a> |
- ArmRehabVR *(Project)* <br> <a href="{{site.baseurl}}/projects/ArmRehabVR"><img src="{{site.baseurl}}/assets/img/portfolio/ArmRehabVR.jpg" width="100%"> </a>
+## BL Engine & CAVE *(Research Project)*
+| <a href="{{site.baseurl}}/projects/BLEngine"><img src="{{site.baseurl}}/assets/img/portfolio/Unity3D.png" width="100%"> </a> |
+
+## 3Dream *(Research Paper)*  
+| <a href="{{site.baseurl}}/projects/3Dream"><img src="{{site.baseurl}}/assets/img/portfolio/3Dream.png" width="100%"> </a> |
+
+## ArmRehabVR *(Project)*
+| <a href="{{site.baseurl}}/projects/ArmRehabVR"><img src="{{site.baseurl}}/assets/img/portfolio/ArmRehabVR.jpg" width="100%"> </a>
 
 # 2015-2016
 
-|ViLimbs *(Research Project)* <br> <a href="{{site.baseurl}}/projects/ViLimbs"><img src="{{site.baseurl}}/assets/img/portfolio/ViLimbs.png" width="100%"> </a> |
-Quality Control *(Computer Vision)* <br> <a href="{{site.baseurl}}/projects/QualityControl"><img src="{{site.baseurl}}/assets/img/portfolio/QualityControl.png" width="100%"> </a>|
-Display Cluster *(HCI)* <br> <a href="{{site.baseurl}}/projects/DisplayCluster"><img src="{{site.baseurl}}/assets/img/portfolio/DisplayCluster.jpg" width="100%"> </a> |
-Know Yourself *(Teaching)* <br> <a href="{{site.baseurl}}/projects/KnowYourself"><img src="{{site.baseurl}}/assets/img/portfolio/Conocete.png" width="100%"> </a>
+## ViLimbs *(Research Project)*
+| <a href="{{site.baseurl}}/projects/ViLimbs"><img src="{{site.baseurl}}/assets/img/portfolio/ViLimbs.png" width="100%"> </a> |
+
+## Quality Control *(Computer Vision)*
+| <a href="{{site.baseurl}}/projects/QualityControl"><img src="{{site.baseurl}}/assets/img/portfolio/QualityControl.png" width="100%"> </a>|
+
+## Display Cluster *(HCI)*
+| <a href="{{site.baseurl}}/projects/DisplayCluster"><img src="{{site.baseurl}}/assets/img/portfolio/DisplayCluster.jpg" width="100%"> </a> |
+
+## Know Yourself *(Teaching)*
+| <a href="{{site.baseurl}}/projects/KnowYourself"><img src="{{site.baseurl}}/assets/img/portfolio/Conocete.png" width="100%"> </a>
 
 ---
