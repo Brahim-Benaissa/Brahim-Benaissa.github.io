@@ -14,7 +14,7 @@
   url: cv
 -
   name: Research
-  icon: "fas fa-seedling"
+  icon: "fas fa-graduation-cap"
   path: tabs
   url: research
 -
@@ -34,7 +34,7 @@
 #   url: tags
 -
   name: Media
-  icon: "fas fa-headphones"
+  icon: "fas fa-seedling"
   path: tabs
   url: media
 -
