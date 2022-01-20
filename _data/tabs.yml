@@ -15,16 +15,17 @@
   url: cv
 
 -
-  name: Research
-  icon: "fas fa-graduation-cap"
-  path: tabs
-  url: research
-
--
   name: Projects
   icon: "fas fa-briefcase"
   path: tabs
   url: projects
+
+  -
+    name: Research
+    icon: "fas fa-graduation-cap"
+    path: tabs
+    url: research
+    
 # -
 #   name: Categories
 #   icon: "fas fa-stream"
