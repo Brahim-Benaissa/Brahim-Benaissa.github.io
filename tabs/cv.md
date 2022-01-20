@@ -58,7 +58,7 @@ Courses on signal processing, computer vision, control theory, telecommunication
 
 ---
 
-# 🏆 Awards & Highlights
+# 🏵️ Awards & Highlights
 
 - Awarded Grants for studies:
     - Master's Degree (2017), awarded by [Swedish Institute](https://eng.si.se/scholarship/the-swedish-institute-study-scholarships/)
