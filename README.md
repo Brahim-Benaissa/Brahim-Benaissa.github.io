@@ -33,4 +33,4 @@
 
 ## License
 1. The software is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
-2. Except where otherwise noted, the blog posts on this site are licensed under the Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) License by the author.
+2. Except where otherwise noted, the content on this site is licensed under the Creative Commons Attribution 4.0 International [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) License by the author.
