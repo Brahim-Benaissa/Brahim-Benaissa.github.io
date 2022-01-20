@@ -3,7 +3,7 @@
 [https://brahim-benaissa.github.io/](https://brahim-benaissa.github.io/)
 
 
-## You Like this webpage design?
+## How to adopt this website?
 
 1. Create a GitHub repository named "USERNAME.github.io" (USERNAME being your GitHub username).
 
