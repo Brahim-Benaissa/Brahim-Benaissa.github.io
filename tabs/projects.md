@@ -17,7 +17,7 @@ toc: true
 ---
 
 ## PortalSense *(Entrepreneurship)*
-<a href="{{site.baseurl}}/projects/PortalSense"><img src="{{site.baseurl}}/assets/img/portfolio/PortalSense.jpg" width="100%"> </a> |
+<a href="{{site.baseurl}}/projects/PortalSense"><img src="{{site.baseurl}}/assets/img/portfolio/PortalSense.jpg" width="100%"> </a> 
 
 ---
 
