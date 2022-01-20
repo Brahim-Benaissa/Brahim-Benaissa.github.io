@@ -15,12 +15,12 @@
   url: cv
 -
   name: Projects
-  icon: "fas fa-briefcase"
+  icon: "fas fa-hammer"
   path: tabs
   url: projects
 -
   name: Research
-  icon: "fas fa-graduation-cap"
+  icon: "fas fa-seedling"
   path: tabs
   url: research
 
@@ -43,4 +43,4 @@
   name: Blog
   path: tabs
   url: archives
-  icon: "fas fa-archive"
+  icon: "fas fa-edit"
