@@ -29,8 +29,6 @@ toc: true
 
 
 ## 2021
-
-
 - Student, *Thesis title*, MSc.,  Year, University.
 
 ---
@@ -48,9 +46,8 @@ toc: true
 
 ---
 
+<!--
 # 🎤 Talks
-
-
 
 
 ---
@@ -59,13 +56,19 @@ toc: true
 
 
 
-
-
 ---
+
+-->
 
 # ✋ Roles
 
+## Conferences
 
+- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
+- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
+- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
+- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
+- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
 
 
 ---
