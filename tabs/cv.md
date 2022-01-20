@@ -62,7 +62,7 @@ Courses on signal processing, computer vision, control theory, telecommunication
 
 - Awarded Grants for studies:
     - Associate researcher contract (2017), by Kyushu Institute of technology, Japan.  
-    - Visiting researcher grant (2014), by Ministry of Higher Education and Scientific Research.
-    - PhD studies grant (2012), awarded by Ministry of Higher Education and Scientific Research.
+    - Visiting researcher grant (2014), by the Algerian Ministry of Higher Education and Scientific Research.
+    - PhD studies scholarship (2012), by the Algerian Ministry of Higher Education and Scientific Research.
 - Top graduated students award (2011), by department of mechanical engineering  - Medea University.
 - Top undergraduate students award (2009), by department of mechanical engineering  - Medea University.
