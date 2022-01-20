@@ -4,7 +4,6 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
-
 -
   name: Home
   icon: "fas fa-home"
@@ -14,16 +13,15 @@
   path: tabs
   url: cv
 -
-  name: Projects
-  icon: "fas fa-hammer"
-  path: tabs
-  url: projects
--
   name: Research
   icon: "fas fa-seedling"
   path: tabs
   url: research
-
+-
+  name: Projects
+  icon: "fas fa-hammer"
+  path: tabs
+  url: projects
 # -
 #   name: Categories
 #   icon: "fas fa-stream"
