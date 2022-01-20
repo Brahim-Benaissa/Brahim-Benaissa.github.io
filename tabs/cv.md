@@ -18,7 +18,7 @@ The aim of the project is to gain understanding on how behavioral data (physiolo
 ---
 
 ## Startup Founder
-(June 2019 - June 2021) | **Entrepreneurship** | **Web** 
+(June 2019 - June 2021) | **Entrepreneurship** | **Web**
 
 Eyenbros.com: IT company with a web platform product for community interaction and project
 collaboration.  
@@ -61,10 +61,8 @@ Courses on signal processing, computer vision, control theory, telecommunication
 # 🏵️ Awards & Highlights
 
 - Awarded Grants for studies:
-    - Master's Degree (2017), awarded by [Swedish Institute](https://eng.si.se/scholarship/the-swedish-institute-study-scholarships/)
-    - Bachelor's Degree (2013), awarded by Colombian private institution.
-    - Technical Degree in Computer Systems (2009), awarded by Colombian private company.
-- 10+ Certifications in MOOCs
-- Best 10% GPA among graduated students - National University 2015
-- Best design and programming of robot - VEX Robotics Competition 2012
-- Best academic performance among graduated students - High School 2009
+    - Associate researcher contract (2017), by Kyushu Institute of technology, Japan.  
+    - Visiting researcher grant (2014), by Ministry of Higher Education and Scientific Research, Algeria.
+    - PhD studies grant (2012), awarded by Ministry of Higher Education and Scientific Research, Algeria.  
+- Top graduated students award (2011), by department of mechanical engineering  - Medea University.
+- Top undergraduate students award (2009), by department of mechanical engineering  - Medea University.
