@@ -77,39 +77,3 @@ D Belanova, K Yoshida, **B Benaissa**. VA spatial image correction system. Paten
 ## 2019
 
 **B Benaissa**, K Yoshida, F Hendrichovsky. Indoor positioning method and application, Patent number: 2019144120, Application number: 2018028688, Publication date: 2019/8/29, Patent office: JP. <a href="https://astamuse.com/ja/published/JP/No/2019144120" target="_blank"> Patent </a>.   
-
-
----
-
-# 👨‍🏫 Teaching
-
-## Data Science
-
-- (2020-2022)*Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
-- (2020-2022) *Lab: Introduction to Data Mining with Python*, Teaching Assistant, Mar-May, 75h. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
-
-## Virtual Reality
-
-- (2020-2022) *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
-
-## Other lectures
-
-- (2016) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
-- (2016) *Application development with Unity*, Course Leader, Feb-Jun. For students of vocational training in Visual Design, **Unitécnica Manizales, Colombia**.
-- (2016) *Introduction to databases*, Course Leader, Feb-Jun. For students of vocational training in Computer Science. **Unitécnica Manizales, Colombia**.
-
-
----
-
-<!--
-# 📜 Thesis Supervision
-
-
-## 2021
-
-
-- Student, *Thesis title*, MSc.,  Year, University.
-
----
-
--->

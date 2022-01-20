@@ -1,8 +1,47 @@
 ---
 layout: page
-title: Media
+title: Activities
 toc: true
 ---
+
+
+
+---
+
+# 👨‍🏫 Teaching
+
+## Data Science
+
+- (2020-2022)*Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
+- (2020-2022) *Lab: Introduction to Data Mining with Python*, Teaching Assistant, Mar-May, 75h. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
+
+## Virtual Reality
+
+- (2020-2022) *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
+
+## Other lectures
+
+- (2016) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
+- (2016) *Application development with Unity*, Course Leader, Feb-Jun. For students of vocational training in Visual Design, **Unitécnica Manizales, Colombia**.
+- (2016) *Introduction to databases*, Course Leader, Feb-Jun. For students of vocational training in Computer Science. **Unitécnica Manizales, Colombia**.
+
+
+---
+
+<!--
+# 📜 Thesis Supervision
+
+
+## 2021
+
+
+- Student, *Thesis title*, MSc.,  Year, University.
+
+---
+
+-->
+
+# 🎦 Teaching
 
 📡 **Podcasts, interviews, presentations, and other media.**
 
