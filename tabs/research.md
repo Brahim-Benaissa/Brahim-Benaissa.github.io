@@ -11,6 +11,10 @@ Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=
 
 ## 2022
 
+
+M As, H Shimizu, **B Benaissa**, K Yoshida, M Köppen. Calibration Cost Reduction of Indoor Localization Using Bluetooth Low Energy Beacon. *Journal of Advanced Computational Intelligence and Intelligent Informatics*. 2022. <a href="https://doi.org/10.20965/jaciii.2022.p0097" target="_blank"> https://doi.org/10.20965/jaciii.2022.p0097 </a>
+
+
 S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M Abdel Wahab. Damage Identification in Frame Structure Based on Inverse Analysis. *The 2nd International Conference on Structural Damage Modelling and Assessment*. 2022. <a href="https://doi.org/10.1007/978-981-16-7216-3_15" target="_blank"> https://doi.org/10.1007/978-981-16-7216-3_15 </a>
 
 F Althobiani, S Khatir, **B Benaissa**, E Ghandourah, S Mirjalili, M Abdel Wahab. A hybrid PSO and Grey Wolf optimization algorithm for static and dynamic Crack identification. *Theoretical and Applied Fracture Mechanics*. 2022. <a href="https://doi.org/10.1016/j.tafmec.2021.103213" target="_blank"> https://doi.org/10.1016/j.tafmec.2021.103213 </a>
