@@ -51,7 +51,7 @@ W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need N
 
 ## 2017
 
-**B Benaissa**, I Belaidi, A Hamrani. Identifying defect size in two dimensional plates based on boundary measurements using reduced model and genetic algorithm. *Journal of Sciences & Technology*. 2017.
+**B Benaissa**, I Belaidi, A Hamrani. Identifying defect size in two dimensional plates based on boundary measurements using reduced model and genetic algorithm. *Journal of Sciences & Technology*. 2017. <a href="http://revue.umc.edu.dz/index.php/st/article/view/3092" target="_blank"> http://revue.umc.edu.dz/index.php/st/article/view/3092</a>
 
 **B Benaissa**, M Köppen, M Abdel Wahab, S Khatir. Application of proper orthogonal decomposition and radial basis functions for crack size estimation using particle swarm optimization. *Journal of Physics: Conference Series*. 2017. <a href="https://doi.org/10.1088/1742-6596/842/1/012014  " target="_blank"> https://doi.org/10.1088/1742-6596/842/1/012014</a>
 
