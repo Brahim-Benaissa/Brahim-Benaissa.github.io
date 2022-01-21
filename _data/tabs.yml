@@ -41,7 +41,7 @@
   url: projects
 
 -
-  name: Blog
+  name: Posts
   path: tabs
   url: archives
   icon: "fas fa-edit"
