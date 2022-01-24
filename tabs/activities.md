@@ -77,19 +77,16 @@ toc: true
 
 - **Managing Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2021</a> International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2021. Università Politecnica delle Marche Ancona, Italy.
 
+- **Scientific committee**: <a href="https://ieeexplore.ieee.org/xpl/conhome/9378700/proceeding" target="_blank"> IHSH'2020</a>  The 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being.  9-10 February 2021. University M’hamed Bougara of Boumerdes, Algeria.
+
 - **Publicity Chair**: <a href="https://abc-research.github.io/2020/" target="_blank"> ABC 2020</a> International Conference on Activity and Behavior Computing. 26-29 August 2020. Fukuoka, Japan. <a href="https://link.springer.com/book/10.1007/978-981-15-8269-1" target="_blank"> https://link.springer.com/book/10.1007/978-981-15-8269-1</a>
 
 - **Program committee**: <a href="https://eexposit.perso.univ-pau.fr/wetice/" target="_blank"> WETICE 2018</a> 27th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises. 27-29 June 2018. Paris, France. <a href="https://ieeexplore.ieee.org/document/8495654" target="_blank"> https://ieeexplore.ieee.org/document/8495654</a>
 
 - **Managing Chair**: <a href="http://www.olab-dynamics.net/wetice2018/softnet.html" target="_blank"> SOFTNET 2018</a> Soft Computing Methods for the Design, Deployment, and Reliability of Networks and Network Applications. 27-29 June 2018. Paris, France.
 
----
+- **Scientific committee**: <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan
 
-## Conference scientific committee member
-
-- <a href="https://ieeexplore.ieee.org/xpl/conhome/9378700/proceeding" target="_blank"> IHSH'2020</a>  The 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being.  9-10 February 2021. University M’hamed Bougara of Boumerdes, Algeria.
-
-- <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan
 
 ---
 
