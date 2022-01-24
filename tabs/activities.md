@@ -69,13 +69,15 @@ toc: true
 - <a href="https://www.fracturae.com/index.php/fis/about" target="_blank"> Frattura ed Integrità Strutturale (Fracture and Structural Integrity)</a> (ISSN 1971-8993)
 
 ---
-## Conference organization
+## Conference organization committee member
 
-- <a href="https://icsces.org/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
+- **Publicity Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
 
-- <a href="https://shmes.org/" target="_blank"> SHM&ES 2021</a> 2nd International Conference on Structural Health Monitoring and Engineering Structures. 13 - 14 December 2021. University of Transport and Communications, Hanoi, Vietnam.
+- **Publicity Chair**:<a href="https://shmes.org/" target="_blank"> SHM&ES 2021</a> 2nd International Conference on Structural Health Monitoring and Engineering Structures. 13 - 14 December 2021. University of Transport and Communications, Hanoi, Vietnam.
 
-- <a href="https://icsces.org/" target="_blank"> ICSCES 2021</a> International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2021. Università Politecnica delle Marche Ancona, Italy.
+- **Publicity Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2021</a> International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2021. Università Politecnica delle Marche Ancona, Italy.
+
+- **Publicity Chair**: <a href="https://link.springer.com/book/10.1007/978-981-15-8269-1" target="_blank"> ICSCES 2021</a> International Conference on Activity and Behavior Computing. 26-29 August 2020. Fukuoka, Japan.
 
 ---
 
