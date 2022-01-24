@@ -87,7 +87,6 @@ toc: true
 
 - **Scientific committee**: <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan
 
-
 ---
 
 ## Conference presentation and talks
@@ -95,6 +94,10 @@ toc: true
 - Updatable indoor localization based on BLE signal fingerprint. <a href="https://ieeexplore.ieee.org/xpl/conhome/8642804/proceeding" target="_blank"> ICASS 2018 </a>  International Conference on Applied Smart Systems. 24-25 November 2018. Medea, **Algeria**.
 
 - Phone application for indoor localization based on BLE signal fingerprint. <a href="https://dblp.org/db/conf/ntms/ntms2018.html" target="_blank"> NTMS 2018 </a> 9th IFIP International Conference on New Technologies, Mobility and Security. 28 February 2018. Paris, **France**.  
+
+- Application of proper orthogonal decomposition and radial basis functions for crack size estimation using particle swarm optimization. <a href="https://iopscience.iop.org/issue/1742-6596/842/1l" target="_blank"> NTMS 2018 </a> 12th International Conference on Damage Assessment of Structures. 10–12 July 2017, Kitakyushu, **Japan**.
+
+- Activity Recognition. Joint Seminar Organized by Waseda University and City University of Hong Kong.  17 May 2017. Fukuoka, **Japan**.  
 
 - Activity and Emotion Recognition for Elderly Health Monitoring. <a href="https://www.isase-ke.org/conference/isase2017" target="_blank"> ISASE 2017</a> International Symposium on Affective Science and Engineering.  20–21 March 2017. Tokyo, **Japan**.  
 
