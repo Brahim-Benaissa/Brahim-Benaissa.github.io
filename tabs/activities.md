@@ -62,7 +62,7 @@ toc: true
 
 # ✋ Roles
 
-## Conferences
+## Conference scientific committee member
 
 - (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
 - (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
@@ -72,6 +72,22 @@ toc: true
 
 
 ---
+
+## Conference organization
+
+
+
+---
+
+## Reviewer
+
+- <a href="https://www.springer.com/journal/10915" target="_blank"> Journal of Scientific Computing</a> (ISSN 1573-7691)
+
+- <a href="https://www.fracturae.com/index.php/fis/about" target="_blank"> Frattura ed Integrità Strutturale (Fracture and Structural Integrity)</a> (ISSN 1971-8993)
+
+---
+
+## Reviewer
 
 # 💡 Collaboration
 
