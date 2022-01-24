@@ -89,7 +89,7 @@ toc: true
 
 ---
 
-## Conference presentation and talks
+## Conference presentations
 
 - Updatable indoor localization based on BLE signal fingerprint. <a href="https://ieeexplore.ieee.org/xpl/conhome/8642804/proceeding" target="_blank"> ICASS 2018 </a>  International Conference on Applied Smart Systems. 24-25 November 2018. Medea, **Algeria**.
 
