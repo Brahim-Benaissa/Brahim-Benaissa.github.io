@@ -85,7 +85,7 @@ toc: true
 
 - **Managing Chair**: <a href="http://www.olab-dynamics.net/wetice2018/softnet.html" target="_blank"> SOFTNET 2018</a> Soft Computing Methods for the Design, Deployment, and Reliability of Networks and Network Applications. 27-29 June 2018. Paris, France.
 
-- **Scientific committee**: <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan
+- **Scientific committee**: <a href="https://mobicase.eai-conferences.org/2021/" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan. <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> https://link.springer.com/book/10.1007/978-3-319-90740-6</a> 
 
 ---
 
