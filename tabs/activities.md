@@ -114,12 +114,3 @@ toc: true
 - The influence of the position and number of deformation sensors on the identification of cracks using dual boundary element method. <a href="https://cam-dz.org/" target="_blank"> CAM 2013</a> Congrès Algérien de Mécanique.  25-28 2013, Mascara, **Algeria**.   
 
 ---
-
-
-# 💡 Collaboration
-
-
-
-
-
----
