@@ -45,7 +45,7 @@ S Khatir, M A Wahab, **B Benaissa**, M Köppen. Crack identification using eXten
 
 S Khatir, **B Benaissa**, R Capozucca, M Abdel Wahab. Damage detection in CFRP composite beams based on vibration analysis using proper orthogonal decomposition method with radial basis functions and cuckoo search algorithm. *Composite Structures*. 2018. <a href="https://doi.org/10.1016/j.compstruct.2017.12.058" target="_blank"> https://doi.org/10.1016/j.compstruct.2017.12.058 </a>
 
-**B Benaissa**, F Hendrichovsky, K Yishida, M Koppen, P Sincak. Phone application for indoor localization based on Ble signal fingerprint. *9th IFIP International Conference on New Technologies, Mobility and Security*. 2018. <a href="https://doi.org/10.1109/NTMS.2018.8328729" target="_blank"> https://doi.org/10.1109/NTMS.2018.8328729 </a>
+**B Benaissa**, F Hendrichovsky, K Yishida, M Köppen, P Sincak. Phone application for indoor localization based on Ble signal fingerprint. *9th IFIP International Conference on New Technologies, Mobility and Security*. 2018. <a href="https://doi.org/10.1109/NTMS.2018.8328729" target="_blank"> https://doi.org/10.1109/NTMS.2018.8328729 </a>
 
 W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need No Parameters?. *The 10th International Joint Conference on Computational Intelligence*. 2018. <a href="https://doi.org/10.5220/0006960702640268 " target="_blank"> https://doi.org/10.5220/0006960702640268  </a>
 
@@ -55,7 +55,7 @@ W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need N
 
 **B Benaissa**, M Köppen, M Abdel Wahab, S Khatir. Application of proper orthogonal decomposition and radial basis functions for crack size estimation using particle swarm optimization. *Journal of Physics: Conference Series*. 2017. <a href="https://doi.org/10.1088/1742-6596/842/1/012014  " target="_blank"> https://doi.org/10.1088/1742-6596/842/1/012014</a>
 
-**B Benaissa**, M KÖPPEN, K Yoshida. Activity and emotion recognition for elderly health monitoring. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a>
+**B Benaissa**, M Köppen, K Yoshida. Activity and emotion recognition for elderly health monitoring. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a>
 
 ## 2016
 
