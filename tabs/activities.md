@@ -85,7 +85,7 @@ toc: true
 
 - **Managing Chair**: <a href="http://www.olab-dynamics.net/wetice2018/softnet.html" target="_blank"> SOFTNET 2018</a> Soft Computing Methods for the Design, Deployment, and Reliability of Networks and Network Applications. 27-29 June 2018. Paris, France.
 
-- **Scientific committee**: <a href="https://mobicase.eai-conferences.org/2021/" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan. <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> https://link.springer.com/book/10.1007/978-3-319-90740-6</a> 
+- **Scientific committee**: <a href="https://mobicase.eai-conferences.org/2021/" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan. <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> https://link.springer.com/book/10.1007/978-3-319-90740-6</a>
 
 ---
 
@@ -107,7 +107,7 @@ toc: true
 
 - Crack Size Estimation Using Model Reduction and Genetic Algorithm. <a href="https://folk.ntnu.no/skoge/prost/proceedings/adconip-2014/" target="_blank"> ADCONIP 2014</a> 5th International Symposium on Advanced Control of Industrial Processes.  28-30 May 2014. Hiroshima,  **Japan**.  
 
--Identifying defect size in two dimensional plates based on boundary measurements using  reduced model and genetic algorithm. <a href="https://www.asjp.cerist.dz/en/article/102157" target="_blank"> JIP 2013</a> 1ères Journées Internationales de Physique de l’Université Constantine 1, 16-17 December 2013. Constantine, **Algeria**.   
+- Identifying defect size in two dimensional plates based on boundary measurements using  reduced model and genetic algorithm. <a href="https://www.asjp.cerist.dz/en/article/102157" target="_blank"> JIP 2013</a> 1ères Journées Internationales de Physique de l’Université Constantine 1, 16-17 December 2013. Constantine, **Algeria**.   
 
 - Efficacité de l’identification des fissures en relation avec la grandeur de déformation de structures à l’aide de capteurs de déformation par la méthode des éléments de frontières. <a href="https://www.univ-oran1.dz/rencontres/icise13/" target="_blank"> ICISE 2013</a> International Conference on engineering of Industrial safety and Environment.  8-10 2013, Oran, **Algeria**.   
 
