@@ -41,29 +41,29 @@ S S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. 
 
 ## 2018
 
-S Khatir, M A Wahab, **B Benaissa**, M Köppen. Crack identification using eXtended IsoGeometric analysis and particle swarm optimization. *The 7th International Conference on Fracture Fatigue and Wear*. 2018. <a href="https://doi.org/10.1007/978-981-13-0411-8_21" target="_blank"> https://doi.org/10.1007/978-981-13-0411-8_21 </a>
+S Khatir, M A Wahab, **B Benaissa**, M Köppen. Crack identification using eXtended IsoGeometric analysis and Particle Swarm Optimization. *The 7th International Conference on Fracture Fatigue and Wear*. 2018. <a href="https://doi.org/10.1007/978-981-13-0411-8_21" target="_blank"> https://doi.org/10.1007/978-981-13-0411-8_21 </a>
 
-S Khatir, **B Benaissa**, R Capozucca, M Abdel Wahab. Damage detection in CFRP composite beams based on vibration analysis using proper orthogonal decomposition method with radial basis functions and cuckoo search algorithm. *Composite Structures*. 2018. <a href="https://doi.org/10.1016/j.compstruct.2017.12.058" target="_blank"> https://doi.org/10.1016/j.compstruct.2017.12.058 </a>
+S Khatir, **B Benaissa**, R Capozucca, M Abdel Wahab. Damage detection in CFRP composite beams based on vibration analysis using Proper Orthogonal Decomposition method with Radial Basis Functions and cuckoo search algorithm. *Composite Structures*. 2018. <a href="https://doi.org/10.1016/j.compstruct.2017.12.058" target="_blank"> https://doi.org/10.1016/j.compstruct.2017.12.058 </a>
 
-**B Benaissa**, F Hendrichovsky, K Yishida, M Köppen, P Sincak. Phone application for indoor localization based on Ble signal fingerprint. *9th IFIP International Conference on New Technologies, Mobility and Security*. 2018. <a href="https://doi.org/10.1109/NTMS.2018.8328729" target="_blank"> https://doi.org/10.1109/NTMS.2018.8328729 </a>
+**B Benaissa**, F Hendrichovsky, K Yishida, M Köppen, P Sincak. Phone application for Indoor Localization based on BLE signal fingerprint. *9th IFIP International Conference on New Technologies, Mobility and Security*. 2018. <a href="https://doi.org/10.1109/NTMS.2018.8328729" target="_blank"> https://doi.org/10.1109/NTMS.2018.8328729 </a>
 
 W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need No Parameters?. *The 10th International Joint Conference on Computational Intelligence*. 2018. <a href="https://doi.org/10.5220/0006960702640268 " target="_blank"> https://doi.org/10.5220/0006960702640268  </a>
 
 ## 2017
 
-**B Benaissa**, I Belaidi, A Hamrani. Identifying defect size in two dimensional plates based on boundary measurements using reduced model and genetic algorithm. *Journal of Sciences & Technology*. 2017. <a href="http://revue.umc.edu.dz/index.php/st/article/view/3092" target="_blank"> http://revue.umc.edu.dz/index.php/st/article/view/3092</a>
+**B Benaissa**, I Belaidi, A Hamrani. Identifying defect size in two dimensional plates based on boundary measurements using Reduced Model and Genetic Algorithm. *Journal of Sciences & Technology*. 2017. <a href="http://revue.umc.edu.dz/index.php/st/article/view/3092" target="_blank"> http://revue.umc.edu.dz/index.php/st/article/view/3092</a>
 
-**B Benaissa**, M Köppen, M Abdel Wahab, S Khatir. Application of proper orthogonal decomposition and radial basis functions for crack size estimation using particle swarm optimization. *Journal of Physics: Conference Series*. 2017. <a href="https://doi.org/10.1088/1742-6596/842/1/012014  " target="_blank"> https://doi.org/10.1088/1742-6596/842/1/012014</a>
+**B Benaissa**, M Köppen, M Abdel Wahab, S Khatir. Application of Proper Orthogonal Decomposition and Radial Basis Functions for crack size estimation using Particle Swarm Optimization. *Journal of Physics: Conference Series*. 2017. <a href="https://doi.org/10.1088/1742-6596/842/1/012014  " target="_blank"> https://doi.org/10.1088/1742-6596/842/1/012014</a>
 
 **B Benaissa**, M Köppen, K Yoshida. Activity and emotion recognition for elderly health monitoring. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a>
 
 ## 2016
 
-**B Benaissa**, N Aït Hocine, I Belaidi, A Hamrani, V Pettarin. Crack identification using model reduction based on proper orthogonal decomposition coupled with radial basis functions. *Structural and Multidisciplinary Optimization*. 2016. <a href="https://doi.org/10.1007/s00158-016-1400-y" target="_blank"> https://doi.org/10.1007/s00158-016-1400-y </a>
+**B Benaissa**, N Aït Hocine, I Belaidi, A Hamrani, V Pettarin. Crack Identification Using Model Reduction based on Proper Orthogonal Decomposition coupled with Radial Basis Functions. *Structural and Multidisciplinary Optimization*. 2016. <a href="https://doi.org/10.1007/s00158-016-1400-y" target="_blank"> https://doi.org/10.1007/s00158-016-1400-y </a>
 
 ## 2015
 
-S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic algorithm based objective functions comparative study for damage detection and localization in beam structures.*Journal of Physics: Conference Series*. 2015. <a href="https://doi.org/10.1088/1742-6596/628/1/012035" target="_blank"> https://doi.org/10.1088/1742-6596/628/1/012035 </a>.  
+S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic Algorithm Based Objective Functions Comparative Study for Damage Detection and Localization in Beam Structures.*Journal of Physics: Conference Series*. 2015. <a href="https://doi.org/10.1088/1742-6596/628/1/012035" target="_blank"> https://doi.org/10.1088/1742-6596/628/1/012035 </a>.  
 
 
 ---
