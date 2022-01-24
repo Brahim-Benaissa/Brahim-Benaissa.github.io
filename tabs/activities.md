@@ -69,15 +69,19 @@ toc: true
 - <a href="https://www.fracturae.com/index.php/fis/about" target="_blank"> Frattura ed Integrità Strutturale (Fracture and Structural Integrity)</a> (ISSN 1971-8993)
 
 ---
-## Conference organization committee member
+## Conference organization
 
-- **Publicity Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
+- **Managing Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
 
-- **Publicity Chair**:<a href="https://shmes.org/" target="_blank"> SHM&ES 2021</a> 2nd International Conference on Structural Health Monitoring and Engineering Structures. 13 - 14 December 2021. University of Transport and Communications, Hanoi, Vietnam.
+- **Program committee**:<a href="https://shmes.org/" target="_blank"> SHM&ES 2021</a> 2nd International Conference on Structural Health Monitoring and Engineering Structures. 13 - 14 December 2021. University of Transport and Communications, Hanoi, Vietnam.
 
-- **Publicity Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2021</a> International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2021. Università Politecnica delle Marche Ancona, Italy.
+- **Managing Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2021</a> International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2021. Università Politecnica delle Marche Ancona, Italy.
 
-- **Publicity Chair**: <a href="https://link.springer.com/book/10.1007/978-981-15-8269-1" target="_blank"> ICSCES 2021</a> International Conference on Activity and Behavior Computing. 26-29 August 2020. Fukuoka, Japan.
+- **Publicity Chair**: <a href="https://abc-research.github.io/2020/" target="_blank"> ABC 2020</a> International Conference on Activity and Behavior Computing. 26-29 August 2020. Fukuoka, Japan. <a href="https://link.springer.com/book/10.1007/978-981-15-8269-1" target="_blank"> https://link.springer.com/book/10.1007/978-981-15-8269-1</a>
+
+- **Program committee**: <a href="https://eexposit.perso.univ-pau.fr/wetice/" target="_blank"> WETICE 2018</a> 27th IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises. 27-29 June 2018. Paris, France. <a href="https://ieeexplore.ieee.org/document/8495654" target="_blank"> WETICE 2018</a>
+
+- **Managing Chair**: <a href="http://www.olab-dynamics.net/wetice2018/softnet.html" target="_blank"> SOFTNET 2018</a> Soft Computing Methods for the Design, Deployment, and Reliability of Networks and Network Applications. 27-29 June 2018. Paris, France.
 
 ---
 
