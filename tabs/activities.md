@@ -76,6 +76,7 @@ toc: true
 - <a href="https://shmes.org/" target="_blank"> SHM&ES 2021</a> 2nd International Conference on Structural Health Monitoring and Engineering Structures. 13 - 14 December 2021. University of Transport and Communications, Hanoi, Vietnam.
 
 - <a href="https://icsces.org/" target="_blank"> ICSCES 2021</a> International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2021. Università Politecnica delle Marche Ancona, Italy.
+
 ---
 
 ## Conference scientific committee member
