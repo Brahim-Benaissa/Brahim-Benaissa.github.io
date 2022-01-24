@@ -62,6 +62,22 @@ toc: true
 
 # ✋ Roles
 
+## Reviewer
+
+- <a href="https://www.springer.com/journal/10915" target="_blank"> Journal of Scientific Computing</a> (ISSN 1573-7691)
+
+- <a href="https://www.fracturae.com/index.php/fis/about" target="_blank"> Frattura ed Integrità Strutturale (Fracture and Structural Integrity)</a> (ISSN 1971-8993)
+
+---
+## Conference organization
+
+- <a href="https://icsces.org/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
+
+- <a href="https://shmes.org/" target="_blank"> SHM&ES 2021</a> 2nd International Conference on Structural Health Monitoring and Engineering Structures. 13 - 14 December 2021. University of Transport and Communications, Hanoi, Vietnam.
+
+- <a href="https://icsces.org/" target="_blank"> ICSCES 2021</a> International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2021. Università Politecnica delle Marche Ancona, Italy.
+---
+
 ## Conference scientific committee member
 
 - (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
@@ -73,21 +89,13 @@ toc: true
 
 ---
 
-## Conference organization
+## Conference presentation
 
 
 
 ---
 
-## Reviewer
 
-- <a href="https://www.springer.com/journal/10915" target="_blank"> Journal of Scientific Computing</a> (ISSN 1573-7691)
-
-- <a href="https://www.fracturae.com/index.php/fis/about" target="_blank"> Frattura ed Integrità Strutturale (Fracture and Structural Integrity)</a> (ISSN 1971-8993)
-
----
-
-## Reviewer
 
 # 💡 Collaboration
 
