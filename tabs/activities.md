@@ -112,5 +112,3 @@ toc: true
 - Efficacité de l’identification des fissures en relation avec la grandeur de déformation de structures à l’aide de capteurs de déformation par la méthode des éléments de frontières. <a href="https://www.univ-oran1.dz/rencontres/icise13/" target="_blank"> ICISE 2013</a> International Conference on engineering of Industrial safety and Environment.  8-10 2013, Oran, **Algeria**.   
 
 - The influence of the position and number of deformation sensors on the identification of cracks using dual boundary element method. <a href="https://cam-dz.org/" target="_blank"> CAM 2013</a> Congrès Algérien de Mécanique.  25-28 2013, Mascara, **Algeria**.   
-
----
