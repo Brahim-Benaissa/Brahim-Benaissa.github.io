@@ -77,7 +77,7 @@ toc: true
 
 - **Managing Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2021</a> International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2021. Università Politecnica delle Marche Ancona, Italy.
 
-- **Scientific committee**: <a href="https://ieeexplore.ieee.org/xpl/conhome/9378700/proceeding" target="_blank"> IHSH'2020</a>  The 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being.  9-10 February 2021. University M’hamed Bougara of Boumerdes, Algeria.
+- **Scientific committee**: <a href="https://ihsh2020.univ-boumerdes.dz/" target="_blank"> IHSH'2020</a>  The 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being.  9-10 February 2021. University M’hamed Bougara of Boumerdes, Algeria.<a href="https://ieeexplore.ieee.org/xpl/conhome/9378700/proceeding" target="_blank"> https://ieeexplore.ieee.org/xpl/conhome/9378700/proceeding</a>
 
 - **Publicity Chair**: <a href="https://abc-research.github.io/2020/" target="_blank"> ABC 2020</a> International Conference on Activity and Behavior Computing. 26-29 August 2020. Fukuoka, Japan. <a href="https://link.springer.com/book/10.1007/978-981-15-8269-1" target="_blank"> https://link.springer.com/book/10.1007/978-981-15-8269-1</a>
 
