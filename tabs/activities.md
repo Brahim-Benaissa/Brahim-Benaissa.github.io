@@ -80,12 +80,9 @@ toc: true
 
 ## Conference scientific committee member
 
-- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
-- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
-- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
-- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
-- (2020) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
+- <a href="https://ieeexplore.ieee.org/xpl/conhome/9378700/proceeding" target="_blank"> IHSH'2020</a>  The 2nd International Workshop on Human-Centric Smart Environments for Health and Well-being.  9-10 February 2021. University M’hamed Bougara of Boumerdes, Algeria.
 
+- <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> IHSH'2020</a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan
 
 ---
 
