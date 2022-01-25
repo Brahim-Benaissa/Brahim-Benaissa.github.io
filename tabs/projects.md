@@ -7,6 +7,8 @@ toc: true
 
 # 💡 Collaboration
 
+<p align="center">
+
 <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi">
   <span class="fa-stack fa-2x">
     <i class="fa fa-circle fa-stack-2x"></i>
@@ -14,6 +16,7 @@ toc: true
   </span>
 </a>
 
+</p>
 
 ---
 
