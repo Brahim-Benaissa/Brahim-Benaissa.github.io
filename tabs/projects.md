@@ -5,20 +5,16 @@ toc: true
 ---
 
 
-# 💡 Collaboration
+# Contact
+
+if you're looking for collaboration or have any question about my research, please do not hesitate to contact me. I would love to help.
 
 <p align="center">
-
   <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi">
     <span style="font-size:2em;">📨</span>
     <span style="font-family:Papyrus; font-size:2em;">Contact me!</span>
   </a>
-
 </p>
-
-
-
-
 
 ---
 
