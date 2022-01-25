@@ -32,7 +32,7 @@ collaboration.
 
 # 🎓 Education
 
-## Research Associate
+## Postdoctoral Research Associate
 (February 2017 - July 2020) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
 
 DESCRIPTIONDESCRIPTION
