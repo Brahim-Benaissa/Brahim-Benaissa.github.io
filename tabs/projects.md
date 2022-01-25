@@ -7,7 +7,7 @@ toc: true
 
 # Contact
 
-if you're looking for collaboration or have any question about my research, please do not hesitate to contact me.
+If you're looking for collaboration or have any question about my research, please do not hesitate to contact me.
 I would love to help.
 
 <p align="center">
