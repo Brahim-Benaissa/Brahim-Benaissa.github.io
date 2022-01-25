@@ -11,10 +11,11 @@ toc: true
 
 <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi">
   <span class="fa-stack fa-2x">
-    <i class="fa fa-rectangle-landscape"></i>
-    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+    <i class="fa fa-rectangle-landscape fa-stack-2x"></i>
+    Contact me!
   </span>
 </a>
+
 
 
 </p>
