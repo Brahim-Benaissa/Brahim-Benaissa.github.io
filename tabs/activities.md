@@ -97,11 +97,11 @@ toc: true
 
 ## Teaching
 
-- **Optimization Algorithms**. 2018. For students in MSc in the Department of Human Intelligence Systems. *Kyushu Institute of Technology*.
+- **Optimization Algorithms**. 2018. For students in MSc in the Department of Human Intelligence Systems. *Kyushu Institute of Technology*. Japan.
 
-- **Analytical Mechanics**. 2011-2013. For undergraduate students in the Department of Mechanical engineering. *Medea University*.
+- **Analytical Mechanics**. 2011-2013. For undergraduate students in the Department of Mechanical engineering. *Medea University*. Algeria.
 
-- **Classical Mechanics**. 2011-2013. For undergraduate students in the Department of Science and Technology. *Medea University*.
+- **Classical Mechanics**. 2011-2013. For undergraduate students in the Department of Science and Technology. *Medea University*. Algeria. 
 
 ---
 
