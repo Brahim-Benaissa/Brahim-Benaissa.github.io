@@ -12,8 +12,8 @@ toc: true
 <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi">
   <span class="fa-stack fa-2x">
     <i class="fa fa-rectangle-landscape fa-stack-2x"></i>
-    Contact me!
   </span>
+  Contact me!
 </a>
 
 
