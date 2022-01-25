@@ -23,17 +23,6 @@ toc: true
 
 ---
 
-<!--
-# 📜 Thesis Supervision
-
-
-## 2021
-- Student, *Thesis title*, MSc.,  Year, University.
-
----
-
--->
-
 # 🎦 Online
 
 📡 **Podcasts, interviews, presentations, and other media.**
@@ -116,7 +105,20 @@ toc: true
 
 - **Scientific committee**: <a href="https://mobicase.eai-conferences.org/2021/" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan. <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> https://link.springer.com/book/10.1007/978-3-319-90740-6</a>
 
+
 ---
+
+<!--
+## Thesis Supervision
+
+
+## 2021
+- Student, *Thesis title*, MSc.,  Year, University.
+
+---
+
+-->
+
 
 # 🎤 Conference presentations
 
