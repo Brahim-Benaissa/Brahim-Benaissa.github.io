@@ -21,7 +21,6 @@ toc: true
 - (2016) *Application development with Unity*, Course Leader, Feb-Jun. For students of vocational training in Visual Design, **Unitécnica Manizales, Colombia**.
 - (2016) *Introduction to databases*, Course Leader, Feb-Jun. For students of vocational training in Computer Science. **Unitécnica Manizales, Colombia**.
 
-
 ---
 
 <!--
