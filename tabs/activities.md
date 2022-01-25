@@ -48,9 +48,13 @@ toc: true
 
 # 💾 Datasets
 
-## Indoor localization using smartphone
+## Indoor localization, 10 BLEs vs 1 smartphone
 
-## Reviewer
+**To be published soon, with detailed description**
+
+## Indoor localization, 5 BLEs vs 10 Bluetooth receiver
+
+**To be published soon, with detailed description**
 
 ---
 
@@ -84,7 +88,6 @@ toc: true
 ---
 
 # 🎤 Conference presentations
-
 
 - **Updatable indoor localization based on BLE signal fingerprint**. <a href="https://ieeexplore.ieee.org/xpl/conhome/8642804/proceeding" target="_blank"> ICASS 2018 </a>  International Conference on Applied Smart Systems. 24-25 November 2018. Medea, Algeria.
 
