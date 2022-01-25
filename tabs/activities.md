@@ -108,17 +108,28 @@ toc: true
 
 ---
 
-<!--
-## Thesis Supervision
 
+# ➕ Thesis Supervision & support
 
-## 2021
-- Student, *Thesis title*, MSc.,  Year, University.
+## 2020
+
+- <a href="http://sozolab.jp/publications/605-exploring-the-use-of-accelerometer-for" target="_blank">*Exploring the Use of Accelerometer for Assisting Weight Lifting Exercise*</a> , MSc.,  2020, Kyushu Institute of technology. Japan.
+
+## 2019
+
+- <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_ja.html" target="_blank">*Hand Position Tracking Correction of Leap Motion Controller Attached to the Virtual Reality Headset*</a> , MSc.,  2019, Kyushu Institute of technology. Japan.
+
+- <a href="http://www.brain.kyutech.ac.jp/~kaori/html/members.html" target="_blank">*The effect of BLE beacon placement on the indoor localization accuracy in empty and furnished environment*</a> , MSc.,  2019, Kyushu Institute of technology. Japan.
+
+## 2018
+
+- <a href="http://www.brain.kyutech.ac.jp/~kaori/html/members.html" target="_blank">*Studying the optimal combination of BLE beacon quantity and their placement  for indoor localization*</a> , MSc.,  2018, Kyushu Institute of technology. Japan.
+
+## 2017
+
+- <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_1_ja.html" target="_blank">*Developing indoor localization system based BLE signal mapping*</a> , MSc.,  2017, Kyushu Institute of technology. Japan.
 
 ---
-
--->
-
 
 # 🎤 Conference Presentations
 
