@@ -84,6 +84,10 @@ toc: true
 
 -->
 
+## Human body motion tracking using smartphone IMU sensor on the chest [ Matlab Code ]
+
+*To be published, with detailed description*
+
 ---
 
 # ✋ Roles
