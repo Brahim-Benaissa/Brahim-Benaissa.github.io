@@ -66,7 +66,7 @@ collaboration.
 
 
 
-- <a href="http://www.univ-medea.dz/lmp2m/index.php/equipes/ec2m" target="_blank">*Conception Mécanique et Modélisation (EC2M)*</a>
+- <a href="http://www.univ-medea.dz/lmp2m/index.php/equipes/ec2m" target="_blank">*LMP2M, Conception Mécanique et Modélisation (EC2M)*</a>
 
 
 ---
