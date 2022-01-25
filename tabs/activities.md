@@ -48,11 +48,11 @@ toc: true
 
 # 💾 Datasets
 
-## Indoor localization, 10 BLEs vs 1 Smartphone receiver
+## Indoor localization [10 BLEs vs 1 Smartphone receiver]
 
 *To be published, with detailed description*
 
-## Indoor localization, 5 BLEs vs 10 Bluetooth gateway receivers
+## Indoor localization [5 BLEs vs 10 Bluetooth gateway receivers]
 
 *To be published, with detailed description*
 
@@ -60,11 +60,11 @@ toc: true
 
 # 👨‍💻 Open Source Code
 
-## YUKI Algorithm (Matlab)
+## YUKI Algorithm [Matlab Code]
 
 *To be published, with detailed description*
 
-## YUKI Algorithm (Python)
+## YUKI Algorithm [Python Code]
 
 *To be published*
 
