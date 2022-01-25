@@ -93,7 +93,9 @@ toc: true
 
 ---
 
-# 👨‍🏫 Teaching
+# 👨‍🏫 Academic Roles
+
+## Teaching
 
 - (2018) *Optimization Algorithms*. For students in MSc in the Department of Human Intelligence Systems. **Kyushu Institute of Technology**.
 
@@ -103,27 +105,17 @@ toc: true
 - (2011-2012) **Classical Mechanics**, For undergraduate students in the Department of Science and Technology. *Medea University*.
 - (2011-2012) **Classical Mechanics**, For undergraduate students in the Department of Science and Technology. *Medea University*.
 
-
-
 ---
 
-# ➕ Thesis Supervision & Support
-
-## 2020
+## Thesis Supervision & Support
 
 - <a href="http://sozolab.jp/publications/605-exploring-the-use-of-accelerometer-for" target="_blank">*Exploring the Use of Accelerometer for Assisting Weight Lifting Exercise*</a> , MSc.,  2020, Kyushu Institute of technology. Japan.
-
-## 2019
 
 - <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_ja.html" target="_blank">*Hand Position Tracking Correction of Leap Motion Controller Attached to the Virtual Reality Headset*</a> , MSc.,  2019, Kyushu Institute of technology. Japan.
 
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/html/html/list-m-jp.html" target="_blank">*The effect of BLE beacon placement on the indoor localization accuracy in empty and furnished environment*</a> , MSc.,  2019, Kyushu Institute of technology. Japan.
 
-## 2018
-
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/html/html/list-m-jp.html" target="_blank">*Studying the optimal combination of BLE beacon quantity and their placement  for indoor localization*</a> , MSc.,  2018, Kyushu Institute of technology. Japan.
-
-## 2017
 
 - <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_1_ja.html" target="_blank">*Developing indoor localization system based BLE signal mapping*</a> , Joint Research.  2017, Kyushu Institute of technology. Japan. Technical University of Košice. Slovakia.
 
