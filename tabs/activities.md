@@ -109,7 +109,7 @@ toc: true
 ---
 
 
-# ➕ Thesis Supervision & support
+# ➕ Thesis Supervision & Support
 
 ## 2020
 
