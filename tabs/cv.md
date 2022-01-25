@@ -15,6 +15,9 @@ toc: true
 Research area in the intersection of machine learning and immersive technologies.
 The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.
 
+- <a href="https://www.toyota-ti.ac.jp/english/research/labolatories/mech/post-26.html" target="_blank">*Design Engineering Laboratory*</a>
+
+
 ---
 
 ## Startup Founder
@@ -30,12 +33,15 @@ collaboration.
 ## Research Associate
 (February 2017 - July 2020) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
 
-Design, and development of a multimodal systems for mental health interventions. Using devices like HTC-Vive, KinectV2, and wearable sensor Zephyr. Programming Windows apps using C#, and Unity. *Side projects:* 3D-calibration tool for low-cost CAVE systems and visual scripting toolbox for physiologically adaptive systems.
-
+- <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Yoshida Lab*</a>
+- <a href="http://www.kyutech-hcclab.science-city.org/hcclab2020/pmwiki.php?n=Main.HomePage" target="_blank">*Human-centered computing (HCC) Lab*</a>
+- <a href="https://sozolab.jp/?locale=en" target="_blank">*Sozo Lab*</a>
 ---
 
 ## PhD. Computational Mechanics
 (January 2012 - July 2016 ) | **Boumerdes University, Algeria**
+
+- <a href="https://www.researchgate.net/lab/Idir-Belaidi-Lab" target="_blank">*Laboratoire Energétique, Mécanique et Ingénieries, Idir Belaidi's Lab*</a>
 
 
 ---
@@ -43,11 +49,12 @@ Design, and development of a multimodal systems for mental health interventions.
 ## Visiting Research
 (September 2014 - December 2014) | **INSA centre val de loire Blois, France** | **Laboratory of Mechanical Engineering and Rheology**
 
-Design, and development of a multimodal systems for mental health interventions. Using devices like HTC-Vive, KinectV2, and wearable sensor Zephyr. Programming Windows apps using C#, and Unity. *Side projects:* 3D-calibration tool for low-cost CAVE systems and visual scripting toolbox for physiologically adaptive systems.
-
+- <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
 ---
 ## MSc. Conceptual design in mechanics
 (September 2009 - July 2011 ) | **Medea University, Algeria**
+
+- <a href="http://www.univ-medea.dz/lmp2m/index.php/equipes/ec2m" target="_blank">*Conception Mécanique et Modélisation (EC2M)*</a>
 
 
 ---
@@ -55,6 +62,8 @@ Design, and development of a multimodal systems for mental health interventions.
 (September 2006 - July 2009 ) | **Medea University, Algeria**
 
 Courses on signal processing, computer vision, control theory, telecommunication systems.
+
+- <a href="http://www.univ-medea.dz/lmp2m/" target="_blank">*Laboratoire de Mécanique Physique et Modélisation Mathématique  (LMP2M)*</a>
 
 ---
 

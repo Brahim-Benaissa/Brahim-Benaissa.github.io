@@ -10,7 +10,6 @@ toc: true
 
 
 
-
 ---
 
 # Latest Projects
