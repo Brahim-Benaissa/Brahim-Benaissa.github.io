@@ -123,7 +123,7 @@ toc: true
 
 ## 2017
 
-- <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_1_ja.html" target="_blank">*Developing indoor localization system based BLE signal mapping*</a> , Joint Research.,  2017, Kyushu Institute of technology. Japan. Technical University of Košice. Slovakia.
+- <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_1_ja.html" target="_blank">*Developing indoor localization system based BLE signal mapping*</a> , Joint Research.  2017, Kyushu Institute of technology. Japan. Technical University of Košice. Slovakia.
 
 ---
 
