@@ -34,7 +34,7 @@ linkedin:
 
 social:
   name: Brahim Benaissa                  # it will shows as the copyright owner in Footer
-  email: benaissa@toyota-ti.ac.jp             # change to your email address
+  email: benaissa@toyota-ti.ac.jp             # change to your email address YOUREMAIL@ADDRESS.COM
   links:
     # The first element serves as the copyright owner's link
     -  https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en      # change to your pages
