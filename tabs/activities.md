@@ -50,11 +50,11 @@ toc: true
 
 ## Indoor localization, 10 BLEs vs 1 Smartphone receiver
 
-*To be published soon, with detailed description*
+*To be published, with detailed description*
 
 ## Indoor localization, 5 BLEs vs 10 Bluetooth gateway receivers
 
-*To be published soon, with detailed description*
+*To be published, with detailed description*
 
 ---
 
