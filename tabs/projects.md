@@ -9,13 +9,7 @@ toc: true
 
 <p align="center">
 
-<a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi">
-  <span class="fa-stack fa-2x">
-    <i class="fa fa-circle fa-stack-2x"></i>
-    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-  </span>
-</a>
-
+📨 <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"> Contact me! (PDF)</a>
 
 </p>
 
