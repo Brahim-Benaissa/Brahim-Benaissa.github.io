@@ -119,11 +119,11 @@ toc: true
 
 - <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_ja.html" target="_blank">*Hand Position Tracking Correction of Leap Motion Controller Attached to the Virtual Reality Headset*</a> , MSc.,  2019, Kyushu Institute of technology. Japan.
 
-- <a href="http://www.brain.kyutech.ac.jp/~kaori/html/members.html" target="_blank">*The effect of BLE beacon placement on the indoor localization accuracy in empty and furnished environment*</a> , MSc.,  2019, Kyushu Institute of technology. Japan.
+- <a href="https://www.brain.kyutech.ac.jp/~kaori/html/html/list-m-jp.html" target="_blank">*The effect of BLE beacon placement on the indoor localization accuracy in empty and furnished environment*</a> , MSc.,  2019, Kyushu Institute of technology. Japan.
 
 ## 2018
 
-- <a href="http://www.brain.kyutech.ac.jp/~kaori/html/members.html" target="_blank">*Studying the optimal combination of BLE beacon quantity and their placement  for indoor localization*</a> , MSc.,  2018, Kyushu Institute of technology. Japan.
+- <a href="https://www.brain.kyutech.ac.jp/~kaori/html/html/list-m-jp.html" target="_blank">*Studying the optimal combination of BLE beacon quantity and their placement  for indoor localization*</a> , MSc.,  2018, Kyushu Institute of technology. Japan.
 
 ## 2017
 
