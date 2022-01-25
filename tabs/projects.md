@@ -16,7 +16,7 @@ toc: true
   Contact me!
 </a>
 
- <button type="button">Click Me!</button> 
+ <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"> <button type="button">  Contact me!</button> </a>
 
 
 </p>
