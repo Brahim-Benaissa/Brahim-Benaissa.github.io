@@ -10,7 +10,7 @@ toc: true
 <p align="center">
 
   <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi">
-    <span font-size:2em;">📨</span> </a> 
+    <span font-size:2em;">📨</span> </a>
     <span style="font-family:Papyrus; font-size:2em;">Contact me!</span>
   </a>
 
