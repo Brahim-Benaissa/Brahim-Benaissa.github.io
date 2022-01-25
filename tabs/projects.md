@@ -7,7 +7,8 @@ toc: true
 
 # Contact
 
-if you're looking for collaboration or have any question about my research, please do not hesitate to contact me. I would love to help.
+if you're looking for collaboration or have any question about my research, please do not hesitate to contact me.
+I would love to help.
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi">
