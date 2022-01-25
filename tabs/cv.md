@@ -37,10 +37,9 @@ collaboration.
 
 DESCRIPTIONDESCRIPTION
 
-- <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Yoshida Lab*</a>
-- <a href="http://www.kyutech-hcclab.science-city.org/hcclab2020/pmwiki.php?n=Main.HomePage" target="_blank">*Human-centered computing (HCC) Lab*</a>
+- <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Lab*</a>
 - <a href="https://sozolab.jp/?locale=en" target="_blank">*Sozo Lab*</a>
-
+- <a href="http://www.kyutech-hcclab.science-city.org/hcclab2020/pmwiki.php?n=Main.HomePage" target="_blank">*Human-centered computing (HCC) Lab*</a>
 ---
 
 ## PhD. Computational Mechanics
