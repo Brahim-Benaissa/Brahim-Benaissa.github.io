@@ -20,11 +20,11 @@ toc: true
 
 # 💾 Open Source Datasets
 
-## Indoor localization [ 10 BLEs vs 1 Smartphone receiver ]
+## Indoor localization [ **10 Beacons** vs **1 Smartphone receiver** ]
 
 *To be published, with detailed description*
 
-## Indoor localization [ 5 BLEs vs 10 Bluetooth gateway receivers ]
+## Indoor localization [ **5 BLE Beacons** vs **10 Bluetooth gateway receivers** ]
 
 *To be published, with detailed description*
 
