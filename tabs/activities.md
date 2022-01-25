@@ -32,31 +32,31 @@ toc: true
 
 # 👨‍💻 Open Source Code
 
-## YUKI Algorithm [ Matlab Code ]
+## **YUKI Algorithm** [ Matlab Code ]
 
 *To be published, with detailed description*
 
-## YUKI Algorithm [ Python Code ]
+## **YUKI Algorithm** [ Python Code ]
 
 *To be published*
 
-## Optimization algorithms test functions [ Matlab Code ]
+## Optimization algorithms **test functions** [ Matlab Code ]
 
 *To be published, with detailed description*
 
 <!--
 
-##  Indoor localization smartphone app [ Android .APK ]
+##  Indoor localization **smartphone app** [ Android .APK ]
 
 *To be published, with detailed description*
 
-## BLE indoor localization opensource Code [ Android Studio Code ]  
+## BLE indoor localization ** app opensource Code** [ Android Studio Code ]  
 
 *To be published, with detailed description*
 
 -->
 
-## Smartphone IMU sensor for human body motion tracking [ Matlab Code ]
+## **Smartphone IMU sensor** for human body motion tracking [ Matlab Code ]
 
 *To be published, with detailed description*
 
