@@ -5,10 +5,10 @@ toc: true
 ---
 
 
+# 💡 Collaboration
+
 <p align="center">
-
-# 💡 📨 <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"> Contact me!</a>
-
+📨 <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"> Contact me!</a>
 </p>
 
 ---
