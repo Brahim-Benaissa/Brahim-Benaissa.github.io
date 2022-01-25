@@ -60,7 +60,15 @@ toc: true
 
 # 👨‍💻 Open Source Code
 
-## YUKI algorithm
+## YUKI Algorithm (Matlab)
+
+*To be published, with detailed description*
+
+## YUKI Algorithm (Python)
+
+*To be published*
+
+## Optimization Algorithm test functions
 
 *To be published, with detailed description*
 
@@ -75,7 +83,6 @@ toc: true
 *To be published, with detailed description*
 
 -->
-
 
 ---
 
