@@ -72,12 +72,12 @@ toc: true
 
 *To be published, with detailed description*
 
+<!--
+
 ## Android .APK app for BLE indoor localization
 
 *To be published, with detailed description*
 
-
-<!--
 ## Android Studio opensource Code for BLE indoor localization
 
 *To be published, with detailed description*
