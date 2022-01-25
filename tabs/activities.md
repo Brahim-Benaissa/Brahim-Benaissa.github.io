@@ -68,7 +68,7 @@ toc: true
 
 *To be published*
 
-## Optimization Algorithm test functions [ Matlab Code ]
+## Optimization algorithms test functions [ Matlab Code ]
 
 *To be published, with detailed description*
 
