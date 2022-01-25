@@ -8,7 +8,7 @@ toc: true
 # 💡 Collaboration
 
 <p align="center">
-📨 <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"> <span style="font-family:Papyrus; font-size:4em;">Contact me!</span> </a>
+📨 <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"> <span style="font-family:Papyrus; font-size:2em;">Contact me!</span> </a>
 </p>
 
 
