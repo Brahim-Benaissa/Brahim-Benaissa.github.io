@@ -40,7 +40,7 @@ toc: true
 
 *To be published*
 
-## Optimization algorithms **test functions** [ Matlab Code ]
+## Optimization algorithms **Test Functions** [ Matlab Code ]
 
 *To be published, with detailed description*
 
