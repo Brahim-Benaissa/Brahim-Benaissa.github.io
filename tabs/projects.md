@@ -22,38 +22,57 @@ toc: true
 
 </p>
 
-
 ---
 
 ## BioPhyS *(Research Project)*
-<a href="{{site.baseurl}}/projects/BioPhyS"><img src="{{site.baseurl}}/assets/img/portfolio/BioPhyS.png" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/BioPhyS"><img src="{{site.baseurl}}/assets/img/portfolio/BioPhyS.png" width="50%"> </a>
+
+</p>
 
 ---
 
 ## PortalSense *(Entrepreneurship)*
-<a href="{{site.baseurl}}/projects/PortalSense"><img src="{{site.baseurl}}/assets/img/portfolio/PortalSense.jpg" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/PortalSense"><img src="{{site.baseurl}}/assets/img/portfolio/PortalSense.jpg" width="50%"> </a>
+
+</p>
 
 ---
 
 ## EasyBlood *(Master's Project)*
-<a href="{{site.baseurl}}/projects/EasyBlood"><img src="{{site.baseurl}}/assets/img/portfolio/EasyBlood.jpg" width="50%"> </a>
 
----
+<p align="center">
 
-## PARE-VR *(Master's Thesis)*
-<a href="{{site.baseurl}}/projects/PARE-VR"><img src="{{site.baseurl}}/assets/img/portfolio/PARE-VR.jpg" width="50%"> </a>
+    <a href="{{site.baseurl}}/projects/EasyBlood"><img src="{{site.baseurl}}/assets/img/portfolio/EasyBlood.jpg" width="50%"> </a>
+
+</p>
 
 ---
 
 # 2017-2018
 
 ## BL Engine & CAVE *(Research Project)*
-<a href="{{site.baseurl}}/projects/BLEngine"><img src="{{site.baseurl}}/assets/img/portfolio/Unity3D.png" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/BLEngine"><img src="{{site.baseurl}}/assets/img/portfolio/Unity3D.png" width="50%"> </a>
+
+</p>
 
 ---
 
 ## 3Dream *(Research Paper)*  
-<a href="{{site.baseurl}}/projects/3Dream"><img src="{{site.baseurl}}/assets/img/portfolio/3Dream.png" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/3Dream"><img src="{{site.baseurl}}/assets/img/portfolio/3Dream.png" width="50%"> </a>
+
+</p>
 
 ---
 
@@ -65,21 +84,41 @@ toc: true
 # 2015-2016
 
 ## ViLimbs *(Research Project)*
-<a href="{{site.baseurl}}/projects/ViLimbs"><img src="{{site.baseurl}}/assets/img/portfolio/ViLimbs.png" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/ViLimbs"><img src="{{site.baseurl}}/assets/img/portfolio/ViLimbs.png" width="50%"> </a>
+
+</p>
 
 ---
 
 ## Quality Control *(Computer Vision)*
-<a href="{{site.baseurl}}/projects/QualityControl"><img src="{{site.baseurl}}/assets/img/portfolio/QualityControl.png" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/QualityControl"><img src="{{site.baseurl}}/assets/img/portfolio/QualityControl.png" width="50%"> </a>
+
+</p>
 
 ---
 
 ## Display Cluster *(HCI)*
-<a href="{{site.baseurl}}/projects/DisplayCluster"><img src="{{site.baseurl}}/assets/img/portfolio/DisplayCluster.jpg" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/DisplayCluster"><img src="{{site.baseurl}}/assets/img/portfolio/DisplayCluster.jpg" width="50%"> </a>
+
+</p>
 
 ---
 
 ## Know Yourself *(Teaching)*
-<a href="{{site.baseurl}}/projects/KnowYourself"><img src="{{site.baseurl}}/assets/img/portfolio/Conocete.png" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/KnowYourself"><img src="{{site.baseurl}}/assets/img/portfolio/Conocete.png" width="50%"> </a>
+
+</p>
 
 ---
