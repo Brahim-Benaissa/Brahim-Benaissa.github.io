@@ -16,6 +16,15 @@ toc: true
   </span>
 </a>
 
+
+
+<button name="button" onclick="<a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"></a>">Contact me!/button>
+
+
+
+[Contact me!](<a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"></a>){: .btn}
+
+
 </p>
 
 ---
