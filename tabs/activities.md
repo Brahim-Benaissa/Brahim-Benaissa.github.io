@@ -97,15 +97,15 @@ toc: true
 
 - **Application of proper orthogonal decomposition and radial basis functions for crack size estimation using particle swarm optimization**. <a href="https://iopscience.iop.org/issue/1742-6596/842/1l" target="_blank"> NTMS 2018 </a> 12th International Conference on Damage Assessment of Structures. 10–12 July 2017, Kitakyushu, Japan.
 
-- **Activity Recognition**. Joint Seminar Organized by Waseda University and City University of Hong Kong.  17 May 2017. Fukuoka, Japan.  
+- **Advances in human activity recognition**. Joint Seminar Organized by Waseda University and City University of Hong Kong.  17 May 2017. Fukuoka, Japan.  
 
-- **Activity and Emotion Recognition for Elderly Health Monitoring**. <a href="https://www.isase-ke.org/conference/isase2017" target="_blank"> ISASE 2017</a> International Symposium on Affective Science and Engineering.  20–21 March 2017. Tokyo, Japan.  
+- **Activity and emotion recognition for elderly health monitoring**. <a href="https://www.isase-ke.org/conference/isase2017" target="_blank"> ISASE 2017</a> International Symposium on Affective Science and Engineering.  20–21 March 2017. Tokyo, Japan.  
 
 - **Crack size identification by means of model reduction using particle swarm optimization and genetic algorithm**. <a href="http://www.univ-djelfa.dz/icaaid/" target="_blank"> ICAAID 2015</a> The 1st International Conference on Applied Automation and Industrial Diagnostics. 29-30 March 2015. Djelfa, Algeria.
 
-- **Crack Identification using model order reduction and naturally inspired optimization algorithms**. <a href="https://ave2014.sciencesconf.org/index.html" target="_blank"> AVE 2014</a> 4ième 4 colloque « analyse vibratoire experimentale ».  19-20 Novembre 2014. Blois, France.
+- **Crack identification using model order reduction and naturally inspired optimization algorithms**. <a href="https://ave2014.sciencesconf.org/index.html" target="_blank"> AVE 2014</a> 4ième 4 colloque « analyse vibratoire experimentale ».  19-20 Novembre 2014. Blois, France.
 
-- **Crack Size Estimation Using Model Reduction and Genetic Algorithm**. <a href="https://folk.ntnu.no/skoge/prost/proceedings/adconip-2014/" target="_blank"> ADCONIP 2014</a> 5th International Symposium on Advanced Control of Industrial Processes.  28-30 May 2014. Hiroshima,  Japan.  
+- **Crack size estimation using model reduction and genetic algorithm**. <a href="https://folk.ntnu.no/skoge/prost/proceedings/adconip-2014/" target="_blank"> ADCONIP 2014</a> 5th International Symposium on Advanced Control of Industrial Processes.  28-30 May 2014. Hiroshima,  Japan.  
 
 - **Identifying defect size in two dimensional plates based on boundary measurements using  reduced model and genetic algorithm**. <a href="https://www.asjp.cerist.dz/en/article/102157" target="_blank"> JIP 2013</a> 1ères Journées Internationales de Physique de l’Université Constantine 1, 16-17 December 2013. Constantine, Algeria.   
 
