@@ -28,6 +28,10 @@ toc: true
 
 *To be published, with detailed description*
 
+## Other Datasets for Human Activity Recognition
+
+*To be published, with detailed description* ( link to paula's plus IMU on chest)
+
 ---
 
 # 👨‍💻 Open Source Code
