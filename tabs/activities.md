@@ -97,10 +97,10 @@ toc: true
 
 ## Data Science
 
-- (2012-2013)*Analytical Mechanics*, For undergraduate students in the Department of Mechanical engineering. **Medea University**.
-- (2012-2013)*Analytical Mechanics*, For undergraduate students in the Department of Mechanical engineering. **Medea University**.
-- (2011-2012)*Classical Mechanics*, For undergraduate students in the Department of Science and Technology. **Medea University**.
-- (2011-2012)*Classical Mechanics*, For undergraduate students in the Department of Science and Technology. **Medea University**.
+- (2012-2013)**Analytical Mechanics**, For undergraduate students in the Department of Mechanical engineering. *Medea University*.
+- (2012-2013)**Analytical Mechanics**, For undergraduate students in the Department of Mechanical engineering. *Medea University*.
+- (2011-2012)**Classical Mechanics**, For undergraduate students in the Department of Science and Technology. *Medea University*.
+- (2011-2012)**Classical Mechanics**, For undergraduate students in the Department of Science and Technology. *Medea University*.
 
 ## Other lectures
 
