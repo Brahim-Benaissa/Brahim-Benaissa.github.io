@@ -83,7 +83,13 @@ I would love to help!
 ---
 
 ## ArmRehabVR *(Project)*
-<a href="{{site.baseurl}}/projects/ArmRehabVR"><img src="{{site.baseurl}}/assets/img/portfolio/ArmRehabVR.jpg" width="50%"> </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/projects/ArmRehabVR"><img src="{{site.baseurl}}/assets/img/portfolio/ArmRehabVR.jpg" width="50%"> </a>
+
+</p>
+
 
 ---
 
