@@ -8,14 +8,14 @@ toc: true
 
 ## Data Science
 
-- (2012-2015)*Mecanique analytique*, For undergraduate students in the Department of Mechanical engineering, **Medea University**.
-- (2012-2015)*Mecanique analytique*, For undergraduate students in the Department of Mechanical engineering, **Medea University**.
-- (2012-2015)*Mecanique analytique*, For undergraduate students in the Department of Mechanical engineering, **Medea University**.
-- (2012-2015)*Mecanique analytique*, For undergraduate students in the Department of Mechanical engineering, **Medea University**.
+- (2012-2013)*Analytical Mechanics*, For undergraduate students in the Department of Mechanical engineering. **Medea University**.
+- (2012-2013)*Analytical Mechanics*, For undergraduate students in the Department of Mechanical engineering. **Medea University**.
+- (2011-2012)*Classical Mechanics*, For undergraduate students in the Department of Science and Technology. **Medea University**.
+- (2011-2012)*Classical Mechanics*, For undergraduate students in the Department of Science and Technology. **Medea University**.
 
 ## Other lectures
 
-- (2018) *Optimization Algorithms*. For students in MSc in the Department of Human Intelligence Systems, **Kyushu Institute of Technology**.
+- (2018) *Optimization Algorithms*. For students in MSc in the Department of Human Intelligence Systems. **Kyushu Institute of Technology**.
 
 ---
 
