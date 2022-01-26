@@ -109,7 +109,7 @@ toc: true
 
 ---
 
-## Student  Thesis Support
+## Student Thesis Support
 
 - <a href="http://sozolab.jp/publications/605-exploring-the-use-of-accelerometer-for" target="_blank">*Exploring the Use of Accelerometer for Assisting Weight Lifting Exercise*</a> , MSc.,  2020, Kyushu Institute of technology. Japan.
 
