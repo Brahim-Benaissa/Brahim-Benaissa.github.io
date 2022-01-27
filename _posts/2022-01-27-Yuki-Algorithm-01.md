@@ -43,7 +43,7 @@ comments: false
 <p align="center">
 
 <iframe
-    width="854" 
+    width="720" 
     height="480"
     src="https://www.youtube.com/embed/UmX4kyB2wfg"
     frameborder="0"
