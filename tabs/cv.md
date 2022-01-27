@@ -4,7 +4,7 @@ title: CV
 toc: true
 ---
 
-📄📎 <a href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" target="_blank">Download CV (PDF)</a>
+<a href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" target="_blank"> 📎 Download CV (PDF)</a>
 ---
 
 # 🧰 Experience
@@ -40,7 +40,6 @@ DESCRIPTIONDESCRIPTION
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Lab*</a>
 - <a href="https://sozolab.jp/?locale=en" target="_blank">*Sozo Lab*</a>
 - <a href="http://www.kyutech-hcclab.science-city.org/hcclab2020/pmwiki.php?n=Main.HomePage" target="_blank">*Human-centered computing (HCC) Lab*</a>
-
 
 ---
 
