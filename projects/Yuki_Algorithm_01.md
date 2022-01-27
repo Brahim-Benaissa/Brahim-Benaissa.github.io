@@ -16,14 +16,14 @@ tags: [On going project]
 
 <p align="center">
 
-<a target="_blank" href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=4&ct=citation&cd=-1&hl=en"  download> BibTeX </a>
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=4&ct=citation&cd=-1&hl=en"  download> BibTeX </a>
 
-<a target="_blank" href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=3&ct=citation&cd=-1&hl=en"  download> EndNote </a>
+<a href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=3&ct=citation&cd=-1&hl=en"  download> EndNote </a>
 
 
-<a target="_blank" href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=2&ct=citation&cd=-1&hl=en"  download> RefMan </a>
+<a href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=2&ct=citation&cd=-1&hl=en"  download> RefMan </a>
 
-<a target="_blank" href="https://scholar.googleusercontent.com/scholar.rfw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=1&ct=citation&cd=-1&hl=en"  RefWorks </a>
+<a href="https://scholar.googleusercontent.com/scholar.rfw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=1&ct=citation&cd=-1&hl=en" download> RefWorks </a>
 
 </p>
 
