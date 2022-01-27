@@ -18,7 +18,7 @@ comments: false
 
 ---
 
-## 📑 Cite in your work as:
+## 📑 Cite in your work as
 
 **B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/YUKI Algorithm 2021.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
@@ -38,11 +38,9 @@ comments: false
 ---
 
 
-## 📺 Watch:
+## 📺 Tutorial
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Jz3TDvnZ3zo/0.jpg)](http://www.youtube.com/watch?v=Jz3TDvnZ3zo "Video Title")
-
-
 
 <p align="center">
 
@@ -70,3 +68,5 @@ comments: false
 </p>
 
 ---
+
+<script src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.js"></script>
