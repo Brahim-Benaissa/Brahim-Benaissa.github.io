@@ -37,8 +37,9 @@ social:
   email: benaissa@toyota-ti.ac.jp             # change to your email address YOUREMAIL@ADDRESS.COM
   links:
     # The first element serves as the copyright owner's link
-    -  https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en      # change to your pages
+    - https://brahim-benaissa.github.io
     # Uncomment below to add more social links
+    - https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en      # change to your pages
     - https://www.researchgate.net/profile/Brahim-Benaissa
     - https://www.linkedin.com/in/brahim-benaissa/
     - https://www.scopus.com/authid/detail.uri?authorId=57140682400
