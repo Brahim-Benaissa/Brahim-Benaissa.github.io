@@ -4,12 +4,13 @@ author: Brahim Benaissa
 date: 2022-02-27 16:07:00 +0100
 categories: [Open Source Code, Optimization, MATLAB]
 tags: [On going project]
-image: /assets/files/Projects/YUKI ALGORITHM 1.0/YAF50.jpg
+image:
 toc: true
 published: true
 comments: false
 ---
 
+<!-- /assets/files/Projects/YUKI ALGORITHM 1.0/YAF50.jpg-->
 
 # <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📂 Code File (ZIP)</a>
 
