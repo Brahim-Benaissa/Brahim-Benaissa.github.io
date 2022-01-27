@@ -10,9 +10,10 @@ tags: [On going project]
 
 
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📎 Download YA description (MS Word)</a>
+# <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📎 Download YA description (MS Word)</a>
 
-# Site in your work as:
+
+# 🏁 Site in your work as:
 
 <p align="center">
 
@@ -29,11 +30,12 @@ tags: [On going project]
 
 
 <!--
+# 📺 Watch:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Jz3TDvnZ3zo/0.jpg)](http://www.youtube.com/watch?v=Jz3TDvnZ3zo "Video Title")
 
 -->
 
 
-# Read
+# 👁️‍🗨️ Read
 <object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="100%" height="500px"> </object>
