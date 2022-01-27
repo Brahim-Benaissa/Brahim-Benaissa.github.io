@@ -48,7 +48,7 @@ DESCRIPTIONDESCRIPTION
 
 DESCRIPTIONDESCRIPTION
 
-- <a href="https://www.researchgate.net/lab/Idir-Belaidi-Lab" target="_blank">*Laboratoire Energétique, Mécanique et Ingénieries, Idir Belaidi's Lab*</a>
+- <a href="https://www.univ-boumerdes.dz/labo-de-rechercher/Energ%C3%A9tique,%20M%C3%A9canique%20et%20Ingenieries/index.php" target="_blank">*Laboratoire Energétique, Mécanique et Ingénieries*</a>
 
 
 ---
