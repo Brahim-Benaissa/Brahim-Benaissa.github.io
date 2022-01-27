@@ -12,9 +12,11 @@ comments: false
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📂 Code File (ZIP)</a>
 
+---
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📃 Manuscript  (MS Word)</a>
 
+---
 
 ## 📑 Cite in your work as:
 
@@ -30,7 +32,7 @@ comments: false
 
 </p>
 
-
+---
 <!--
 ## 📺 Watch:
 
@@ -48,6 +50,9 @@ comments: false
 </iframe>
 
 
+---
 
 ## 👁️‍🗨️ Read
 <object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="100%" height="500px"> </object>
+
+---
