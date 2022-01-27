@@ -45,7 +45,7 @@ comments: true
 <p align="center">
 
 <iframe
-    width="700"
+    width="750"
     height="480"
     src="https://www.youtube.com/embed/UmX4kyB2wfg"
     frameborder="0"
@@ -63,7 +63,7 @@ comments: true
 
 <p align="center">
 
-<object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="700px" height="500px"> </object>
+<object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="750px" height="500px"> </object>
 
 </p>
 
