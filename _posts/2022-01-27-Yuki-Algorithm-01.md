@@ -24,7 +24,7 @@ comments: false
 
 <a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=YUKI+Algorithm+and+POD-RBF+for+Elastostatic+and+dynamic+crack+identification&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=YUKI+Algorithm+and+POD-RBF+for+Elastostatic+and+dynamic+crack+identification&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan/Mendeley  &ensp;&ensp;&ensp; </span> </a>
+<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=YUKI+Algorithm+and+POD-RBF+for+Elastostatic+and+dynamic+crack+identification&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley  &ensp;&ensp;&ensp; </span> </a>
 
 </p>
 
