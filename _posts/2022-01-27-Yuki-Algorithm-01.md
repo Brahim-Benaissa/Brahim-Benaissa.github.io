@@ -55,6 +55,11 @@ comments: false
 ---
 
 ## 👁️‍🗨️ Read
+
+<p align="center">
+
 <object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="700px" height="500px"> </object>
+
+</p>
 
 ---
