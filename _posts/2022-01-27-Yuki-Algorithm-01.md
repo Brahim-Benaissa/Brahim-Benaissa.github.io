@@ -13,7 +13,7 @@ comments: false
 # <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📂 Code File (ZIP)</a>
 
 
-# <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📃 YA description (MS Word)</a>
+# <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📃 Manuscript  (MS Word)</a>
 
 
 # 📑 Cite in your work as:
