@@ -36,7 +36,7 @@ toc: true
 
 # 👨‍💻 Open Source Code
 
-## **YUKI Algorithm** [ Matlab Code ]
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> **YUKI Algorithm** [ Matlab Code ] </a> 
 
 *To be published, with detailed description*
 
