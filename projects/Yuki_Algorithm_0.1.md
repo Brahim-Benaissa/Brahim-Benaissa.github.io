@@ -15,6 +15,18 @@ tags: [On going project]
 # Read
 <object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="100%" height="500px"> </object>
 
+
+SITE IN YOUR WORK AS:
+
+<a target="_blank" href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=4&ct=citation&cd=-1&hl=en"  download> BibTeX </a>
+
+<a target="_blank" href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=3&ct=citation&cd=-1&hl=en"  download> EndNote </a>
+
+
+<a target="_blank" href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=2&ct=citation&cd=-1&hl=en"  download> RefMan </a>
+
+<a target="_blank" href="https://scholar.googleusercontent.com/scholar.rfw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY9ECM:AAGBfm0AAAAAYfI4CCNIooJLWDigMYoX-moyz4DR4rMv&scisig=AAGBfm0AAAAAYfI4CI0nJx4uYuPJ2xnU6-Dw5FjsnBqM&scisf=1&ct=citation&cd=-1&hl=en"  RefWorks </a>
+
 <!--
 VR tool used to train emotional regulation in psychology. It uses HTC-Vive and wearable devices to estimate user’s emotion and create content procedurally accordingly.
 
