@@ -7,7 +7,7 @@ toc: true
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}"  download> 📎 Curriculum Vitae (PDF)</a>
 
 
-<object data="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" type="application/pdf" width="100%"> </object>
+<object data="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" type="application/pdf" width="100% length="100%"> </object>
 
 
 ---
