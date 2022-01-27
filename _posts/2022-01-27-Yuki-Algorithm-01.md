@@ -17,7 +17,7 @@ comments: false
 # <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📎 YA description (MS Word)</a>
 
 
-# 🏁 Site in your work as:
+# 🏁 Cite in your work as:
 
 <p align="center">
 
