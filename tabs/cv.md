@@ -4,7 +4,8 @@ title: CV
 toc: true
 ---
 
-<a href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" target="_blank"> 📎 Curriculum Vitae (PDF)</a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}"  download> 📎 Curriculum Vitae (PDF)</a>
+
 ---
 
 # 🧰 Experience
