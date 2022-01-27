@@ -22,10 +22,10 @@ I would love to help!
 # Latest Projects
 
 
-## YUKI Algorithm 
+## YUKI Algorithm
 <p align="center">
 
-    <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"><img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 1.0/YAF50.jpg" width="50%"> </a>
+    <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"><img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 1.0/YA_F50.jpg" width="50%"> </a>
 
 </p>
 
