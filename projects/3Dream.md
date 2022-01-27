@@ -19,7 +19,7 @@ tags: [On going project]
 
 
 # Read
-<object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="100%" height="1000px"> </object>
+<object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="100%" height="500px"> </object>
 
 <!--
 VR tool used to train emotional regulation in psychology. It uses HTC-Vive and wearable devices to estimate user’s emotion and create content procedurally accordingly.
