@@ -17,11 +17,11 @@ tags: [On going project]
 
 <p align="center">
 
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=4&ct=citation&cd=-1&hl=en"  download> BibTeX </a>
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=4&ct=citation&cd=-1&hl=en"  download>    BibTeX    </a>
 
-<a href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=3&ct=citation&cd=-1&hl=en"  download> EndNote </a>
+<a href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=3&ct=citation&cd=-1&hl=en"  download>    EndNote    </a>
 
-<a href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=2&ct=citation&cd=-1&hl=en"  download> RefMan/Mendeley </a>
+<a href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=2&ct=citation&cd=-1&hl=en"  download>    RefMan/Mendeley     </a>
 
 </p>
 
