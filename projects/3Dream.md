@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 3Dream - The Emotional Labyrinth
-author: Luis Quintero
-date: 2020-06-11 21:00:00 +0100
-categories: [Virtual Reality, Physiological Signals, HCI]
-tags: [unity]
+title: YUKI algorithm
+author: Brahim Benaissa
+date: 2022-01-27 14:17:00 +0100
+categories: [Open Source Code, Optimization, MATLAB]
+tags: [On going project]
 ---
 
 VR tool used to train emotional regulation in psychology. It uses HTC-Vive and wearable devices to estimate user’s emotion and create content procedurally accordingly.

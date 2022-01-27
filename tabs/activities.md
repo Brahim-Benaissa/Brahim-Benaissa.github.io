@@ -141,8 +141,8 @@ toc: true
 
 - **Crack size estimation using model reduction and genetic algorithm**. <a href="https://folk.ntnu.no/skoge/prost/proceedings/adconip-2014/" target="_blank"> ADCONIP 2014</a> 5th International Symposium on Advanced Control of Industrial Processes.  28-30 May 2014. Hiroshima,  Japan.  
 
-- **l'Efficacité de l’identification des fissures en relation avec la grandeur de déformation de structures à l’aide de capteurs de déformation par la méthode des éléments de frontières**. <a href="{{ site.baseurl }}{% link /assets/files/ICISE14.pdf %}" target="_blank"> ICISE 14 (PDF)</a>International Conference on engineering of Industrial safety and Environment.  26-27 January 2014, Oran, Algeria.   
+- **l'Efficacité de l’identification des fissures en relation avec la grandeur de déformation de structures à l’aide de capteurs de déformation par la méthode des éléments de frontières**. <a href="{{ site.baseurl }}{% link /assets/files/Conferences/ICISE14.pdf %}" target="_blank"> ICISE 14 (PDF)</a>International Conference on engineering of Industrial safety and Environment.  26-27 January 2014, Oran, Algeria.   
 
 - **Identifying defect size in two dimensional plates based on boundary measurements using  reduced model and genetic algorithm**. <a href="https://www.asjp.cerist.dz/en/article/102157" target="_blank"> JIP 2013</a> 1ères Journées Internationales de Physique de l’Université Constantine 1, 16-17 December 2013. Constantine, Algeria.   
 
-- **The influence of the position and number of deformation sensors on the identification of cracks using dual boundary element method**. <a href="{{ site.baseurl }}{% link /assets/files/CAM2013.pdf %}" target="_blank">CAM 2013 (PDF)</a> Congrès Algérien de Mécanique.  25-28 2013, Mascara, Algeria.   
+- **The influence of the position and number of deformation sensors on the identification of cracks using dual boundary element method**. <a href="{{ site.baseurl }}{% link /assets/files/Conferences/CAM2013.pdf %}" target="_blank">CAM 2013 (PDF)</a> Congrès Algérien de Mécanique.  25-28 2013, Mascara, Algeria.   
