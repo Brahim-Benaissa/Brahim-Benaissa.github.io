@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YUKI algorithm
+title: YUKI algorithm 1.0
 author: Brahim Benaissa
 date: 2022-01-27 14:17:00 +0100
 categories: [Open Source Code, Optimization, MATLAB]
@@ -12,7 +12,7 @@ tags: [On going project]
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📎 Download YA description (MS Word)</a>
 
-# Read 
+# Read
 <object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="100%" height="500px"> </object>
 
 <!--
