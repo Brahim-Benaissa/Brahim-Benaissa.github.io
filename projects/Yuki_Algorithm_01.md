@@ -18,11 +18,11 @@ tags: [On going project]
 
 <p align="center">
 
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6IrQ:AAGBfm0AAAAAYfI_OrTIVm8Rlwh3Q1WaaZnr80cNt3oS&scisig=AAGBfm0AAAAAYfI_OuEQH7F473Pn539pcJYtyb1iftPO&scisf=4&ct=citation&cd=0&hl=en&scfhb=1"  download> <span style="font-size:1.6em;"> BibTeX &ensp;(2 x &nbsp;) |</span> </a>
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6IrQ:AAGBfm0AAAAAYfI_OrTIVm8Rlwh3Q1WaaZnr80cNt3oS&scisig=AAGBfm0AAAAAYfI_OuEQH7F473Pn539pcJYtyb1iftPO&scisf=4&ct=citation&cd=0&hl=en&scfhb=1"  download> <span style="font-size:1.6em;"> BibTeX &ensp;&ensp;&ensp; |</span> </a>
 
-<a href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6Zlc:AAGBfm0AAAAAYfI_flcIcB9-vke433O4XEzccG0o9TXl&scisig=AAGBfm0AAAAAYfI_fi0KVy1Dya2LB_UaY9sPQSTi1FyG&scisf=3&ct=citation&cd=0&hl=en&scfhb=1"  download>  <span style="font-size:1.6em;"> &ensp;(2 x &nbsp;) EndNote &ensp;(2 x &nbsp;) |</span> </a>
+<a href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6Zlc:AAGBfm0AAAAAYfI_flcIcB9-vke433O4XEzccG0o9TXl&scisig=AAGBfm0AAAAAYfI_fi0KVy1Dya2LB_UaY9sPQSTi1FyG&scisf=3&ct=citation&cd=0&hl=en&scfhb=1"  download>  <span style="font-size:1.6em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
 
-<a href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6jOk:AAGBfm0AAAAAYfI_lOmIrkpyG6kEhc_U55aIiWqTLP7a&scisig=AAGBfm0AAAAAYfI_lGM8Wv_htvhh7nQiiD1qmJNl0VJo&scisf=2&ct=citation&cd=0&hl=en&scfhb=1"  download>  <span style="font-size:1.6em;"> &ensp;(2 x &nbsp;) RefMan/Mendeley </span> </a>
+<a href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6jOk:AAGBfm0AAAAAYfI_lOmIrkpyG6kEhc_U55aIiWqTLP7a&scisig=AAGBfm0AAAAAYfI_lGM8Wv_htvhh7nQiiD1qmJNl0VJo&scisf=2&ct=citation&cd=0&hl=en&scfhb=1"  download>  <span style="font-size:1.6em;"> &ensp;&ensp;&ensp; RefMan/Mendeley </span> </a>
 
 </p>
 
