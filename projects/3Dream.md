@@ -12,6 +12,13 @@ tags: [On going project]
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📎 Download YA description (MS Word)</a>
 
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.PDF %}"  download> 📎 Download YA description (PDF)</a>
+
+
+---
+
+
+# Read
 <object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="100%" height="1000px"> </object>
 
 <!--
