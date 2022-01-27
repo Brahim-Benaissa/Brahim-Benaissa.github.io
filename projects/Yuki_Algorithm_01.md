@@ -18,11 +18,11 @@ tags: [On going project]
 
 <p align="center">
 
-<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=4&ct=citation&cd=-1&hl=en"  download>    BibTeX    </a>
+<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6IrQ:AAGBfm0AAAAAYfI_OrTIVm8Rlwh3Q1WaaZnr80cNt3oS&scisig=AAGBfm0AAAAAYfI_OuEQH7F473Pn539pcJYtyb1iftPO&scisf=4&ct=citation&cd=0&hl=en&scfhb=1"  download> BibTeX |</a>
 
-<a href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=3&ct=citation&cd=-1&hl=en"  download>    EndNote    </a>
+<a href="https://scholar.googleusercontent.com/scholar.enw?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6Zlc:AAGBfm0AAAAAYfI_flcIcB9-vke433O4XEzccG0o9TXl&scisig=AAGBfm0AAAAAYfI_fi0KVy1Dya2LB_UaY9sPQSTi1FyG&scisf=3&ct=citation&cd=0&hl=en&scfhb=1"  download> EndNote |</a>
 
-<a href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY-Srw:AAGBfm0AAAAAYfI7UrxtJUMTyJpaYbXdcAQccH6_uyVz&scisig=AAGBfm0AAAAAYfI7UgQ92rbwk__5BMag-kli-8Jk7jJD&scisf=2&ct=citation&cd=-1&hl=en"  download>    RefMan/Mendeley     </a>
+<a href="https://scholar.googleusercontent.com/scholar.ris?q=info:i1juFqyohlwJ:scholar.google.com/&output=citation&scisdr=CgUEFFNIEJC8jQY6jOk:AAGBfm0AAAAAYfI_lOmIrkpyG6kEhc_U55aIiWqTLP7a&scisig=AAGBfm0AAAAAYfI_lGM8Wv_htvhh7nQiiD1qmJNl0VJo&scisf=2&ct=citation&cd=0&hl=en&scfhb=1"  download> RefMan/Mendeley </a>
 
 </p>
 
