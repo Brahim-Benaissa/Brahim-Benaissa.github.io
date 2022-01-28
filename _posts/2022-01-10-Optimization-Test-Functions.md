@@ -13,8 +13,8 @@ A collection of Benchmark functions for optimization algorithm testing, Quickly 
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}"  download> 📂 Code File (ZIP)</a>
 
-References [^footnote].
-References [^footnote].
+Reference [^1].
+Reference [^2].
 ---
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Optimization TEST FUNCTIONS Word.docx %}"  download> 📃 Functions Details  (MS Word)</a>
@@ -100,5 +100,5 @@ References [^footnote].
 
 ## Reverse Footnote
 
-[^footnote]: Mazhar Ansari Ardeh and Jason Long for BenchmarkFcns <a href="https://github.com/mazhar-ansari-ardeh/BenchmarkFcns" target="_blank"> Source </a>    
-[^footnote]: Hamza YAPICI for the engineering problems <a href="https://www.mathworks.com/matlabcentral/fileexchange/73986-pso_eagle-for-design-problem?s_tid=srchtitle" target="_blank"> Source </a>   
+[^1]: Mazhar Ansari Ardeh and Jason Long for BenchmarkFcns <a href="https://github.com/mazhar-ansari-ardeh/BenchmarkFcns" target="_blank"> Source </a>    
+[^2]: Hamza YAPICI for the engineering problems <a href="https://www.mathworks.com/matlabcentral/fileexchange/73986-pso_eagle-for-design-problem?s_tid=srchtitle" target="_blank"> Source </a>   
