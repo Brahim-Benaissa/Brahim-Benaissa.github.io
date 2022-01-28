@@ -21,7 +21,7 @@ A collection of Benchmark functions for optimization algorithm testing, Quickly 
 
 ---
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Equations of the test functions Latex.docx %}"  download>  📓 LaTeX Format Equations  (Word.docx)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Equations of the test functions Latex.docx %}"  download>  📓 LaTeX Equations  (Word.docx)</a>
 
 ---
 

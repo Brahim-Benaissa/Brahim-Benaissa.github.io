@@ -19,7 +19,7 @@ comments: true
 
 ---
 
-## <a target="_blank" href="{{site.baseurl}}/posts/Optimization-Test-Functions"> 🔗 More Optimization Test Functions </a>
+## <a target="_blank" href="{{site.baseurl}}/posts/Optimization-Test-Functions"> 🔗 More Test Functions </a>
 
 ---
 
