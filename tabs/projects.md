@@ -19,10 +19,10 @@ I would love to help!
 
 ---
 
-# Latest Projects
+# Yuki Algorithm
 
 
-## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm </a>
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm 1.0 </a>
 
 <p align="center">
 
@@ -44,7 +44,7 @@ I would love to help!
 ---
 
 
-# 2017-2020
+# Indoor Localization
 
 
 
