@@ -94,12 +94,6 @@ A collection of Benchmark functions for optimization algorithm testing, Quickly 
 
 ---
 
-<p align="center">
-
-    <img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="60%">
-
-</p>
-
 
 ## References
 
