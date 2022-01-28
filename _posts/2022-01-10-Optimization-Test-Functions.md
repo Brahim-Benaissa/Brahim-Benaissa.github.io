@@ -29,6 +29,9 @@ A collection of Benchmark functions for optimization algorithm testing, Quickly 
 
 ---
 
+## <a target="_blank" href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> 🔗 YUKI Algorithm </a>
+
+---
 
 ## 📑 Cite in your work as
 
