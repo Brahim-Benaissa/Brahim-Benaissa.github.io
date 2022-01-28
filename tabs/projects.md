@@ -30,6 +30,11 @@ I would love to help!
 
 </p>
 
+<picture>
+  <source src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 1.0/YA_F50_Dark.jpg" media="(prefers-color-scheme: dark)">
+  <img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 1.0/YA_F50.jpg">
+</picture>
+
 
 ## <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"> Test Functions for Optimization </a>
 
