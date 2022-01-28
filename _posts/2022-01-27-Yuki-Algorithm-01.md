@@ -1,7 +1,7 @@
 ---
 title: YUKI Algorithm
 author: Brahim Benaissa
-date: 2022-02-25 16:07:00 +0900
+date: 2022-02-01 16:07:00 +0900
 categories: [Open Source Code, Optimization, MATLAB]
 tags: [On going project]
 toc: true
@@ -11,6 +11,8 @@ comments: true
 
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📂 Code File (ZIP)</a>
+
+TO BE CORRECTED
 
 ---
 
