@@ -12,6 +12,8 @@ comments: true
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}"  download> 📂 Code File (ZIP)</a>
 
+References [^footnote].
+
 ---
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Optimization TEST FUNCTIONS Word.docx %}"  download> 📃 Functions Details  (MS Word)</a>
@@ -93,3 +95,9 @@ comments: true
     <img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="100%">
 
 </p>
+
+
+## Reverse Footnote
+
+[^footnote]: The Mazhar Ansari Ardeh and Jason Long for http://benchmarkfcns.xyz/fcns
+[^footnote]: Hamza YAPICI for the engineering problems https://www.mathworks.com/matlabcentral/fileexchange/73986-pso_eagle-for-design-problem?s_tid=srchtitle
