@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI Algorithm.zip %}"  download> 📂 Code File (Zip)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI Algorithm.zip %}"  download> 📂 Matlab Code (Zip)</a>
 
 
 ---
