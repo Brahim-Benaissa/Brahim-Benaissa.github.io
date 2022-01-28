@@ -10,13 +10,12 @@ comments: true
 ---
 
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📂 Code File (ZIP)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI Algorithm.zip %}"  download> 📂 Download Code File (ZIP)</a>
 
-TO BE CORRECTED
 
 ---
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📃 Manuscript  (MS Word)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📃 Download Manuscript  (MS Word)</a>
 
 ---
 
