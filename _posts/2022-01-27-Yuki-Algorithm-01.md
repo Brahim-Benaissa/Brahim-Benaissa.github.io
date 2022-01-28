@@ -20,7 +20,7 @@ TO BE CORRECTED
 
 ---
 
-## <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"> Optimization Test Functions </a>
+## <a target="_blank" href="{{site.baseurl}}/posts/Optimization-Test-Functions"> Optimization Test Functions </a>
 
 ---
 
