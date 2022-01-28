@@ -9,7 +9,7 @@ published: true
 comments: true
 ---
 
-A collection of Benchmark functions for optimization algorithm testing. Plugin your algorithm with 54 details for iterations and runs.  
+A collection of Benchmark functions for optimization algorithm testing. Plugin your algorithm with 54 benchmark functions.  
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}" download> 📂  Matlab Code (Zip)</a>
 
