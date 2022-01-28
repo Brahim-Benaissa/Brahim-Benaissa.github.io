@@ -1,7 +1,7 @@
 ---
 title: Plugin Optimization Testing
 author: Brahim Benaissa
-date: 2022-02-010 10:07:00 +0900
+date: 2022-02-10 10:07:00 +0900
 categories: [Open Source Code, Optimization, MATLAB]
 tags: [Finished project]
 toc: true
@@ -90,6 +90,6 @@ comments: true
 
 <p align="center">
 
-    <img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="100%"> 
+    <img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="100%">
 
 </p>
