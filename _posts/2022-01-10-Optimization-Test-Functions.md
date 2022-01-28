@@ -76,6 +76,8 @@ A collection of Benchmark functions for optimization algorithm testing, Quickly 
 
 ## 👁️‍🗨️ Read
 
+- Functions Details
+
 <p align="center">
 
 <object data="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Optimization TEST FUNCTIONS Word.pdf %}" type="application/pdf" width="750px" height="500px"> </object>
@@ -85,6 +87,7 @@ A collection of Benchmark functions for optimization algorithm testing, Quickly 
 
 ---
 
+- LaTeX Format Equations
 
 <p align="center">
 
