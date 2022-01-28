@@ -14,7 +14,7 @@ A collection of Benchmark functions for optimization algorithm testing, Quickly 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}"  download> 📂 Code File (ZIP)</a>
 
 References [^footnote].
-
+References [^footnote].
 ---
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Optimization TEST FUNCTIONS Word.docx %}"  download> 📃 Functions Details  (MS Word)</a>
