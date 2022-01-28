@@ -11,21 +11,21 @@ comments: true
 
 A collection of Benchmark functions for optimization algorithm testing, Quickly plugin your algorithm and get results details for iterations and runs.  
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}"  download> 📂    Download Code File (ZIP)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}"  download> ⏬📂  Code File (ZIP)</a>
 
 1:40 BENCHMARK FUNCTIONS [^1].
 41:50 ENGINEERING PROBLEMS [^2].
 ---
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Optimization TEST FUNCTIONS Word.docx %}"  download> 📃 Download Functions Details  (MS Word)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Optimization TEST FUNCTIONS Word.docx %}"  download> ⏬📃 Functions Details  (MS Word)</a>
 
 ---
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Equations of the test functions Latex.docx %}"  download>  📃 Download LaTeX Format Equations  (MS Word)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Equations of the test functions Latex.docx %}"  download>  ⏬📃 LaTeX Format Equations  (MS Word)</a>
 
 ---
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Function plots.zip %}"  download> 📂 Download Functions plots (ZIP)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Function plots.zip %}"  download> ⏬📂 Functions plots (ZIP)</a>
 
 ---
 
