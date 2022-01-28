@@ -31,14 +31,13 @@ I would love to help!
 </p>
 
 
-## <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"> Optimization Test Functions </a>
+## <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"> Test Functions for Optimization </a>
 
 <p align="center">
 
     <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"><img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="50%"> </a>
 
 </p>
-
 
 
 ---
