@@ -28,9 +28,9 @@ toc: true
 
 *To be published, with detailed description*
 
-## Other Datasets for Human Activity Recognition
+## Human Body Motion Tracking [ **Smartphone IMU sensor** ]
 
-*To be published, with detailed description* ( link to paula's plus IMU on chest)
+*To be published, with detailed description*
 
 ---
 
@@ -57,11 +57,6 @@ toc: true
 
 -->
 
-## **Smartphone IMU sensor** for human body motion tracking [ Matlab Code ]
-
-*To be published, with detailed description*
-
----
 
 # ✋ Scientific Community Roles
 
