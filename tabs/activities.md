@@ -36,17 +36,14 @@ toc: true
 
 # 👨‍💻 Open Source Code
 
-## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> **YUKI Algorithm** [ Matlab Code ] </a> 
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> **YUKI Algorithm** [ Matlab Code ] </a>
 
-*To be published, with detailed description*
 
 ## **YUKI Algorithm** [ Python Code ]
 
-*To be published*
+*To be published later*
 
-## Optimization algorithms **Test Functions** [ Matlab Code ]
-
-*To be published, with detailed description*
+## <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"> Optimization **Test Functions** [ Matlab Code ] </a>
 
 <!--
 
