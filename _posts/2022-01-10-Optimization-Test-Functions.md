@@ -1,5 +1,5 @@
 ---
-title: Quick Optimization Testing
+title: Plugin Optimization Testing
 author: Brahim Benaissa
 date: 2022-02-010 10:07:00 +0900
 categories: [Open Source Code, Optimization, MATLAB]
@@ -10,15 +10,22 @@ comments: true
 ---
 
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📂 Code File (ZIP)</a>
-
-TO BE CORRECTED
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}"  download> 📂 Code File (ZIP)</a>
 
 ---
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📃 Manuscript  (MS Word)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Optimization TEST FUNCTIONS Word.docx %}"  download> 📃 Functions Details  (MS Word)</a>
 
 ---
+
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Equations of the test functions Latex.docx %}"  download> 📃 LaTeX Format Equations  (MS Word)</a>
+
+---
+
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Function plots.zip %}"  download> 📂 Functions plots (ZIP)</a>
+
+---
+
 
 ## 📑 Cite in your work as
 
@@ -65,9 +72,24 @@ TO BE CORRECTED
 
 <p align="center">
 
-<object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="750px" height="500px"> </object>
+<object data="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Optimization TEST FUNCTIONS Word.pdf %}" type="application/pdf" width="750px" height="500px"> </object>
 
 </p>
 
 
 ---
+
+
+<p align="center">
+
+<object data="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Equations of the test functions Latex.pdf %}" type="application/pdf" width="750px" height="500px"> </object>
+
+</p>
+
+---
+
+<p align="center">
+
+    <img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="100%"> 
+
+</p>

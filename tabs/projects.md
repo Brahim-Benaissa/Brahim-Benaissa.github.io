@@ -31,6 +31,16 @@ I would love to help!
 </p>
 
 
+## <a href="{{site.baseurl}}/posts/OPTIMIZATION-TEST-FUNCTIONS"> YUKI Algorithm </a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"><img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="50%"> </a>
+
+</p>
+
+
+
 ## ExciteOMeter *(Research Project)*
 <p align="center">
 
