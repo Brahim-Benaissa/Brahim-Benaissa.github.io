@@ -98,7 +98,7 @@ A collection of Benchmark functions for optimization algorithm testing, Quickly 
 </p>
 
 
-## Reverse Footnote
+## References
 
 [^1]: Mazhar Ansari Ardeh and Jason Long for **1:40 BENCHMARK FUNCTIONS** <a href="https://github.com/mazhar-ansari-ardeh/BenchmarkFcns" target="_blank"> Source </a>    
 [^2]: Hamza YAPICI for the **41:50 ENGINEERING PROBLEMS** <a href="https://www.mathworks.com/matlabcentral/fileexchange/73986-pso_eagle-for-design-problem?s_tid=srchtitle" target="_blank"> Source </a>   
