@@ -32,11 +32,11 @@ I would love to help!
 
 
 
-## <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"> Test Functions for Optimization </a>
+## <a href="{{site.baseurl}}/posts/plugin-optimization-testing"> Test Functions for Optimization </a>
 
 <p align="center">
 
-    <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"><img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="50%"> </a>
+    <a href="{{site.baseurl}}/posts/plugin-optimization-testing"><img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="50%"> </a>
 
 </p>
 

@@ -43,7 +43,7 @@ toc: true
 
 *To be published later*
 
-## <a href="{{site.baseurl}}/posts/Optimization-Test-Functions"> Optimization **Test Functions** [ Matlab Code ] </a>
+## <a href="{{site.baseurl}}/posts/plugin-optimization-testing"> Optimization **Test Functions** [ Matlab Code ] </a>
 
 <!--
 
