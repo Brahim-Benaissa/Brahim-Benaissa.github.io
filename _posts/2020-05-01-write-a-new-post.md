@@ -5,7 +5,7 @@ date: 2020-05-01 14:00:00 +0100
 categories: [Blogging, VR]
 tags: [writing]
 toc: true
-published: true
+published: false
 comments: false
 ---
 
