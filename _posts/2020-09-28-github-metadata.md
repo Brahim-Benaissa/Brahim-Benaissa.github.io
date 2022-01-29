@@ -5,6 +5,7 @@ date: 2020-09-28 21:01:00
 description: a quick run down on accessing github metadata.
 categories: Writing
 tags: [writing]
+published: false
 ---
 
 A sample blog page that demonstrates the accessing of github meta data.
