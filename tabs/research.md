@@ -54,7 +54,7 @@ W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need N
 
 **B Benaissa**, M Köppen, M Abdel Wahab, S Khatir. Application of Proper Orthogonal Decomposition and Radial Basis Functions for crack size estimation using Particle Swarm Optimization. *Journal of Physics: Conference Series*. 2017. <a href="https://doi.org/10.1088/1742-6596/842/1/012014  " target="_blank"> https://doi.org/10.1088/1742-6596/842/1/012014</a>
 
-**B Benaissa**, M Köppen, K Yoshida. Activity and emotion recognition for elderly health monitoring. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/IJAE.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
+**B Benaissa**, M Köppen, K Yoshida. Activity and emotion recognition for elderly health monitoring. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/IJAE.pdf %}" target="_blank">  **(Download PDF)** </a>
 
 ## 2016
 
