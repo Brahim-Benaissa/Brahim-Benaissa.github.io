@@ -2,7 +2,7 @@
 title: Writing a New Post
 author: Luis Quintero
 date: 2020-05-01 14:00:00 +0100
-categories: [Blogging, VR]
+categories: [Writing]
 tags: [writing]
 toc: true
 published: false

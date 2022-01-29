@@ -4,8 +4,8 @@ author:
   name: Cotes Chung
   link: https://github.com/cotes2020
 date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+categories: [Writing]
+tags: [writing]
 math: true
 mermaid: true
 image:
