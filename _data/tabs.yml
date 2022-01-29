@@ -18,16 +18,16 @@
   path: tabs
   url: research
 
-# -
-#   name: Categories
-#   icon: "fas fa-stream"
-#   path: tabs
-#   url: categories
-# -
-#   name: "Tags"
-#   icon: "fas fa-tags"
-#   path: tabs
-#   url: tags
+-
+  name: Categories
+  icon: "fas fa-stream"
+  path: tabs
+  url: categories
+-
+  name: "Tags"
+  icon: "fas fa-tags"
+  path: tabs
+  url: tags
 -
   name: Activities
   icon: "fas fa-seedling"
