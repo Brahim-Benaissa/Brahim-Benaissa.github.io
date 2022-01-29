@@ -6,6 +6,7 @@ description: a quick run down on accessing github metadata.
 categories: Writing
 tags: [writing]
 published: false
+comments: false
 ---
 
 A sample blog page that demonstrates the accessing of github meta data.

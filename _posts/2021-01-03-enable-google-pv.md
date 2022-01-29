@@ -7,6 +7,7 @@ date: 2021-01-03 18:32:00 -0500
 categories: [Writing]
 tags: [writing]
 published: false
+comments: false
 ---
 
 
