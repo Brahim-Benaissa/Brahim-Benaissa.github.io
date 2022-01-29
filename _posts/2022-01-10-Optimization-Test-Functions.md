@@ -1,6 +1,6 @@
 ---
 title: Plugin Optimization Testing
-author: Brahim Benaissa
+author: Luis Quintero
 date: 2022-02-10 10:07:00 +0900
 categories: [Open Source Code, Optimization, MATLAB]
 tags: [Finished]
@@ -13,7 +13,7 @@ A collection of Benchmark functions for optimization algorithm testing. Plugin y
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}" download> 📂  Matlab Code (Zip)</a>
 
-References: 1:40 Benchmark functions [^1]. &ensp; 51:54 Engineering Problems [^2]. 
+References: 1:40 Benchmark functions [^1]. &ensp; 51:54 Engineering Problems [^2].
 
 ---
 
