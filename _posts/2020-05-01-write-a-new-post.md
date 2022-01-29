@@ -121,10 +121,11 @@ comments: false
 Markdown symbols <code class="highlighter-rouge">```</code> can easily create a code block as following examples.
 
 ```
-This is a common code snippet, without syntax highlight and line number.
+This is a common code snippet, without syntax highlight and line number. <!--
 ```
 
-## Specific Language
+
+ ## Specific Language
 
 Using <code class="highlighter-rouge">```Language</code> you will get code snippets with line Numbers and syntax highlight.
 
@@ -138,6 +139,7 @@ items:
       price:     1.47
       quantity:  4
 ```
+-->
 
 #### Liquid codes
 
