@@ -29,7 +29,7 @@
 ## Thanks to
 - Luis Quintero: <https://github.com/luiseduve>
 - Cotes Chung Jekyll template: <https://github.com/cotes2020/jekyll-theme-chirpy>
-- Template for Academic purposes: <https://github.com/alshedivat/al-folio>
+
 
 ## License
 1. The software is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
