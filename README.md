@@ -28,7 +28,7 @@
 
 ## Thanks to
 - Luis Quintero: <https://github.com/luiseduve>
-- Cotes Chung Jekyll template: <https://github.com/cotes2020/jekyll-theme-chirpy>
+- Cotes Chung Jekyll template: <https://github.com/cotes2020>
 
 
 ## License
