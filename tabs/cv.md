@@ -11,7 +11,7 @@ toc: true
 # 🧰 Experience
 
 ## Postdoctoral Researcher
-( June 2021 - *Present* ) | **Toyota technological Institute, Japan** | **Design engineering Lab, Mechanical Systems Engineering**
+( 2021 - *Present* ) | **Toyota technological Institute, Japan** | **Design engineering Lab, Mechanical Systems Engineering**
 
 
 
