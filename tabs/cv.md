@@ -13,7 +13,6 @@ toc: true
 ## Postdoctoral Researcher
 (June 2021 - *Present*) | **Toyota technological Institute, Japan** | **Design engineering Lab, Mechanical Systems Engineering**
 
-DESCRIPTIONDESCRIPTIONDESCRIPTIONDESCRIPTION
 
 
 - <a href="https://www.toyota-ti.ac.jp/english/research/labolatories/mech/post-26.html" target="_blank">*Design Engineering Laboratory*</a>
@@ -24,7 +23,6 @@ DESCRIPTIONDESCRIPTIONDESCRIPTIONDESCRIPTION
 ## Startup Founder
 (June 2019 - June 2021) | **Entrepreneurship** | **Web**
 
-DESCRIPTIONDESCRIPTIONDESCRIPTION
 
 Eyenbros.com: IT company with a web platform product for community interaction and project
 collaboration.  
@@ -36,7 +34,6 @@ collaboration.
 ## Postdoctoral Research Associate
 (February 2017 - July 2020) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
 
-DESCRIPTIONDESCRIPTION
 
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Lab*</a>
 - <a href="https://sozolab.jp/?locale=en" target="_blank">*Sozo Lab*</a>
@@ -47,7 +44,6 @@ DESCRIPTIONDESCRIPTION
 ## PhD. Computational Mechanics
 (January 2012 - July 2016 ) | **Boumerdes University, Algeria**
 
-DESCRIPTIONDESCRIPTION
 
 - <a href="https://www.univ-boumerdes.dz/labo-de-rechercher/Energ%C3%A9tique,%20M%C3%A9canique%20et%20Ingenieries/index.php" target="_blank">*Laboratoire Energétique, Mécanique et Ingénieries*</a>
 
@@ -57,7 +53,6 @@ DESCRIPTIONDESCRIPTION
 ## Visiting Research
 (September 2014 - December 2014) | **INSA centre val de loire Blois, France** | **Laboratory of Mechanical Engineering and Rheology**
 
-DESCRIPTIONDESCRIPTION
 
 - <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
 
@@ -65,7 +60,6 @@ DESCRIPTIONDESCRIPTION
 ## MSc. Conceptual design in mechanics
 (September 2009 - July 2011 ) | **Medea University, Algeria**
 
-DESCRIPTIONDESCRIPTION
 
 - <a href="http://www.univ-medea.dz/lmp2m/index.php/equipes/ec2m" target="_blank">*LMP2M, Conception Mécanique et Modélisation (EC2M)*</a>
 
@@ -74,7 +68,6 @@ DESCRIPTIONDESCRIPTION
 ## BSc. Conceptual design in mechanics
 (September 2006 - July 2009 ) | **Medea University, Algeria**
 
-DESCRIPTIONDESCRIPTION
 
 - <a href="http://www.univ-medea.dz/lmp2m/" target="_blank">*Laboratoire de Mécanique Physique et Modélisation Mathématique  (LMP2M)*</a>
 
