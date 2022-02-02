@@ -21,7 +21,7 @@ toc: true
 ---
 
 ## Startup Founder
-(June 2019 - June 2021) | **Entrepreneurship** | **Web**
+( 2019 - 2021) | **Entrepreneurship** | **Web**
 
 
 Eyenbros.com: IT company with a web platform product for community interaction and project
@@ -32,7 +32,7 @@ collaboration.
 # 🎓 Education
 
 ## Postdoctoral Research Associate
-(February 2017 - July 2020) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
+( 2017 - 2020) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
 
 
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Lab*</a>
@@ -42,7 +42,7 @@ collaboration.
 ---
 
 ## PhD. Computational Mechanics
-(January 2012 - July 2016 ) | **Boumerdes University, Algeria**
+( 2012 - 2016 ) | **Boumerdes University, Algeria**
 
 
 - <a href="https://www.univ-boumerdes.dz/labo-de-rechercher/Energ%C3%A9tique,%20M%C3%A9canique%20et%20Ingenieries/index.php" target="_blank">*Laboratoire Energétique, Mécanique et Ingénieries*</a>
@@ -51,14 +51,14 @@ collaboration.
 ---
 
 ## Visiting Research
-(September 2014 - December 2014) | **INSA centre val de loire Blois, France** | **Laboratory of Mechanical Engineering and Rheology**
+( 2014 - 2014) | **INSA centre val de loire Blois, France** | **Laboratory of Mechanical Engineering and Rheology**
 
 
 - <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
 
 ---
 ## MSc. Conceptual design in mechanics
-(September 2009 - July 2011 ) | **Medea University, Algeria**
+( 2009 - 2011 ) | **Medea University, Algeria**
 
 
 - <a href="http://www.univ-medea.dz/lmp2m/index.php/equipes/ec2m" target="_blank">*LMP2M, Conception Mécanique et Modélisation (EC2M)*</a>
@@ -66,7 +66,7 @@ collaboration.
 
 ---
 ## BSc. Conceptual design in mechanics
-(September 2006 - July 2009 ) | **Medea University, Algeria**
+( 2006 - 2009 ) | **Medea University, Algeria**
 
 
 - <a href="http://www.univ-medea.dz/lmp2m/" target="_blank">*Laboratoire de Mécanique Physique et Modélisation Mathématique  (LMP2M)*</a>
