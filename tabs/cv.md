@@ -51,7 +51,7 @@ collaboration.
 ---
 
 ## Visiting Research
-( 2014 - 2014) | **INSA centre val de loire Blois, France** | **Laboratory of Mechanical Engineering and Rheology**
+( 2014 ) | **INSA centre val de loire Blois, France** | **Laboratory of Mechanical Engineering and Rheology**
 
 
 - <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
