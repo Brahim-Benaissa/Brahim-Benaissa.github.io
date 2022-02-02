@@ -11,7 +11,7 @@ toc: true
 # 🧰 Experience
 
 ## Postdoctoral Researcher
-(June 2021 - *Present*) | **Toyota technological Institute, Japan** | **Design engineering Lab, Mechanical Systems Engineering**
+( June 2021 - *Present* ) | **Toyota technological Institute, Japan** | **Design engineering Lab, Mechanical Systems Engineering**
 
 
 
@@ -21,7 +21,7 @@ toc: true
 ---
 
 ## Startup Founder
-( 2019 - 2021) | **Entrepreneurship** | **Web**
+( 2019 - 2021 ) | **Entrepreneurship** | **Web**
 
 
 Eyenbros.com: IT company with a web platform product for community interaction and project
@@ -32,7 +32,7 @@ collaboration.
 # 🎓 Education
 
 ## Postdoctoral Research Associate
-( 2017 - 2020) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
+( 2017 - 2020 ) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
 
 
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Lab*</a>
