@@ -116,7 +116,7 @@ collaboration.
 
 # ✋ Scientific Community Roles
 
-## Reviewer
+## Journal Reviewer
 
 - <a href="https://www.springer.com/journal/10915" target="_blank"> Journal of Scientific Computing</a> (ISSN 1573-7691)
 
@@ -124,7 +124,7 @@ collaboration.
 
 ---
 
-## Conference organization
+## Conference Organization
 
 - **Managing Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
 
