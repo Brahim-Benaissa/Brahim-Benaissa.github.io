@@ -35,6 +35,12 @@
   url: activities
 
 -
+  name: Open Source
+  icon: "fas fa-door-open" 
+  path: tabs
+  url: opensource
+
+-
   name: Projects
   icon: "fas fa-hammer"
   path: tabs

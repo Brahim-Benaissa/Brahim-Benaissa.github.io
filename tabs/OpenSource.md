@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Activities
+title: Open Source
 toc: true
 ---
 
