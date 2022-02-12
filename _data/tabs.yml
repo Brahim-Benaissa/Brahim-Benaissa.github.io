@@ -34,11 +34,11 @@
   path: tabs
   url: activities
 
-# -
-#   name: Open Source
-#   icon: "fas fa-seedling"
-#   path: tabs
-#   url: opensource
+-
+  name: Open Source
+  icon: "fas fa-seedling"
+  path: tabs
+  url: open
 
 -
   name: Projects
