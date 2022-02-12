@@ -87,9 +87,11 @@ collaboration.
 
 # 👨‍🏫 Academic Roles
 
-## Teaching
+## Guest Lecture
 
 - **Optimization Algorithms**. 2018. For students in MSc in the Department of Human Intelligence Systems. <a href="https://www.kyutech.ac.jp/english/" target="_blank">*Kyushu Institute of Technology*</a>. Japan.
+
+## Teaching Assistant
 
 - **Analytical Mechanics**. 2011-2013. For undergraduate students in the Department of Mechanical engineering. <a href="http://www.univ-medea.dz/en/" target="_blank">*Medea University*</a>. Algeria.
 
@@ -97,7 +99,7 @@ collaboration.
 
 ---
 
-## Graduate Student Supervision and Mentoring
+## Supervision and Mentoring
 
 - <a href="http://sozolab.jp/publications/605-exploring-the-use-of-accelerometer-for" target="_blank">*Exploring the Use of Accelerometer for Assisting Weight Lifting Exercise*</a> ,**MSc.,  2020, Kyushu Institute of technology. Japan**.
 
