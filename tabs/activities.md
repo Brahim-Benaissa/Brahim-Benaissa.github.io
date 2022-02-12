@@ -22,15 +22,15 @@ toc: true
 
 ## Indoor localization [ **10 Beacons** vs **1 Smartphone receiver** ]
 
-*To be published, with detailed description*
+*To be published, with detailed description*. **Available upon request at the moment**
 
 ## Indoor localization [ **5 BLE Beacons** vs **10 Bluetooth gateway receivers** ]
 
-*To be published, with detailed description*
+*To be published, with detailed description*. **Available upon request at the moment**
 
 ## Human Body Motion Tracking [ **Smartphone IMU sensor** ]
 
-*To be published, with detailed description*
+*To be published, with detailed description*. **Available upon request at the moment**
 
 ---
 
@@ -41,21 +41,19 @@ toc: true
 
 ## **YUKI Algorithm** [ Python Code ]
 
-*To be published later*
+*To be published*
 
 ## <a href="{{site.baseurl}}/posts/plugin-optimization-testing"> Optimization **Test Functions** [ Matlab Code ] </a>
 
-<!--
 
 ##  Indoor localization **smartphone app** [ Android .APK ]
 
-*To be published, with detailed description*
+*To be published, with detailed description*. **Available upon request at the moment**
 
 ## BLE indoor localization ** app opensource Code** [ Android Studio Code ]  
 
-*To be published, with detailed description*
+*To be published, with detailed description*. **Available upon request at the moment**
 
--->
 
 
 # ✋ Scientific Community Roles
