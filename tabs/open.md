@@ -35,10 +35,10 @@ toc: true
 ## <a href="{{site.baseurl}}/posts/plugin-optimization-testing"> Optimization **Test Functions** [ Matlab Code ] </a>
 
 
-##  Indoor localization **smartphone app** [ Android .APK ]
+##  Indoor localization **Android App** [ Android .APK ]
 
 *To be published, with detailed description*. **Available upon request at the moment**
 
-## BLE indoor localization ** app opensource Code** [ Android Studio Code ]  
+## BLE indoor localization **Android App Code** [ Android Studio ]  
 
 *To be published, with detailed description*. **Available upon request at the moment**
