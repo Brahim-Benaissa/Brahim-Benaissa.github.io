@@ -36,7 +36,7 @@
 
 -
   name: Open Source
-  icon: "fas fa-door-open"
+  icon: "fas fa-seedling"
   path: tabs
   url: opensource
 
