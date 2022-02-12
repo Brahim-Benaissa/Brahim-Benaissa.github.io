@@ -40,8 +40,8 @@
   path: tabs
   url: projects
 
--
-  name: Posts
-  path: tabs
-  url: archives
-  icon: "fas fa-edit"
+# -
+#   name: Posts
+#   path: tabs
+#   url: archives
+#   icon: "fas fa-edit"
