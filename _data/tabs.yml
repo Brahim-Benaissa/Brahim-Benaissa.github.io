@@ -17,8 +17,7 @@
   icon: "fas fa-graduation-cap"
   path: tabs
   url: research
-
-# -
+-
 #   name: Categories
 #   icon: "fas fa-stream"
 #   path: tabs
@@ -28,20 +27,16 @@
 #   icon: "fas fa-tags"
 #   path: tabs
 #   url: tags
-
--
+# -
   name: Open Source
   icon: "fas fa-seedling"
   path: tabs
   url: open
-
 -
   name: Projects
   icon: "fas fa-hammer"
   path: tabs
   url: projects
-
-
 -
 #   name: Posts
 #   path: tabs
