@@ -28,17 +28,17 @@
 #   icon: "fas fa-tags"
 #   path: tabs
 #   url: tags
-# -
-#   name: Activities
-#   icon: "fas fa-seedling"
-#   path: tabs
-#   url: activities
-
 -
   name: Open Source
   icon: "fas fa-seedling"
   path: tabs
-  url: opensource
+  url: activities
+
+# -
+#   name: Open Source
+#   icon: "fas fa-seedling"
+#   path: tabs
+#   url: opensource
 
 -
   name: Projects
@@ -46,7 +46,7 @@
   path: tabs
   url: projects
 
- 
+
 # -
 #   name: Posts
 #   path: tabs
