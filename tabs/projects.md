@@ -46,6 +46,9 @@ I would love to help!
 
 ---
 
+# Other Projects
+
+
 ## Deep Learning for Multidisciplinary Design Optimization *(at Toyota technological Institute)*
 
 ---
