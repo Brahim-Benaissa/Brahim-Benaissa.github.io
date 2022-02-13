@@ -46,7 +46,7 @@ I would love to help!
 
 ---
 
-## Deep Learning for Multidisciplinary Design Optimization at Toyota technological Institute
+## Deep Learning for Multidisciplinary Design Optimization *(at Toyota technological Institute)*
 
 ---
 
@@ -58,10 +58,10 @@ I would love to help!
 
 ---
 
-## Indoor Localization at Kyushu Institute of Technology
+## Indoor Localization *(at Kyushu Institute of Technology)*
 
 ---
 
-## Human Activity recognition at Kyushu Institute of Technology
+## Human Activity recognition *(at Kyushu Institute of Technology)*
 
 ---
