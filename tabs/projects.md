@@ -49,22 +49,22 @@ I would love to help!
 # Other Projects
 
 
-## Deep Learning for multidisciplinary Design Optimization *(@ Toyota technological Institute)*
+## Deep Learning for **Multidisciplinary Design Optimization** *(@ Toyota technological Institute)*
 
 ---
 
-## Data-based modeling for Innovative Structural Health Monitoring
+## Data-based modeling for **Innovative Structural Health Monitoring**
 
 ---
 
-## Practical Soft Computing Systems for Damage Identification
+## Practical Soft Computing **Systems for Damage Identification**
 
 ---
 
-## Indoor Localization *(@ Kyushu Institute of Technology)*
+## Cost effective **Indoor Localization** *(@ Kyushu Institute of Technology)*
 
 ---
 
-## Human Activity recognition *(@ Kyushu Institute of Technology)*
+## Machine learning for **Human Activity recognition** *(@ Kyushu Institute of Technology)*
 
 ---
