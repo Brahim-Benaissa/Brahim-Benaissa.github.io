@@ -49,7 +49,7 @@ I would love to help!
 # Other Projects
 
 
-## Deep Learning for Multidisciplinary Design Optimization *(@ Toyota technological Institute)*
+## Deep Learning for multidisciplinary Design Optimization *(@ Toyota technological Institute)*
 
 ---
 
