@@ -82,9 +82,7 @@ D Belanova, K Yoshida, **B Benaissa**. Spatial image correction for Virtual Real
 **B Benaissa**, K Yoshida, F Hendrichovsky. Indoor positioning method and application, Patent number: 2019144120, Application number: 2018028688, Publication date: 2019/8/29, Patent office: JP. <a href="https://astamuse.com/ja/published/JP/No/2019144120" target="_blank"> Patent </a>.   
 
 
-
 ---
-
 
 # 🎤 Conference Presentations
 
