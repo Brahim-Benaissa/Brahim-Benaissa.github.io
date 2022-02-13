@@ -41,15 +41,29 @@ I would love to help!
 
 </p>
 
-
 ---
 
 <!-- |<a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm 1.0 <br> <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> <img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 1.0/YA_F50.jpg" width="100%"> </a> |<a href="{{site.baseurl}}/posts/plugin-optimization-testing"> Test Functions for Optimization </a> <br> <a href="{{site.baseurl}}/posts/plugin-optimization-testing"><img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="60%"> </a> -->
 
 
+---
 
-# Indoor Localization
+# Deep Learning for Multidisciplinary Design Optimization at Toyota technological Institute
 
+---
 
+# Data Based modeling for innovation in Structural Health Monitoring
+
+---
+
+# Practical Soft Computing Systems for Damage Identification
+
+---
+
+# Indoor Localization at Kyushu Institute of Technology
+
+---
+
+# Human Activity recognition at Kyushu Institute of Technology
 
 ---
