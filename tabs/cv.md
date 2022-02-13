@@ -11,7 +11,7 @@ toc: true
 # 🧰 Experience
 
 ## Postdoctoral Researcher
-( 2021 - Present ) | **Toyota technological Institute, Japan** | **Design engineering Lab, Mechanical Systems Engineering**
+( 2021 - Present ) | **Toyota technological Institute, Japan** | **Mechanical Systems Engineering**
 
 
 
@@ -24,7 +24,7 @@ toc: true
 ( 2019 - 2021 ) | **Entrepreneurship** | **Web**
 
 
-Eyenbros.com: IT company with a web platform product for community interaction and project
+Eyenbros.com: was an Information Technology company with a web platform product for community interaction and project
 collaboration.  
 
 ---
@@ -42,7 +42,7 @@ collaboration.
 ---
 
 ## PhD. Computational Mechanics
-( 2012 - 2016 ) | **Boumerdes University, Algeria**
+( 2012 - 2016 ) | **Boumerdes University, Algeria** | **Department of  Mechanical Engineering**
 
 
 - <a href="https://www.univ-boumerdes.dz/labo-de-rechercher/Energ%C3%A9tique,%20M%C3%A9canique%20et%20Ingenieries/index.php" target="_blank">*Laboratoire Energétique, Mécanique et Ingénieries*</a>
@@ -51,14 +51,14 @@ collaboration.
 ---
 
 ## Visiting Research
-( 2014 ) | **INSA centre val de loire Blois, France** | **Laboratory of Mechanical Engineering and Rheology**
+( 2014 ) | **INSA centre val de loire Blois, France** | **Mechanical Engineering and Design**
 
 
 - <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
 
 ---
 ## MSc. Conceptual design in mechanics
-( 2009 - 2011 ) | **Medea University, Algeria**
+( 2009 - 2011 ) | **Medea University, Algeria**| **Department of  Mechanical Engineering**
 
 
 - <a href="http://www.univ-medea.dz/lmp2m/index.php/equipes/ec2m" target="_blank">*LMP2M, Conception Mécanique et Modélisation (EC2M)*</a>
@@ -67,7 +67,7 @@ collaboration.
 ---
 
 ## BSc. Conceptual design in mechanics
-( 2006 - 2009 ) | **Medea University, Algeria**
+( 2006 - 2009 ) | **Medea University, Algeria**| **Department of  Mechanical Engineering**
 
 
 - <a href="http://www.univ-medea.dz/lmp2m/" target="_blank">*Laboratoire de Mécanique Physique et Modélisation Mathématique  (LMP2M)*</a>
