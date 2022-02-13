@@ -53,7 +53,7 @@ I would love to help!
 
 ---
 
-## Data Based modeling for innovation in Structural Health Monitoring
+## Data-based modeling for Innovative Structural Health Monitoring
 
 ---
 
