@@ -46,22 +46,22 @@ I would love to help!
 
 ---
 
-# Deep Learning for Multidisciplinary Design Optimization at Toyota technological Institute
+## Deep Learning for Multidisciplinary Design Optimization at Toyota technological Institute
 
 ---
 
-# Data Based modeling for innovation in Structural Health Monitoring
+## Data Based modeling for innovation in Structural Health Monitoring
 
 ---
 
-# Practical Soft Computing Systems for Damage Identification
+## Practical Soft Computing Systems for Damage Identification
 
 ---
 
-# Indoor Localization at Kyushu Institute of Technology
+## Indoor Localization at Kyushu Institute of Technology
 
 ---
 
-# Human Activity recognition at Kyushu Institute of Technology
+## Human Activity recognition at Kyushu Institute of Technology
 
 ---
