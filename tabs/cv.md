@@ -109,7 +109,7 @@ collaboration.
 
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/html/html/list-m-jp.html" target="_blank">*Studying the optimal combination of BLE beacon quantity and their placement  for indoor localization*</a> , **MSc.,  2018, Kyushu Institute of technology. Japan**.
 
-- <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_1_ja.html" target="_blank">*Developing indoor localization system based BLE signal mapping*</a> , Joint Research.  2017, **Kyushu Institute of technology. Japan. Technical University of Košice. Slovakia**.
+- <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_1_ja.html" target="_blank">*Developing indoor localization system based BLE signal mapping*</a> , **Joint Research.  2017, Kyushu Institute of technology. Japan. Technical University of Košice. Slovakia**.
 
 ---
 
