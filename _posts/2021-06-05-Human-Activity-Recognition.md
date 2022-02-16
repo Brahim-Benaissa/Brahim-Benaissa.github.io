@@ -13,6 +13,8 @@ pin: true
 
 ## <a target="_blank" href="https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities"> 🔗 Download the dataset</a>
 
+[^1] Cooking Activity Recognition Challenge
+
 The dataset is collected in a setting where cooking activities are performed. Each of the subjects is instructed to cook three types of foods following specific recipes. The cooking process of these three types of foods are considered as three different activities.
 
 The dataset used for this challenge consists of activities and actions associated with cooking. Actions are named as Micro activities and activities are named as Macro activities. There are three macro activities and 9 micro activities. Each macro activity consists of multiple micro activities.
@@ -41,7 +43,9 @@ among the key points, only the marker points of motion capture are used in OpenP
 
 ---
 
-## Credit: <a target="_blank" href="http://www.paulalago.co/"> Paula Lago</a> <a target="_blank" href="https://sozolab.jp/">, Sozo Lab </a> <a target="_blank" href="https://www.kyutech.ac.jp/english/"> @ Kyushu Institute of Technology</a>
+## Credit:
+
+[^1]: <a target="_blank" href="http://www.paulalago.co/"> Paula Lago</a> <a target="_blank" href="https://sozolab.jp/">, Sozo Lab </a> <a target="_blank" href="https://www.kyutech.ac.jp/english/"> @ Kyushu Institute of Technology</a>
 
 ---
 

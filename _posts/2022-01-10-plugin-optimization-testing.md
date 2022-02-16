@@ -13,7 +13,7 @@ A collection of Benchmark functions for optimization algorithm testing. Plugin y
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/YUKI ALGORITHM with Test Functions.zip %}" download> 📂  MATLAB Code (Zip)</a>
 
-References: 1:40 Unimodal and Multimodal functions [^1].&ensp; 40:50 Custom Composite Functions.&ensp; 51:54 Engineering Problems [^2].
+1:40 Unimodal and Multimodal functions [^1].&ensp; 40:50 Custom Composite Functions.&ensp; 51:54 Engineering Problems [^2].
 
 ---
 
@@ -98,7 +98,7 @@ References: 1:40 Unimodal and Multimodal functions [^1].&ensp; 40:50 Custom Comp
 ---
 
 
-## References
+## Credit:
 
 [^1]: Mazhar Ansari Ardeh and Jason Long for **1:40 BENCHMARK FUNCTIONS** <a href="https://github.com/mazhar-ansari-ardeh/BenchmarkFcns" target="_blank"> Source </a>    
 [^2]: Hamza YAPICI for the **51:54 ENGINEERING PROBLEMS** <a href="https://www.mathworks.com/matlabcentral/fileexchange/73986-pso_eagle-for-design-problem?s_tid=srchtitle" target="_blank"> Source </a>   
