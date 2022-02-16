@@ -23,7 +23,7 @@ The dataset used for this challenge consists of activities and actions associate
 
  <img src="{{site.baseurl}}/assets/files/Projects/Human Activity Recognition/motion capture markers.png" width="100%">
 
-The data was collected using **smartphone**, **smart watches**, **motion capture** system and **open pose**. 
+The data was collected using **smartphone**, **smart watches**, **motion capture** system and **open pose**.
 
 - Motion Capture: It has 29 body markers. The places of markers
 - Accelerometer sensor: 2 smartphones are placed on the right arm and the left hip, 2 smart watches are placed on both of the wrists of a subject. The used smartwatches are TicWatch E. Samsung Galaxy S9 SCV38 and Huawei P20 Lite smartphone are used on the left hip and right arm consecutively.
@@ -40,7 +40,7 @@ among the key points, only the marker points of motion capture are used in OpenP
 
 ---
 
-## <a target="_blank" href="http://www.paulalago.co/"> Written by Paula Lago </a> <a target="_blank" href="https://sozolab.jp/"> At Sozo Lab </a>
+# <a target="_blank" href="http://www.paulalago.co/"> by Paula Lago </a> <a target="_blank" href="https://sozolab.jp/"> Sozo Lab </a> <a target="_blank" href="https://www.kyutech.ac.jp/english/"> @ Kyushu Institute of Technology</a>
 
 ---
 
@@ -52,10 +52,10 @@ Alia, Sayeda Shamma, Paula Lago, Shingo Takeda, Kohei Adachi, Brahim Benaissa, M
 
 <p align="center">
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+benaissa&btnG="  download> <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; BibTeX &ensp;&ensp;&ensp; |</span> </a>
+<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+springer&btnG="  download> <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; BibTeX &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+benaissa&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
+<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+springer&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+benaissa&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
+<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+springer&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
 
 </p>
