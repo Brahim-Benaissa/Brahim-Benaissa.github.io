@@ -21,9 +21,9 @@ The dataset used for this challenge consists of activities and actions associate
 - FRUITSALAD: Take , Add , Mix , Cut , Peel , Other, Put
 - SANDWICH: Take , Cut , Other, Wash , Put
 
- <img src="{{site.baseurl}}/assets/files/Projects/Human Activity Recognition/motion capture markers.png" width="100%"> 
+ <img src="{{site.baseurl}}/assets/files/Projects/Human Activity Recognition/motion capture markers.png" width="100%">
 
-The data was collected using smartphone, smart watches, motion capture system and open pose. Only the first three sensors are open to the public for this challenge.
+The data was collected using **smartphone**, **smart watches**, **motion capture** system and **open pose**. 
 
 - Motion Capture: It has 29 body markers. The places of markers
 - Accelerometer sensor: 2 smartphones are placed on the right arm and the left hip, 2 smart watches are placed on both of the wrists of a subject. The used smartwatches are TicWatch E. Samsung Galaxy S9 SCV38 and Huawei P20 Lite smartphone are used on the left hip and right arm consecutively.
