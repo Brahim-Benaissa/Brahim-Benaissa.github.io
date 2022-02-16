@@ -65,6 +65,5 @@ I would love to help!
 
 ---
 
-## Machine learning for **Human Activity recognition** *(@ Kyushu Institute of Technology)*
-
+## <a href="{{site.baseurl}}/posts/Human-Activity-Recognition"> Machine learning for **Human Activity recognition** *(@ Kyushu Institute of Technology)* </a>
 ---
