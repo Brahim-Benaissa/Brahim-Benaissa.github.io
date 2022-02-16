@@ -41,7 +41,7 @@ among the key points, only the marker points of motion capture are used in OpenP
 
 ---
 
-## <a target="_blank" href="http://www.paulalago.co/"> by Paula Lago</a> <a target="_blank" href="https://sozolab.jp/">, Sozo Lab </a> <a target="_blank" href="https://www.kyutech.ac.jp/english/"> @ Kyushu Institute of Technology</a>
+## Credit: <a target="_blank" href="http://www.paulalago.co/"> Paula Lago</a> <a target="_blank" href="https://sozolab.jp/">, Sozo Lab </a> <a target="_blank" href="https://www.kyutech.ac.jp/english/"> @ Kyushu Institute of Technology</a>
 
 ---
 
