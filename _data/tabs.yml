@@ -36,7 +36,7 @@
 
 -
   name: Projects
-  icon: "fas fa-hammer"
+  icon: "fas fa-seedling"
   path: tabs
   url: projects
 
