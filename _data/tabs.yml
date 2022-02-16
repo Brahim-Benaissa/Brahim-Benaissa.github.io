@@ -30,7 +30,7 @@
 #   url: tags
 -
   name: Open Source
-  icon: "fas fa-seedling"
+  icon: "fas fa-folder-open"
   path: tabs
   url: open
 
