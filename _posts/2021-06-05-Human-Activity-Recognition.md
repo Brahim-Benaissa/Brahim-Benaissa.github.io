@@ -38,7 +38,7 @@ among the key points, only the marker points of motion capture are used in OpenP
 
 ---
 
-## <a target="_blank" href="https://link.springer.com/book/10.1007/978-981-15-8269-1"> 📓 Human Activity Recognition Challenge </a>
+## <a target="_blank" href="https://link.springer.com/book/10.1007/978-981-15-8269-1"> 📓 Human Activity Recognition Challenge Book </a>
 
 ---
 
