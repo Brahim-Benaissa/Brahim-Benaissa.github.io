@@ -10,7 +10,6 @@ comments: true
 pin: true
 ---
 
-
 ## <a target="_blank" href="https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities"> 🔗 Download the dataset</a>
 
 [^1] Cooking Activity Recognition Challenge
@@ -45,14 +44,9 @@ among the key points, only the marker points of motion capture are used in OpenP
 
 ## Credit:
 
-[^1]: <a target="_blank" href="http://www.paulalago.co/"> Paula Lago</a> <a target="_blank" href="https://sozolab.jp/">, Sozo Lab </a> <a target="_blank" href="https://www.kyutech.ac.jp/english/"> @ Kyushu Institute of Technology</a>
-
----
-
 ## 📑 Cite in your work as
 
 Alia, Sayeda Shamma, Paula Lago, Shingo Takeda, Kohei Adachi, Brahim Benaissa, Md Atiqur Rahman Ahad, and Sozo Inoue. "Summary of the cooking activity recognition challenge." *In Human Activity Recognition Challenge*, pp. 1-13. Springer, Singapore, 2021. <a href="https://link.springer.com/book/10.1007/978-981-15-8269-1" target="_blank"> https://link.springer.com/book/10.1007/978-981-15-8269-1 </a>
-
 
 <p align="center">
 
@@ -63,3 +57,8 @@ Alia, Sayeda Shamma, Paula Lago, Shingo Takeda, Kohei Adachi, Brahim Benaissa, M
 <a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+springer&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
 
 </p>
+
+
+[^1]: <a target="_blank" href="http://www.paulalago.co/"> Paula Lago</a> <a target="_blank" href="https://sozolab.jp/">, Sozo Lab </a> <a target="_blank" href="https://www.kyutech.ac.jp/english/"> @ Kyushu Institute of Technology</a>
+
+---
