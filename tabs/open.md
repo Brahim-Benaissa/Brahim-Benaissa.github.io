@@ -34,9 +34,17 @@ toc: true
 
 *To be published, with detailed description*. **Available upon request at the moment**
 
+---
+
+## <a href="{{site.baseurl}}/posts/Human-Activity-Recognition"> Human activity recognition [ **Motion Capture**, **Accelerometer** , **OpenPose** ] </a>
+
+---
+
 ## Indoor localization [ **5 BLE Beacons** vs **10 Bluetooth gateway receivers** ]
 
 *To be published, with detailed description*. **Available upon request at the moment**
+
+---
 
 ## Human Body Motion Tracking [ **Smartphone IMU sensor** ]
 
