@@ -21,7 +21,8 @@ The dataset used for this challenge consists of activities and actions associate
 - FRUITSALAD: Take , Add , Mix , Cut , Peel , Other, Put
 - SANDWICH: Take , Cut , Other, Wash , Put
 
- <img src="{{site.baseurl}}/assets/files/Projects/Human Activity Recognition/motion capture markers.png" width="100%">
+<a target="_blank" href="https://abc-research.github.io/cook2020/data_description/"> <img src="{{site.baseurl}}/assets/files/Projects/Human Activity Recognition/motion capture markers.png" width="100%"> </a>
+
 
 The data was collected using **smartphone**, **smart watches**, **motion capture** system and **open pose**.
 
