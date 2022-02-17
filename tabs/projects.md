@@ -22,7 +22,6 @@ I would love to help!
 
 # YUKI Algorithm
 
-
 ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm 1.0 </a>
 
 <p align="center">
@@ -30,8 +29,6 @@ I would love to help!
     <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"><img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 1.0/YA_F50.jpg" width="50%"> </a>
 
 </p>
-
-
 
 ## <a href="{{site.baseurl}}/posts/plugin-optimization-testing"> Test Functions for Optimization </a>
 
@@ -47,7 +44,6 @@ I would love to help!
 ---
 
 # Other Projects
-
 
 ## Deep Learning for **Multidisciplinary Design Optimization** *(@ Toyota technological Institute)*
 
@@ -66,4 +62,5 @@ I would love to help!
 ---
 
 ## <a href="{{site.baseurl}}/posts/Human-Activity-Recognition"> Machine learning for **Human Activity recognition** *(@ Kyushu Institute of Technology)* </a>
+
 ---
