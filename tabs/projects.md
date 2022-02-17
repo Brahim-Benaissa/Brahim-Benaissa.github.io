@@ -20,7 +20,7 @@ I would love to help!
 
 ---
 
-# Yuki Algorithm
+# YUKI Algorithm
 
 
 ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm 1.0 </a>
