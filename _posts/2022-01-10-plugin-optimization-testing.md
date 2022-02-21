@@ -40,14 +40,13 @@ A collection of Benchmark functions for optimization algorithm testing. Plugin y
 
 <p align="center">
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=YUKI+Algorithm+and+POD-RBF+for+Elastostatic+and+dynamic+crack+identification&btnG="  download> <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; BibTeX &ensp;&ensp;&ensp; |</span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/reference file/YA1.bib %}"  download> <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; BibTeX &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=YUKI+Algorithm+and+POD-RBF+for+Elastostatic+and+dynamic+crack+identification&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/reference file/YA1.enw %}"  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=YUKI+Algorithm+and+POD-RBF+for+Elastostatic+and+dynamic+crack+identification&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/reference file/YA1.ris %}"  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
 
 </p>
-
 
 <!--
 ---

@@ -49,11 +49,11 @@ Alia, Sayeda Shamma, Paula Lago, Shingo Takeda, Kohei Adachi, Brahim Benaissa, M
 
 <p align="center">
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+springer&btnG="  download> <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; BibTeX &ensp;&ensp;&ensp; |</span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/Human Activity Recognition/reference file/HAR.bib %}"  download> <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; BibTeX &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+springer&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/Human Activity Recognition/reference file/HAR.enw %}"  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Summary+of+the+Cooking+Activity+Recognition+Challenge+springer&btnG="  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/Human Activity Recognition/reference file/HAR.ris %}"  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
 
 </p>
 
