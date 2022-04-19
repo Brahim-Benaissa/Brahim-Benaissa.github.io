@@ -72,7 +72,7 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic Algorithm Based O
 # 📜 Patents
 
 
-**ベネッサ ブラヒム**
+**Brahim Benaissa** **ベネッサ ブラヒム**
 
 
 <!-- ## 2022
