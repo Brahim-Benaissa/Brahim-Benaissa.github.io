@@ -128,7 +128,7 @@ collaboration.
 
 ## Conference Organization
 
-- **Managing Chair**: <a href="https://icsces.org/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
+- **Managing Chair**: <a href="https://icsces.com/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
 
 - **Managing committee**:<a href="https://shmes.org/" target="_blank"> SHM&ES 2021</a> 2nd International Conference on Structural Health Monitoring and Engineering Structures. 13 - 14 December 2021. University of Transport and Communications, Hanoi, Vietnam.
 
