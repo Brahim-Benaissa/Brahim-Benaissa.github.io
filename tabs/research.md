@@ -75,9 +75,9 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic Algorithm Based O
 **ベネッサ ブラヒム**
 
 
-## 2022
+<!-- ## 2022
 
-**B Benaissa**, K Yoshida. Indoor position estimation system, indoor location estimation method Using BLE Beacon and Bluetooth receivers. 屋内位置推定システム及び屋内位置推定方法 . Patent number: JP,2022-030674,A. Application number: JP,2020-134829. Filing date: Aug.07,2020. Publication date: Feb.18,2022. Patent office: JP. <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-030674/9C97360680C7758C8184EA54D426902BB9CB7E3DC365988060C5122DE362D0B3/11/en " target="_blank"> Patent Link </a>. <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2022030674-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>  
+**B Benaissa**, K Yoshida. Indoor position estimation system, indoor location estimation method Using BLE Beacon and Bluetooth receivers. 屋内位置推定システム及び屋内位置推定方法 . Patent number: JP,2022-030674,A. Application number: JP,2020-134829. Filing date: Aug.07,2020. Publication date: Feb.18,2022. Patent office: JP. <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-030674/9C97360680C7758C8184EA54D426902BB9CB7E3DC365988060C5122DE362D0B3/11/en " target="_blank"> Patent Link </a>. <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2022030674-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>   -->
 
 ## 2021
 
