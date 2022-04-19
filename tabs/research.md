@@ -72,9 +72,9 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic Algorithm Based O
 # 📜 Patents
 
 
-<!-- ## 2022
+## 2022
 
-**B Benaissa**, K Yoshida. Indoor position estimation system, indoor location estimation method **Using BLE Beacon and Bluetooth receivers**. 屋内位置推定システム及び屋内位置推定方法 . Patent number: JP,2022-030674,A. Application number: JP,2020-134829. Filing date: Aug.07,2020. Publication date: Feb.18,2022. Patent office: JP. <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-030674/9C97360680C7758C8184EA54D426902BB9CB7E3DC365988060C5122DE362D0B3/11/en " target="_blank"> Patent Link </a>. <a href="{{ site.baseurl }}{% link /assets/files/Patents/JPA 2022030674-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a> -->
+**B Benaissa**, K Yoshida. Indoor position estimation system, indoor location estimation method **Using BLE Beacon and Bluetooth receivers**. 屋内位置推定システム及び屋内位置推定方法 . Patent number: JP,2022-030674,A. Application number: JP,2020-134829. Filing date: Aug.07,2020. Publication date: Feb.18,2022. Patent office: JP. <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-030674/9C97360680C7758C8184EA54D426902BB9CB7E3DC365988060C5122DE362D0B3/11/en " target="_blank"> Patent Link </a>. <a href="{{ site.baseurl }}{% link /assets/files/Patents/JPA 2022030674-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>
 
 ## 2021
 
@@ -89,6 +89,7 @@ D Belanova, K Yoshida, **B Benaissa**. VR space image correction system, VR spac
 **B Benaissa**, K Yoshida. Indoor location estimation system, indoor location estimation method, and program for executing the indoor location estimation method **Using BLE Beacon and Smartphone**. 屋内位置推定システム、屋内位置推定方法、及び屋内位置推定方法を実行するプログラム . Patent number: JP,2019-144120,A. Application number: JP,2018-028688. Filing date: Feb.21,2018. Publication date: Aug.29,2019. Patent office: JP. <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-144120/D2AEC53EF2F8FF9FB2D2206C0D40F75F9B90308B837CEA68B2BC4074FF9D4E6C/11/en" target="_blank"> Patent Link </a>. <a href="{{ site.baseurl }}{% link /assets/files/Patents/JPA 2019144120-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>
 
 ---
+
 
 # 🎤 Conference Presentations
 
