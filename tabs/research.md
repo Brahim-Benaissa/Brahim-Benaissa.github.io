@@ -73,7 +73,7 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. Genetic Algorithm Based O
 
 <!-- <a href="https://www.j-platpat.inpit.go.jp/s0100" target="_blank"> japanese Patent search </a>. -->
 
-**Brahim Benaissa** **ベネッサ ブラヒム**
+**Brahim Benaissa**  **ベネッサ ブラヒム**
 
 
 ## 2022
