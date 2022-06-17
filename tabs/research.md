@@ -32,7 +32,12 @@ S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B B
 
 ## 2020
 
-S S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. Summary of the Cooking Activity Recognition Challenge. *Human Activity Recognition Challenge Book*. 2020. <a href="https://doi.org/10.1007/978-981-15-8269-1_1" target="_blank"> https://doi.org/10.1007/978-981-15-8269-1_1 </a>
+S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. Summary of the Cooking Activity Recognition Challenge. *Human Activity Recognition Challenge Book*. 2020. <a href="https://doi.org/10.1007/978-981-15-8269-1_1" target="_blank"> https://doi.org/10.1007/978-981-15-8269-1_1 </a>
+
+P Lago, S Takeda, K Adachi, SS Alia, M Matsuki, **B Benaissa**, S Inoue, C Charpillet. Cooking Activity Dataset with Macro and Micro Activities. *IEEE-dataport.*. 2020. <a href="https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities" target="_blank"> https://doi.org/10.21227/hyzg-9m49 </a>
+
+
+P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. A dataset for complex activity recognition with micro and macro activities in a cooking scenario. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a>
 
 
 ## 2019
