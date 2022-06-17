@@ -8,7 +8,7 @@ toc: true
 ---
 
 ## <a href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" target="_blank"> 📎 Curriculum Vitae (PDF)</a>
- 
+
 
 ---
 
@@ -122,6 +122,8 @@ collaboration.
 ## Journal Reviewer
 
 - <a href="https://www.springer.com/journal/10915" target="_blank"> Journal of Scientific Computing</a> (ISSN 1573-7691)
+
+- <a href="https://www.mdpi.com/journal/jcs" target="_blank"> Journal of Composites Science</a> (ISSN 2504-477X)
 
 - <a href="https://www.fracturae.com/index.php/fis/about" target="_blank"> Frattura ed Integrità Strutturale (Fracture and Structural Integrity)</a> (ISSN 1971-8993)
 
