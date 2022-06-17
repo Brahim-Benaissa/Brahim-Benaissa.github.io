@@ -13,7 +13,6 @@ Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=
 
 ## 2022
 
-
 M As, H Shimizu, **B Benaissa**, K Yoshida, M Köppen. Calibration Cost Reduction of Indoor Localization Using Bluetooth Low Energy Beacon. *Journal of Advanced Computational Intelligence and Intelligent Informatics*. 2022. <a href="https://doi.org/10.20965/jaciii.2022.p0097" target="_blank"> https://doi.org/10.20965/jaciii.2022.p0097 </a>
 
 S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M Abdel Wahab. Damage Identification in Frame Structure Based on Inverse Analysis. *The 2nd International Conference on Structural Damage Modelling and Assessment*. 2022. <a href="https://doi.org/10.1007/978-981-16-7216-3_15" target="_blank"> https://doi.org/10.1007/978-981-16-7216-3_15 </a>
@@ -36,7 +35,7 @@ S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. Su
 
 P Lago, S Takeda, K Adachi, SS Alia, M Matsuki, **B Benaissa**, S Inoue, C Charpillet. Cooking Activity Dataset with Macro and Micro Activities. *IEEE-dataport.*. 2020. <a href="https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities" target="_blank"> https://doi.org/10.21227/hyzg-9m49 </a>
 
-P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. A dataset for complex activity recognition with micro and macro activities in a cooking scenario. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Activity.pdf %}" target="_blank">  **(Download PDF)** </a> 
+P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. A dataset for complex activity recognition with micro and macro activities in a cooking scenario. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Activity.pdf %}" target="_blank">  **(Download PDF)** </a>
 
 
 ## 2019
