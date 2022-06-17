@@ -131,7 +131,7 @@ collaboration.
 
 ## Conference Organization
 
-- **Keynote Speaker**: <a href="https://iciesc.unimed.ac.id/2022/" target="_blank"> ICSCES 2022</a>  The 4th International Conference on Innovation in Education, Science and Culture (ICIESC 2022). 11 October 2022. State University of Medan, Indonesia.
+- **Keynote Speaker**: <a href="https://iciesc.unimed.ac.id/2022/" target="_blank"> ICIESC 2022</a>  The 4th International Conference on Innovation in Education, Science and Culture (ICIESC 2022). 11 October 2022. State University of Medan, Indonesia.
 
 - **Managing Chair**: <a href="https://icsces.com/" target="_blank"> ICSCES 2022</a>  International Conference of Steel and Composite for Engineering Structures. 12 - 13 July 2022. Università Politecnica delle Marche Ancona, Italy.
 
