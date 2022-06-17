@@ -36,8 +36,7 @@ S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. Su
 
 P Lago, S Takeda, K Adachi, SS Alia, M Matsuki, **B Benaissa**, S Inoue, C Charpillet. Cooking Activity Dataset with Macro and Micro Activities. *IEEE-dataport.*. 2020. <a href="https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities" target="_blank"> https://doi.org/10.21227/hyzg-9m49 </a>
 
-
-P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. A dataset for complex activity recognition with micro and macro activities in a cooking scenario. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a>
+P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. A dataset for complex activity recognition with micro and macro activities in a cooking scenario. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Activity.pdf %}" target="_blank">  **(Download PDF)** </a> 
 
 
 ## 2019
