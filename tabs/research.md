@@ -7,12 +7,10 @@ toc: true
 ---
 
 # 📰 Publications
-
-Full list on <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a>
-
-Full list on <a href="https://www.scopus.com/authid/detail.uri?authorId=57140682400" target="_blank">Scopus</a>
-
-
+<div align="center">
+ <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a>
+ <a href="https://www.scopus.com/authid/detail.uri?authorId=57140682400" target="_blank">Scopus</a>
+</div>
 ## 2022
 
 **B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>  <!-- <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a> -->
