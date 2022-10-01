@@ -132,6 +132,8 @@ Patent office: JP.
 
 # 🎤 Conference Presentations
 
+- **The evolution of optimization algorithms**: <a href="https://iciesc.unimed.ac.id/2022/" target="_blank"> ICIESC 2022</a>  The 4th International Conference on Innovation in Education, Science and Culture (ICIESC 2022). 11 October 2022. State University of Medan, Indonesia.
+
 - **Deep Neural Network and YUKI algorithm for Inner damage characterization based on elastic boundary displacement**. <a href="https://icsces.com/" target="_blank"> ICSCES 2022 </a>  International Conference of Steel and Composite for Engineering Structures.  12-13th September 2022.  Ancona, Italy.
 
 - **Design recommendation system based on customer profile and wanted affect**. <a href="https://keer.org/keer2022/" target="_blank"> KEER 2022 </a>  Kansei Engineering and Emotion Research.  5-8th September 2022.  Barcelona, Spain.
