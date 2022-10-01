@@ -8,13 +8,13 @@ toc: true
 
 # 📰 Publications
 <div align="center">
- <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a> || 
+ <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a> ||
  <a href="https://www.scopus.com/authid/detail.uri?authorId=57140682400" target="_blank">Scopus</a>
 </div>
 
 ## 2022
 
-**B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>  <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
+**B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>. || <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
 M As, H Shimizu, **B Benaissa**, K Yoshida, M Köppen. **Calibration Cost Reduction of Indoor Localization Using Bluetooth Low Energy Beacon**. *Journal of Advanced Computational Intelligence and Intelligent Informatics*. 2022. <a href="https://doi.org/10.20965/jaciii.2022.p0097" target="_blank"> https://doi.org/10.20965/jaciii.2022.p0097 </a>
 
@@ -26,11 +26,11 @@ M Slimani, T Khatir, S TIACHACHT, D BOUTCHICHA, **B Benaissa**. **Experimental s
 
 ## 2021
 
-A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. **Residual Force Method for damage identification in a laminated composite plate with different boundary conditions**. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank">   **(Download PDF)** </a>
+A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. **Residual Force Method for damage identification in a laminated composite plate with different boundary conditions**. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>. || <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank">   **(Download PDF)** </a>
 
-**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. **YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification**. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/YUKI Algorithm 2021.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
+**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. **YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification**. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a>. || <a href="{{ site.baseurl }}{% link /assets/files/Preprints/YUKI Algorithm 2021.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
-S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. **Damage identification in steel plate using FRF and inverse analysis**. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a> <a href="	https://www.fracturae.com/index.php/fis/article/download/3235/3370/17171 " target="_blank">   **(Download PDF)** </a>
+S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. **Damage identification in steel plate using FRF and inverse analysis**. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a> <a href="	https://www.fracturae.com/index.php/fis/article/download/3235/3370/17171 " target="_blank">. ||  **(Download PDF)** </a>
 
 
 ## 2020
@@ -39,7 +39,7 @@ S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. **
 
 P Lago, S Takeda, K Adachi, SS Alia, M Matsuki, **B Benaissa**, S Inoue, C Charpillet. **Cooking Activity Dataset with Macro and Micro Activities**. *IEEE-dataport.*. 2020. <a href="https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities" target="_blank"> https://doi.org/10.21227/hyzg-9m49 </a>
 
-P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. **A dataset for complex activity recognition with micro and macro activities in a cooking scenario**. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Activity.pdf %}" target="_blank">  **(Download PDF)** </a>
+P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. **A dataset for complex activity recognition with micro and macro activities in a cooking scenario**. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a>. || <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Activity.pdf %}" target="_blank">  **(Download PDF)** </a>
 
 
 ## 2019
@@ -63,7 +63,7 @@ W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need N
 
 **B Benaissa**, M Köppen, M Abdel Wahab, S Khatir. **Application of Proper Orthogonal Decomposition and Radial Basis Functions for crack size estimation using Particle Swarm Optimization**. *Journal of Physics: Conference Series*. 2017. <a href="https://doi.org/10.1088/1742-6596/842/1/012014  " target="_blank"> https://doi.org/10.1088/1742-6596/842/1/012014</a>
 
-**B Benaissa**, M Köppen, K Yoshida. **Activity and emotion recognition for elderly health monitoring**. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a> <a href="{{ site.baseurl }}{% link /assets/files/Preprints/IJAE.pdf %}" target="_blank">  **(Download PDF)** </a>
+**B Benaissa**, M Köppen, K Yoshida. **Activity and emotion recognition for elderly health monitoring**. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a>. || <a href="{{ site.baseurl }}{% link /assets/files/Preprints/IJAE.pdf %}" target="_blank">  **(Download PDF)** </a>
 
 ## 2016
 
