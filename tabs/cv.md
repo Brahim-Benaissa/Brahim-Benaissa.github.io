@@ -44,6 +44,14 @@ collaboration.
 
 ---
 
+## Visiting Research
+( 2014 ) | **INSA centre val de loire Blois, France** | **Mechanical Engineering and Design**
+
+
+- <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
+
+---
+
 ## PhD. Computational Mechanics
 ( 2012 - 2016 ) | **Boumerdes University, Algeria** | **Department of  Mechanical Engineering**
 
@@ -53,13 +61,6 @@ collaboration.
 
 ---
 
-## Visiting Research
-( 2014 ) | **INSA centre val de loire Blois, France** | **Mechanical Engineering and Design**
-
-
-- <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
-
----
 ## MSc. Conceptual design in mechanics
 ( 2009 - 2011 ) | **Medea University, Algeria**| **Department of  Mechanical Engineering**
 
@@ -131,7 +132,7 @@ collaboration.
 
 ## Conference Organization
 
-- **Scientific committee**: <a href="https://ihsh2022.uqar.ca/" target="_blank"> IHSH'2022</a>  The 2022 International Conference on Human-Centric Smart Environments for Health and Well-being. 26-28th October 2022. University of Québec at Rimouski, Canada. 
+- **Scientific committee**: <a href="https://ihsh2022.uqar.ca/" target="_blank"> IHSH'2022</a>  The 2022 International Conference on Human-Centric Smart Environments for Health and Well-being. 26-28th October 2022. University of Québec at Rimouski, Canada.
 
 - **Keynote Speaker**: <a href="https://iciesc.unimed.ac.id/2022/" target="_blank"> ICIESC 2022</a>  The 4th International Conference on Innovation in Education, Science and Culture (ICIESC 2022). 11 October 2022. State University of Medan, Indonesia.
 
