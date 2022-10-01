@@ -134,15 +134,21 @@ Patent office: JP.
 
 # 🎤 Conference Presentations
 
+## 2022
+
 - **The evolution of optimization algorithms**: <a href="https://iciesc.unimed.ac.id/2022/" target="_blank"> ICIESC 2022</a>  The 4th International Conference on Innovation in Education, Science and Culture (ICIESC 2022). 11 October 2022. State University of Medan, Indonesia.
 
 - **Deep Neural Network and YUKI algorithm for Inner damage characterization based on elastic boundary displacement**. <a href="https://icsces.com/" target="_blank"> ICSCES 2022 </a>  International Conference of Steel and Composite for Engineering Structures.  12-13th September 2022.  Ancona, Italy.
 
 - **Design recommendation system based on customer profile and wanted affect**. <a href="https://keer.org/keer2022/" target="_blank"> KEER 2022 </a>  Kansei Engineering and Emotion Research.  5-8th September 2022.  Barcelona, Spain.
 
+## 2018
+
 - **Updatable indoor localization based on BLE signal fingerprint**. <a href="https://ieeexplore.ieee.org/xpl/conhome/8642804/proceeding" target="_blank"> ICASS 2018 </a>  International Conference on Applied Smart Systems. 24-25 November 2018. Medea, Algeria.
 
 - **Phone application for indoor localization based on BLE signal fingerprint**. <a href="https://dblp.org/db/conf/ntms/ntms2018.html" target="_blank"> NTMS 2018 </a> 9th IFIP International Conference on New Technologies, Mobility and Security. 28 February 2018. Paris, France.  
+
+## 2017
 
 - **Application of proper orthogonal decomposition and radial basis functions for crack size estimation using particle swarm optimization**. <a href="http://www.mech.kyutech.ac.jp/fracture/dousoukai/pdf/DAMAS2017/DAMAS00.pdf" target="_blank"> DAMAS 2017 </a> 12th International Conference on Damage Assessment of Structures. 10–12 July 2017, Kitakyushu, Japan.
 
@@ -150,13 +156,19 @@ Patent office: JP.
 
 - **Activity and emotion recognition for elderly health monitoring**. <a href="https://www.isase-ke.org/conference/isase2017" target="_blank"> ISASE 2017</a> International Symposium on Affective Science and Engineering.  20–21 March 2017. Tokyo, Japan.  
 
+## 2015
+
 - **Crack size identification by means of model reduction using particle swarm optimization and genetic algorithm**. <a href="http://www.univ-djelfa.dz/icaaid/" target="_blank"> ICAAID 2015</a> The 1st International Conference on Applied Automation and Industrial Diagnostics. 29-30 March 2015. Djelfa, Algeria.
+
+## 2014
 
 - **Crack identification using model order reduction and naturally inspired optimization algorithms**. <a href="https://ave2014.sciencesconf.org/index.html" target="_blank"> AVE 2014</a> 4ième 4 colloque « analyse vibratoire experimentale ».  19-20 Novembre 2014. Blois, France.
 
 - **Crack size estimation using model reduction and genetic algorithm**. <a href="https://folk.ntnu.no/skoge/prost/proceedings/adconip-2014/" target="_blank"> ADCONIP 2014</a> 5th International Symposium on Advanced Control of Industrial Processes.  28-30 May 2014. Hiroshima,  Japan.  
 
 - **l'Efficacité de l’identification des fissures en relation avec la grandeur de déformation de structures à l’aide de capteurs de déformation par la méthode des éléments de frontières**. <a href="{{ site.baseurl }}{% link /assets/files/Conferences/ICISE14.pdf %}" target="_blank"> ICISE 14 (PDF)</a> International Conference on engineering of Industrial safety and Environment.  26-27 January 2014, Oran, Algeria.   
+
+## 2013
 
 - **Identifying defect size in two dimensional plates based on boundary measurements using  reduced model and genetic algorithm**. <a href="https://www.asjp.cerist.dz/en/article/102157" target="_blank"> JIP 2013</a> 1ères Journées Internationales de Physique de l’Université Constantine 1, 16-17 December 2013. Constantine, Algeria.   
 
