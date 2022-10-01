@@ -14,7 +14,7 @@ Full list on <a href="https://www.scopus.com/authid/detail.uri?authorId=57140682
 
 ## 2022
 
-**B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.20965/jaciii.2022.p0097" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>  <!-- <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a> -->
+**B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>  <!-- <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a> -->
 
 M As, H Shimizu, **B Benaissa**, K Yoshida, M Köppen. **Calibration Cost Reduction of Indoor Localization Using Bluetooth Low Energy Beacon**. *Journal of Advanced Computational Intelligence and Intelligent Informatics*. 2022. <a href="https://doi.org/10.20965/jaciii.2022.p0097" target="_blank"> https://doi.org/10.20965/jaciii.2022.p0097 </a>
 
