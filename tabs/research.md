@@ -18,7 +18,7 @@ toc: true
 
 ## 2022
 
-Mohand Akli Sahali, A Aini, L Bouzit, L Himed, **B Benaissa**. **Experimental modeling and multi-objective optimization of friction stir welding parameters of AA 3004 aluminum alloy**. *The International Journal of Advanced Manufacturing Technology*. 2022. <a href="https://doi.org/10.1007/s00170-022-10349-2" target="_blank"> https://doi.org/10.1007/s00170-022-10349-2 </a>
+M A Sahali, A Aini, L Bouzit, L Himed, **B Benaissa**. **Experimental modeling and multi-objective optimization of friction stir welding parameters of AA 3004 aluminum alloy**. *The International Journal of Advanced Manufacturing Technology*. 2022. <a href="https://doi.org/10.1007/s00170-022-10349-2" target="_blank"> https://doi.org/10.1007/s00170-022-10349-2 </a>
 
 **B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>.<a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
