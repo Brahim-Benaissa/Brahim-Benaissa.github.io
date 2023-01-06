@@ -18,6 +18,9 @@ toc: true
 
 ## 2022
 
+M As, H Abdullah, H Syahputra, **B Benaissa**, F Harahap. **An Image Processing Techniques Used for Soil Moisture Inspection and Classification**. *Proceedings of the 4th International Conference on Innovation in Education, Science and Culture, ICIESC 2022*. 2022. <a href="http://dx.doi.org/10.4108/eai.11-10-2022.2325509" target="_blank"> http://dx.doi.org/10.4108/eai.11-10-2022.2325509 </a>
+
+
 M A Sahali, A Aini, L Bouzit, L Himed, **B Benaissa**. **Experimental modeling and multi-objective optimization of friction stir welding parameters of AA 3004 aluminum alloy**. *The International Journal of Advanced Manufacturing Technology*. 2022. <a href="https://doi.org/10.1007/s00170-022-10349-2" target="_blank"> https://doi.org/10.1007/s00170-022-10349-2 </a>
 
 **B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>.<a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
