@@ -14,7 +14,7 @@ toc: true
 
 ## 2023
 
- **B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *Arxiv,Computers and Society*. 2023. <a href="https://doi.org/10.48550/arXiv.2301.10984" target="_blank"> https://doi.org/10.48550/arXiv.2301.10984 </a> >.<a href="{{ site.baseurl }}{% link /assets/files/Preprints/DESIGN_recommender.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
+ **B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *Arxiv,Computers and Society*. 2023. <a href="https://doi.org/10.48550/arXiv.2301.10984" target="_blank"> https://doi.org/10.48550/arXiv.2301.10984 </a> .<a href="{{ site.baseurl }}{% link /assets/files/Preprints/DESIGN_recommender.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
  M I Shirazi, S Khatir, **B Benaissa**, S Mirjalili, M Abdel Wahab. **Damage assessment in laminated composite plates using Modal Strain Energy and YUKI-ANN algorithm**. *Composite Structures*. 2023. <a href="https://doi.org/10.1016/j.compstruct.2022.116272" target="_blank"> https://doi.org/10.1016/j.compstruct.2022.116272 </a>
 
