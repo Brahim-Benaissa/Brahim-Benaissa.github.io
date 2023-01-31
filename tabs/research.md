@@ -14,7 +14,15 @@ toc: true
 
 ## 2023
 
- **B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *Arxiv,Computers and Society*. 2023. <a href="https://doi.org/10.48550/arXiv.2301.10984" target="_blank"> https://doi.org/10.48550/arXiv.2301.10984 </a> .<a href="{{ site.baseurl }}{% link /assets/files/Preprints/DESIGN_recommender.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
+M  Al Ali, M Shimoda, **B Benaissa**, M Kobayashi. **Concurrent Multiscale Hybrid Topology Optimization for Light Weight Porous Soft Robotic Hand with High Cellular Stiffness**. *Lecture Notes in Civil Engineering*. 2023. <a href=" https://doi.org/10.1007/978-3-031-24041-6_22" target="_blank">  https://doi.org/10.1007/978-3-031-24041-6_22 </a>
+
+N Amoura, **B Benaissa** , M  Al Ali, S Khatir . **Deep Neural Network and YUKI Algorithm for Inner Damage Characterization Based on Elastic Boundary Displacement**. *Lecture Notes in Civil Engineering*. 2023. <a href="https://doi.org/10.1007/978-3-031-24041-6_18" target="_blank"> https://doi.org/10.1007/978-3-031-24041-6_18 </a>
+
+M Slimani, S Tiachacht,  A Behtani, T Khatir, S Khatir, **B Benaissa**,M K Riahi. **Improved ANN for Damage Identification in Laminated Composite Plate**. *Lecture Notes in Civil Engineering*. 2023. <a href="https://doi.org/10.1007/978-3-031-24041-6_15" target="_blank"> https://doi.org/10.1007/978-3-031-24041-6_15 </a>
+
+A Kahouadji, S Tiachacht, M Slimani, A Behtani, S Khatir, **B Benaissa** . **Vibration-Based Damage Assessment in Truss Structures Using Local Frequency Change Ratio Indicator Combined with Metaheuristic Optimization Algorithms**. *Lecture Notes in Civil Engineering*. 2023. <a href="https://doi.org/10.1007/978-3-031-24041-6_14" target="_blank"> https://doi.org/10.1007/978-3-031-24041-6_14 </a>
+
+**B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *Arxiv,Computers and Society*. 2023. <a href="https://doi.org/10.48550/arXiv.2301.10984" target="_blank"> https://doi.org/10.48550/arXiv.2301.10984 </a> .<a href="{{ site.baseurl }}{% link /assets/files/Preprints/DESIGN_recommender.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
  M I Shirazi, S Khatir, **B Benaissa**, S Mirjalili, M Abdel Wahab. **Damage assessment in laminated composite plates using Modal Strain Energy and YUKI-ANN algorithm**. *Composite Structures*. 2023. <a href="https://doi.org/10.1016/j.compstruct.2022.116272" target="_blank"> https://doi.org/10.1016/j.compstruct.2022.116272 </a>
 
