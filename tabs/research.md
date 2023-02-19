@@ -14,6 +14,8 @@ toc: true
 
 ## 2023
 
+A Khatir, R Capozucca, S Khatir, E Magagnini a, **B Benaissa**,  L  T Cuong, M Abdel Wahab. **A new hybrid PSO-YUKI for double crack identification in CFRP cantilever beam**. *Composite Structures*. 2023. <a href=" https://doi.org/10.1016/j.compstruct.2023.116803" target="_blank">  https://doi.org/10.1016/j.compstruct.2023.116803 </a>
+
 M  Al Ali, M Shimoda, **B Benaissa**, M Kobayashi. **Concurrent Multiscale Hybrid Topology Optimization for Light Weight Porous Soft Robotic Hand with High Cellular Stiffness**. *Lecture Notes in Civil Engineering*. 2023. <a href=" https://doi.org/10.1007/978-3-031-24041-6_22" target="_blank">  https://doi.org/10.1007/978-3-031-24041-6_22 </a>
 
 N Amoura, **B Benaissa** , M  Al Ali, S Khatir . **Deep Neural Network and YUKI Algorithm for Inner Damage Characterization Based on Elastic Boundary Displacement**. *Lecture Notes in Civil Engineering*. 2023. <a href="https://doi.org/10.1007/978-3-031-24041-6_18" target="_blank"> https://doi.org/10.1007/978-3-031-24041-6_18 </a>
