@@ -14,6 +14,8 @@ toc: true
 
 ## 2023
 
+**B Benaissa**, S Khatir, MS Jouini, MK Riahi. **Optimal Axial-Probe Design for Foucault-Current Tomography: A Global Optimization Approach Based on Linear Sampling Method**. *Energies*. 2023. <a href=" https://doi.org/10.3390/en16052448 " target="_blank">  https://doi.org/10.3390/en16052448 </a>
+
 A Khatir, R Capozucca, S Khatir, E Magagnini a, **B Benaissa**,  L  T Cuong, M Abdel Wahab. **A new hybrid PSO-YUKI for double crack identification in CFRP cantilever beam**. *Composite Structures*. 2023. <a href=" https://doi.org/10.1016/j.compstruct.2023.116803" target="_blank">  https://doi.org/10.1016/j.compstruct.2023.116803 </a>
 
 M  Al Ali, M Shimoda, **B Benaissa**, M Kobayashi. **Concurrent Multiscale Hybrid Topology Optimization for Light Weight Porous Soft Robotic Hand with High Cellular Stiffness**. *Lecture Notes in Civil Engineering*. 2023. <a href=" https://doi.org/10.1007/978-3-031-24041-6_22" target="_blank">  https://doi.org/10.1007/978-3-031-24041-6_22 </a>
@@ -158,7 +160,11 @@ Patent office: JP.
 
 - **Deep Neural Network and YUKI algorithm for Inner damage characterization based on elastic boundary displacement**. <a href="https://icsces.com/" target="_blank"> ICSCES 2022 </a>  International Conference of Steel and Composite for Engineering Structures.  12-13th September 2022.  Ancona, Italy.
 
-- **Design recommendation system based on customer profile and wanted affect**. <a href="https://keer.org/keer2022/" target="_blank"> KEER 2022 </a>  Kansei Engineering and Emotion Research.  5-8th September 2022.  Barcelona, Spain.
+- **Design recommendation system based on customer profile and wanted affect**. <a href="https://keer.org/keer2022/" target="_blank"> KEER 2022 </a>  Kansei Engineering and Emotion Research.  5-8th September 2022. Barcelona, Spain.
+
+## 2020
+
+ - **BLE Signal Fingerprint for Indoor Localization Using Smart Phone**. <a href="https://www.ehu.eus/ccwintco/cybSPEED/international-symposium-at-kyutech-may-23/" target="_blank"> EU H2020 CyberSPEED </a> Potentials and Perspectives of Communication among Humans and Agents Including Robots and Animals. 22–23 May 2020, Kitakyushu, Japan.
 
 ## 2018
 

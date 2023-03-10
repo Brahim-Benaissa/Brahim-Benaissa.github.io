@@ -117,8 +117,13 @@ collaboration.
 
 ---
 
-
 # ✋ Scientific Community Roles
+
+## Guest Editor
+
+- <a href="https://www.mdpi.com/journal/buildings/special_issues/OR578F0237" target="_blank"> Special Issue: Advances in Inverse Problem Applications in Structural Health Monitoring </a> of <a href="https://www.mdpi.com/journal/buildings" target="_blank"> Buildings </a> (ISSN 2075-5309).  
+
+---
 
 ## Journal Reviewer
 
