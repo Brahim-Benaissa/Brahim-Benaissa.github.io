@@ -125,16 +125,6 @@ collaboration.
 
 ---
 
-## Journal Reviewer
-
-- <a href="https://www.springer.com/journal/10915" target="_blank"> Journal of Scientific Computing</a> (ISSN 1573-7691)
-
-- <a href="https://www.mdpi.com/journal/jcs" target="_blank"> Journal of Composites Science</a> (ISSN 2504-477X)
-
-- <a href="https://www.fracturae.com/index.php/fis/about" target="_blank"> Frattura ed Integrità Strutturale (Fracture and Structural Integrity)</a> (ISSN 1971-8993)
-
----
-
 ## Conference Organization
 
 - **Scientific committee**: <a href="https://ihsh2022.uqar.ca/" target="_blank"> IHSH'2022</a>  The 2022 International Conference on Human-Centric Smart Environments for Health and Well-being. 26-28th October 2022. University of Québec at Rimouski, Canada.
@@ -156,3 +146,13 @@ collaboration.
 - **Managing Chair**: <a href="http://www.olab-dynamics.net/wetice2018/softnet.html" target="_blank"> SOFTNET 2018</a> Soft Computing Methods for the Design, Deployment, and Reliability of Networks and Network Applications. 27-29 June 2018. Paris, France.
 
 - **Scientific committee**: <a href="https://mobicase.eai-conferences.org/2021/" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan. <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> https://link.springer.com/book/10.1007/978-3-319-90740-6</a>
+
+---
+
+## Journal Reviewer
+
+- <a href="https://www.springer.com/journal/10915" target="_blank"> Journal of Scientific Computing</a> (ISSN 1573-7691)
+
+- <a href="https://www.mdpi.com/journal/jcs" target="_blank"> Journal of Composites Science</a> (ISSN 2504-477X)
+
+- <a href="https://www.fracturae.com/index.php/fis/about" target="_blank"> Frattura ed Integrità Strutturale (Fracture and Structural Integrity)</a> (ISSN 1971-8993)
