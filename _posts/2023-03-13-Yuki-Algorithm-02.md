@@ -20,10 +20,6 @@ pin: true
 
 
 ---
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/YUKI Algorithm.zip %}"  download> 📂 Download MATLAB Code (Zip)</a>
-
-
----
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/YUKI ALGORITHM 1.0.docx %}"  download> 📓 Manuscript (Word.docx)</a>
 
