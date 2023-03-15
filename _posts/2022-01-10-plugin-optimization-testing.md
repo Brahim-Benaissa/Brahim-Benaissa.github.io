@@ -29,9 +29,7 @@ A collection of Benchmark functions for optimization algorithm testing. Plugin y
 
 ---
 
-## <a target="_blank" href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> 🔗 YUKI Algorithm </a>
-
----
+## <a target="_blank" href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> 🔗 YUKI Algorithm 0.2 </a>
 
 ## 📑 Cite  as
 
