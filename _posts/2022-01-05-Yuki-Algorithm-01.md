@@ -11,12 +11,12 @@ pin: true
 ---
 
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI Algorithm.zip %}"  download> 📂 Download MATLAB Code (Zip)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/YUKI Algorithm.zip %}"  download> 📂 Download MATLAB Code (Zip)</a>
 
 
 ---
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📓 Manuscript (Word.docx)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/YUKI ALGORITHM 1.0.docx %}"  download> 📓 Manuscript (Word.docx)</a>
 
 ---
 
@@ -31,11 +31,11 @@ pin: true
 
 <p align="center">
 
-<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/reference file/YA1.bib %}"  download> <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; BibTeX &ensp;&ensp;&ensp; |</span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/reference file/YA1.bib %}"  download> <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; BibTeX &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/reference file/YA1.enw %}"  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/reference file/YA1.enw %}"  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; EndNote &ensp;&ensp;&ensp; |</span> </a>
 
-<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/reference file/YA1.ris %}"  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
+<a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/reference file/YA1.ris %}"  download>  <span style="font-size:1.2em;"> &ensp;&ensp;&ensp; RefMan / Mendeley &ensp;&ensp;&ensp; </span> </a>
 
 </p>
 
@@ -69,7 +69,7 @@ pin: true
 
 <p align="center">
 
-<object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="750px" height="500px"> </object>
+<object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="750px" height="500px"> </object>
 
 </p>
 
