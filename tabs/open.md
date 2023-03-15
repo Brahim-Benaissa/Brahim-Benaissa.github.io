@@ -10,7 +10,7 @@ toc: true
 
 ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> **YUKI Algorithm** [ Matlab Code ] </a>
 
-## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> **YUKI Algorithm** [ Python Code ] </a>
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> **YUKI Algorithm** [ Python Code ] </a>
 
 ## <a href="{{site.baseurl}}/posts/plugin-optimization-testing"> Optimization **Test Functions** [ Matlab Code ] </a>
 
