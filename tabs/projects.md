@@ -19,9 +19,9 @@ I would love to help!
 
 ---
 
-# YUKI Algorithm
+# Optimization Algorithm
 
-## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm 1.0 </a>
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm</a>
 
 <p align="center">
 
