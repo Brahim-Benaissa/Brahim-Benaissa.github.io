@@ -1,8 +1,8 @@
 ---
-title: YUKI Algorithm 1.0
+title: YUKI Algorithm 2.0
 author: Brahim Benaissa
-date: 2022-01-05 16:07:00 +0900
-categories: [Open Source Code, Optimization, Matlab]
+date: 2023-03-13 16:07:00 +0900
+categories: [Open Source Code, Optimization, Python]
 tags: [Ongoing]
 toc: true
 published: true
@@ -11,16 +11,12 @@ pin: true
 ---
 
 
-## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI Algorithm.zip %}"  download> 📂 Download MATLAB Code (Zip)</a>
+## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI py.zip %}"  download> 📂 Download Python Code (Zip)</a>
 
 
 ---
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 1.0/YUKI ALGORITHM 1.0.docx %}"  download> 📓 Manuscript (Word.docx)</a>
-
----
-
-## <a target="_blank" href="{{site.baseurl}}/posts/plugin-optimization-testing"> 🔗 More Test Functions </a>
 
 ---
 
