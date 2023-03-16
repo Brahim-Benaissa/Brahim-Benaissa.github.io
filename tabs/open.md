@@ -10,9 +10,9 @@ toc: true
 
 <!-- ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> **YUKI Algorithm 1.0** [ Matlab Code ] </a>  -->
 
-## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> **YUKI Algorithm 2.0** [ Python Code + Matlab Code ] </a>
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> **YUKI Algorithm 2.0** [ Python + Matlab ] </a>
 
-## <a href="{{site.baseurl}}/posts/plugin-optimization-testing"> **Optimization Test Functions (YUKI Algorithm 1.0)** [ Matlab Code ] </a>
+## <a href="{{site.baseurl}}/posts/plugin-optimization-testing"> **Optimization Test Functions (YUKI Algorithm 1.0)** [ Matlab ] </a>
 
 ##  Indoor localization **Android App** [ Android .APK ]
 
