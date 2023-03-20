@@ -19,7 +19,7 @@ I would love to help!
 
 ---
 
-# Optimization Algorithm
+# Soft Computing Tools
 
 ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> YUKI Algorithm 2</a>
 
@@ -59,17 +59,16 @@ I would love to help!
 
 ---
 
-# Other Projects
+# Current Projects
 
 ## Deep Learning for **Multidisciplinary Design Optimization** *(@ Toyota technological Institute)*
+
+## Exploratoty Topology Optimization Algorithms <a target="_blank" href="https://musaddiqalali.github.io/">  with Dr. Al ALi  </a>
 
 ---
 
 ## Data-based modeling for **Innovative Structural Health Monitoring**
 
----
-
-## Practical Soft Computing **Systems for Damage Identification**
 
 ---
 
