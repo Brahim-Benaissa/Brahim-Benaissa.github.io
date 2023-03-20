@@ -25,7 +25,7 @@ I would love to help!
 
 <p align="center">
 
-    <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"><img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 2.0/FZ.jpg" width="50%"> </a>
+    <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"><img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 2.0/FZ.jpg" width="100%"> </a>
 
 </p>
 
@@ -34,7 +34,7 @@ I would love to help!
 
 <p align="center">
 
-    <a href="{{site.baseurl}}/posts/POD_RBF"><img src="{{site.baseurl}}/assets/files/Projects/POD RBF/POD-RBF.jpg" width="50%"> </a>
+    <a href="{{site.baseurl}}/posts/POD_RBF"><img src="{{site.baseurl}}/assets/files/Projects/POD RBF/POD-RBF.jpg" width="100%"> </a>
 
 </p>
 
