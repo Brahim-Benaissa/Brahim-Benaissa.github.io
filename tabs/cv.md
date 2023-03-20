@@ -123,6 +123,7 @@ collaboration.
 
 - <a href="https://www.mdpi.com/journal/buildings/special_issues/OR578F0237" target="_blank"> Special Issue: Advances in Inverse Problem Applications in Structural Health Monitoring </a>.  
 
+  <!-- https://jurnal.unimed.ac.id/2012/index.php/jids -->
 ---
 
 ## Conference Organization
