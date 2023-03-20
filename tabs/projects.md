@@ -25,7 +25,7 @@ I would love to help!
 
 <p align="center">
 
-    <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"><img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 2.0/FZone.jpg" width="60%"> </a>
+    <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"><img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 2.0/FZone.jpg" width="55%"> </a>
 
 </p>
 
