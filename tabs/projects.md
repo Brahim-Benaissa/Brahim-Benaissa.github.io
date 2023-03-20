@@ -21,7 +21,24 @@ I would love to help!
 
 # Optimization Algorithm
 
-## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm</a>
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> YUKI Algorithm 2</a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"><img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM 2.0/FZ.jpg" width="50%"> </a>
+
+</p>
+
+
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> POD-RBF Tool</a>
+
+<p align="center">
+
+    <a href="{{site.baseurl}}/posts/POD_RBF"><img src="{{site.baseurl}}/assets/files/Projects/POD RBF/POD-RBF.jpg" width="50%"> </a>
+
+</p>
+
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm 1</a>
 
 <p align="center">
 
