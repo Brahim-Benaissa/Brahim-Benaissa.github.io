@@ -51,6 +51,7 @@ M Slimani, T Khatir, S TIACHACHT, D BOUTCHICHA, **B Benaissa**. **Experimental s
 A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. **Residual Force Method for damage identification in a laminated composite plate with different boundary conditions**. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>.  <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank">   **(Download PDF)** </a>
 
 **B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. **YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification**. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a>.
+
 📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/YUKI Algorithm 2021.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 🔍[more on YUKI algorithm]({{site.baseurl}}/posts/Yuki-Algorithm-02)
 🔍[more on POD-RBF]({{site.baseurl}}/posts/POD_RBF)
