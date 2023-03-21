@@ -20,7 +20,7 @@ pin: true
 
 
 ---
-## ❓ What is YUKI Algorithm ?
+## What is YUKI Algorithm❓
 
 It is an metaheuristics earch algorithm, The idea behind it is to divide the search space into small sections and focus on the local area where the best solutions are found. The search area size is dynamic and changes based on the quality of results around the best solution. Reducing the search space has advantages of simplicity and clear search behavior. However, the dynamic change of the search space increases the risk of collapsing on a local optimum. The YUKI algorithm avoids that by exploring the search space while reducing.
 
