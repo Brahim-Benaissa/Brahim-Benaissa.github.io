@@ -21,6 +21,10 @@ A collection of Benchmark functions for optimization algorithm testing. Plugin y
 
 ---
 
+Benchmark optimization functions are mathematical functions that have been established and widely accepted as standards for testing and evaluating optimization algorithms. They are used to assess the performance of an algorithm in terms of accuracy, speed, robustness, and other criteria. Some of the popular benchmark optimization functions include the sphere function, Rosenbrock's function, Rastrigin's function, Ackley's function, Griewank's function, and Schwefel's function, among others. These functions vary in complexity, dimensionality, and the presence of multiple local optima, which makes them suitable for testing different types of optimization algorithms. The use of benchmark functions helps to provide a fair and standardized assessment of optimization algorithms and aids in the comparison of different algorithms on a common ground.
+
+---
+
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Equations of the test functions Latex.docx %}"  download>  📓 LaTeX Equations (Word.docx)</a>
 
 ---
