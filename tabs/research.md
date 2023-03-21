@@ -26,10 +26,7 @@ M Slimani, S Tiachacht,  A Behtani, T Khatir, S Khatir, **B Benaissa**,M K Riahi
 
 A Kahouadji, S Tiachacht, M Slimani, A Behtani, S Khatir, **B Benaissa** . **Vibration-Based Damage Assessment in Truss Structures Using Local Frequency Change Ratio Indicator Combined with Metaheuristic Optimization Algorithms**. *Lecture Notes in Civil Engineering*. 2023. <a href="https://doi.org/10.1007/978-3-031-24041-6_14" target="_blank"> https://doi.org/10.1007/978-3-031-24041-6_14 </a>
 
-<div align="center">
-📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/DESIGN_recommender.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
-</div>
-**B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *Arxiv,Computers and Society*. 2023. <a href="https://doi.org/10.48550/arXiv.2301.10984" target="_blank"> https://doi.org/10.48550/arXiv.2301.10984 </a>.
+**B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *Arxiv,Computers and Society*. 2023. <a href="https://doi.org/10.48550/arXiv.2301.10984" target="_blank"> https://doi.org/10.48550/arXiv.2301.10984 </a>. 📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/DESIGN_recommender.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
  M I Shirazi, S Khatir, **B Benaissa**, S Mirjalili, M Abdel Wahab. **Damage assessment in laminated composite plates using Modal Strain Energy and YUKI-ANN algorithm**. *Composite Structures*. 2023. <a href="https://doi.org/10.1016/j.compstruct.2022.116272" target="_blank"> https://doi.org/10.1016/j.compstruct.2022.116272 </a>
 
@@ -39,10 +36,7 @@ M As, H Abdullah, H Syahputra, **B Benaissa**, F Harahap. **An Image Processing 
 
 M A Sahali, A Aini, L Bouzit, L Himed, **B Benaissa**. **Experimental modeling and multi-objective optimization of friction stir welding parameters of AA 3004 aluminum alloy**. *The International Journal of Advanced Manufacturing Technology*. 2022. <a href="https://doi.org/10.1007/s00170-022-10349-2" target="_blank"> https://doi.org/10.1007/s00170-022-10349-2 </a>
 
-<div align="center">
-📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
-</div>
-**B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>.
+**B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>. 📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
 M As, H Shimizu, **B Benaissa**, K Yoshida, M Köppen. **Calibration Cost Reduction of Indoor Localization Using Bluetooth Low Energy Beacon**. *Journal of Advanced Computational Intelligence and Intelligent Informatics*. 2022. <a href="https://doi.org/10.20965/jaciii.2022.p0097" target="_blank"> https://doi.org/10.20965/jaciii.2022.p0097 </a>
 
@@ -50,10 +44,7 @@ S Khatir, S Tiachacht, **B Benaissa**, C L Thanh, R Capozucca, M Abdel Wahab. **
 
 F Althobiani, S Khatir, **B Benaissa**, E Ghandourah, S Mirjalili, M Abdel Wahab. **A hybrid PSO and Grey Wolf optimization algorithm for static and dynamic Crack identification**. *Theoretical and Applied Fracture Mechanics*. 2022. <a href="https://doi.org/10.1016/j.tafmec.2021.103213" target="_blank">https://doi.org/10.1016/j.tafmec.2021.103213</a>
 
-<div align="center">
-📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Slimani.pdf %}" target="_blank">  **(Download PDF)** </a>  
-</div>
-M Slimani, T Khatir, S TIACHACHT, D BOUTCHICHA, **B Benaissa**. **Experimental sensitivity analysis of sensor placement based on virtual springs and damage quantification in CFRP composite**. *Journal of Materials and Engineering Structures*. 2022.
+M Slimani, T Khatir, S TIACHACHT, D BOUTCHICHA, **B Benaissa**. **Experimental sensitivity analysis of sensor placement based on virtual springs and damage quantification in CFRP composite**. *Journal of Materials and Engineering Structures*. 2022. 📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Slimani.pdf %}" target="_blank">  **(Download PDF)** </a>  
 
 ## 2021
 
@@ -61,16 +52,11 @@ M Slimani, T Khatir, S TIACHACHT, D BOUTCHICHA, **B Benaissa**. **Experimental s
 A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. **Residual Force Method for damage identification in a laminated composite plate with different boundary conditions**. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>.
 
 <div align="center">
-📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/YUKI Algorithm 2021.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
-🔍[more on YUKI algorithm]({{site.baseurl}}/posts/Yuki-Algorithm-02)
-🔍[more on POD-RBF]({{site.baseurl}}/posts/POD_RBF)
-</div>
-**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. **YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification**. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a>.
 
-<div align="center">
-📎 <a href="	https://www.fracturae.com/index.php/fis/article/download/3235/3370/17171 " target="_blank">.   **(Download PDF)** </a>
 </div>
-S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. **Damage identification in steel plate using FRF and inverse analysis**. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a>
+**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. **YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification**. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a>.📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/YUKI Algorithm 2021.pdf %}" target="_blank">  **(Download Preprint PDF)** </a> 🔍**more on YUKI algorithm**({{site.baseurl}}/posts/Yuki-Algorithm-02). **more on POD-RBF**({{site.baseurl}}/posts/POD_RBF)
+
+S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. **Damage identification in steel plate using FRF and inverse analysis**. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a>. 📎 <a href="	https://www.fracturae.com/index.php/fis/article/download/3235/3370/17171 " target="_blank">.   **(Download PDF)** </a>
 
 ## 2020
 
@@ -78,10 +64,7 @@ S Alia, P Lago, S Takeda, K Adachi, **B Benaissa**, M A Rahman Ahad, S Inoue. **
 
 P Lago, S Takeda, K Adachi, SS Alia, M Matsuki, **B Benaissa**, S Inoue, C Charpillet. **Cooking Activity Dataset with Macro and Micro Activities**. *IEEE-dataport.*. 2020. <a href="https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities" target="_blank"> https://doi.org/10.21227/hyzg-9m49 </a>
 
-<div align="center">
-📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Activity.pdf %}" target="_blank">  **(Download PDF)** </a>
-</div>
-P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. **A dataset for complex activity recognition with micro and macro activities in a cooking scenario**. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a>.
+P Lago, S Takeda, SS Alia, K Adachi, **B Benaissa**, F Charpillet, S Inoue. **A dataset for complex activity recognition with micro and macro activities in a cooking scenario**. *ARXIV Human-Computer Interaction*. 2020. <a href="https://arxiv.org/abs/2006.10681" target="_blank">  https://doi.org/10.48550/arXiv.2006.1068 </a>. 📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Activity.pdf %}" target="_blank">  **(Download PDF)** </a>
 
 ## 2019
 
@@ -103,10 +86,7 @@ W A Syafruddin, M Köppen, **B Benaissa**. Does the Jaya Algorithm Really Need N
 
 **B Benaissa**, M Köppen, M Abdel Wahab, S Khatir. **Application of Proper Orthogonal Decomposition and Radial Basis Functions for crack size estimation using Particle Swarm Optimization**. *Journal of Physics: Conference Series*. 2017. <a href="https://doi.org/10.1088/1742-6596/842/1/012014  " target="_blank"> https://doi.org/10.1088/1742-6596/842/1/012014</a>
 
-<div align="center">
-📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/IJAE.pdf %}" target="_blank">  **(Download PDF)** </a>
-</div>
-**B Benaissa**, M Köppen, K Yoshida. **Activity and emotion recognition for elderly health monitoring**. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a>.
+**B Benaissa**, M Köppen, K Yoshida. **Activity and emotion recognition for elderly health monitoring**. *International Journal of Affective Engineering*. 2017. <a href="https://doi.org/10.5057/ijae.IJAE-D-17-00020" target="_blank"> https://doi.org/10.5057/ijae.IJAE-D-17-00020 </a>. 📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/IJAE.pdf %}" target="_blank">  **(Download PDF)** </a>
 
 ## 2016
 
@@ -128,10 +108,6 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. **Genetic Algorithm Based
 
 ## 2022
 
-<div align="center">
-🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-030674/9C97360680C7758C8184EA54D426902BB9CB7E3DC365988060C5122DE362D0B3/11/en" target="_blank"> Patent Link </a>.
-📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2022030674-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>  
-</div>
 **B Benaissa**, K Yoshida. **Indoor position estimation system, indoor location estimation method Using BLE Beacon and Bluetooth receivers**. **屋内位置推定システム及び屋内位置推定方法**.
 Patent number: JP,2022-030674,A.
 Application number: JP,2020-134829.
@@ -139,12 +115,11 @@ Filing date: Aug.07,2020.
 Publication date: Feb.18,2022.
 Patent office: JP.
 
+🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2022-030674/9C97360680C7758C8184EA54D426902BB9CB7E3DC365988060C5122DE362D0B3/11/en" target="_blank"> Patent Link </a>.
+📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2022030674-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>  
+
 ## 2021
 
-<div align="center">
-🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-051512/D8919F31B88D9DC1F01D2E10AAD508B0232290F09277F4F1D8803A57BA5DB407/11/en" target="_blank"> Patent Link </a>.
-📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2021051512-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>  
-</div>
 D Belanova, K Yoshida, **B Benaissa**. **VR space image correction system, VR space image correction method, and program for executing VR space image correction method**. **ＶＲ空間画像補正システム、ＶＲ空間画像補正方法、及びＶＲ空間画像補正方法を実行するプログラム**.
 Patent number: JP,2021-051512,A.
 Application number: JP,2019-173523.
@@ -152,12 +127,11 @@ Filing date: Sep.24,2019.
 Publication date: Apr.01,2021.
 Patent office: JP.
 
+🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-051512/D8919F31B88D9DC1F01D2E10AAD508B0232290F09277F4F1D8803A57BA5DB407/11/en" target="_blank"> Patent Link </a>.
+📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2021051512-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>  
+
 ## 2020
 
-<div align="center">
-🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-085715/6472184A9C1BA3C02A7A5B57227B965937591B946256D3B475D3DB73B74B6399/11/en" target="_blank"> Patent Link </a>.
-📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2020085715-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>   
-</div>
 **B Benaissa**, F Hendrichovsky, K Yoshida. **Mapping system for indoor location estimation and mapping program for indoor location estimation**. **屋内位置推定用マッピングシステム及び屋内位置推定用マッピングプログラム**.
 Patent number: JP,2020-085715,A.
 Application number: JP,2018-222171.
@@ -165,18 +139,20 @@ Filing date: Nov.28,2018.
 Publication date: Jun.04,2020.
 Patent office: JP.
 
+🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-085715/6472184A9C1BA3C02A7A5B57227B965937591B946256D3B475D3DB73B74B6399/11/en" target="_blank"> Patent Link </a>.
+📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2020085715-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>  
+
 ## 2019
 
-<div align="center">
-🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-144120/D2AEC53EF2F8FF9FB2D2206C0D40F75F9B90308B837CEA68B2BC4074FF9D4E6C/11/en" target="_blank"> Patent Link </a>.
-📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2019144120-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>    
-</div>
 **B Benaissa**, K Yoshida. **Indoor location estimation system, indoor location estimation method, and program for executing the indoor location estimation method Using BLE Beacon and Smartphone**. **屋内位置推定システム、屋内位置推定方法、及び屋内位置推定方法を実行するプログラム**.
 Patent number: JP,2019-144120,A.
 Application number: JP,2018-028688.
 Filing date: Feb.21,2018.
 Publication date: Aug.29,2019.
 Patent office: JP.
+
+🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-144120/D2AEC53EF2F8FF9FB2D2206C0D40F75F9B90308B837CEA68B2BC4074FF9D4E6C/11/en" target="_blank"> Patent Link </a>.
+📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2019144120-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>   
 
 ---
 
