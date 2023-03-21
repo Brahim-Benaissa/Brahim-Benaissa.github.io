@@ -24,6 +24,65 @@ A collection of Benchmark functions for optimization algorithm testing. Plugin y
 
 Benchmark optimization functions are mathematical functions that have been established and widely accepted as standards for testing and evaluating optimization algorithms. They are used to assess the performance of an algorithm in terms of accuracy, speed, robustness, and other criteria. Some of the popular benchmark optimization functions include the sphere function, Rosenbrock's function, Rastrigin's function, Ackley's function, Griewank's function, and Schwefel's function, among others. These functions vary in complexity, dimensionality, and the presence of multiple local optima, which makes them suitable for testing different types of optimization algorithms. The use of benchmark functions helps to provide a fair and standardized assessment of optimization algorithms and aids in the comparison of different algorithms on a common ground.
 
+# List of function:
+
+Function	Description
+F1	Sphere function
+F2	Powell sum function
+F3	Ridge function
+F4	Brown function
+F5	Exponential function
+F6	Xin-She Yang N. 3 Function
+F7	Zakharov function
+F8	Schwefel 220 function
+F9	Schwefel 2.21 function
+F10	Schwefel 2.22 function
+F11	Rosenbrock function
+F12	Schwefel function
+F13	Rastrigin function
+F14	Xin-She Yang N. 2 Function
+F15	Xin-She Yang N. 4 Function
+F16	Happy Cat function
+F17	Periodic function
+F18	Quartic function
+F19	Shubert 3 function
+F20	Salomon function
+F21	Three-Hump Camel function
+F22	Drop-Wave function
+F23	Leon function
+F24	Booth function
+F25	Matyas function
+F26	Brent function
+F27	Schaffer N. 1 function
+F28	Ackley N. 2 function
+F29	Bohachevsky N. 1 function
+F30	Schaffer N. 4 function
+F31	Keane function
+F32	Levi N. 13 function
+F33	Bukin N. 6 function
+F34	Holder Table function
+F35	Cross-in-Tray function
+F36	Wolfe function
+F37	Eggcrate function
+F38	McCormick function
+F39	Deckkers-Aarts function
+F40	Bartels Conn function
+F41	Composition Function 1, 3 Functions
+F42	Composition Function 2, 3 Functions
+F43	Composition Function 3, 4 Functions
+F44	Composition Function 4, 4 Functions
+F45	Composition Function 5, 6 Functions
+F46	Composition Function 6, 6 Functions
+F47	Composition Function 7, 8 Functions
+F48	Composition Function 8, 8 Functions
+F49	Composition Function 9, 10 Functions
+F50	Composition Function 10, 10 Functions
+F51	Welded Beam Design
+F52	Tension/Compression Spring Design
+F53(x)	Pressure Vessel Design Problem
+F54(x)	Cantilever Beam Design Problem
+
+
 ---
 
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/Equations of the test functions Latex.docx %}"  download>  📓 LaTeX Equations (Word.docx)</a>
