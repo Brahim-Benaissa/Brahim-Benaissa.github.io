@@ -21,6 +21,18 @@ pin: true
 
 ---
 
+The idea behind YUKI algorithm is to divide the search space into small sections and focus on the local area where the best solutions are found. The search area size is dynamic and changes based on the quality of results around the best solution. Reducing the search space has advantages of simplicity and clear search behavior. However, the dynamic change of the search space increases the risk of collapsing on a local optimum. The YUKI algorithm avoids that by exploring the search space while reducing.
+
+ It creates a local search area centered around the best solution found so far X_best, with the area's size determined by the distance between this point and the MeanBest X_MeanBest. The local boundaries LT and LB are calculated using the expressions: D=|X_best-X_MeanBest |, LT=X_best+D, and LB=X_best-D.
+
+The YUKI algorithm proposes to partition the population into two groups. One group is tasked with exploring the search space beyond the local region, while the other focuses on searching within the local region. The number of individuals in each group varies linearly, with more individuals allocated to exploring the search space beyond the local region in the initial stages of the algorithm, and more individuals dedicated to searching within the local region as the iterations progress. In the improved YUKI algorithm, this technique is replaced by a simpler version where the rate is constant throughout the iteration, and its value is set by the user. This parameter is named EXP for exploration rate, and its value is between 0 and 1, indicating the portion of the population dedicated to exploration.
+
+The other concept of the YUKI algorithm involves creating a distribution of solutions within the local search area, and the chosen points are utilized for exploration to generate the final solutions outside the local search area. It is based on a simpler yet efficient technique that uses the distance between the locally generated points and the best historical points. This allows the distribution of the solution in multiple directions, thus a good coverage of the search space.
+
+The algorithm gradually converges the search towards the best point, decreasing the size of the local search area, allowing for more accurate identification of refined fitness values. The goal of the algorithm is to minimize the distance between the center of the best points cloud and the position of the global best point, which will minimize the size of the local search space.
+
+---
+
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/YUKI ALGORITHM 1.0.docx %}"  download> 📓 Manuscript (Word.docx)</a>
 
 ---
