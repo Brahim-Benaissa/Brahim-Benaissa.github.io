@@ -26,8 +26,6 @@ Benchmark optimization functions are mathematical functions that have been estab
 
 # List of function:
 
-<div align="center">
-
 | Function | Description |
 | --- | --- |
 | F1 | Sphere function |
@@ -84,7 +82,7 @@ Benchmark optimization functions are mathematical functions that have been estab
 | F52 | Tension/Compression Spring Design |
 | F53 | Pressure vessel design problem |
 | F54 | Cantilever beam design problem |
-</div>
+
 
 ---
 
