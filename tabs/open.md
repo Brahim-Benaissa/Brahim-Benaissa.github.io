@@ -10,7 +10,7 @@ toc: true
 
 ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> **YUKI Algorithm 2.0** [ Python + Matlab ] </a>
 
-## <a href="{{site.baseurl}}/posts/POD_RBF"> **POD-RBF Tool** [ Matlab ] </a>
+## <a href="{{site.baseurl}}/posts/POD_RBF"> **POD_RBF Tool** [ Matlab ] </a>
 
 ## <a href="{{site.baseurl}}/posts/YUKI_ANN"> **YUKI_ANN** [ Matlab ] </a>
 
