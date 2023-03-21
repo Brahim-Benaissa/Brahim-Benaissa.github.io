@@ -20,8 +20,9 @@ pin: true
 
 
 ---
+# WHAT IS YUKI Algorithm ?
 
-The idea behind YUKI algorithm is to divide the search space into small sections and focus on the local area where the best solutions are found. The search area size is dynamic and changes based on the quality of results around the best solution. Reducing the search space has advantages of simplicity and clear search behavior. However, the dynamic change of the search space increases the risk of collapsing on a local optimum. The YUKI algorithm avoids that by exploring the search space while reducing.
+It is an metaheuristics earch algorithm, The idea behind it is to divide the search space into small sections and focus on the local area where the best solutions are found. The search area size is dynamic and changes based on the quality of results around the best solution. Reducing the search space has advantages of simplicity and clear search behavior. However, the dynamic change of the search space increases the risk of collapsing on a local optimum. The YUKI algorithm avoids that by exploring the search space while reducing.
 
  It creates a local search area centered around the best solution found so far X_best, with the area's size determined by the distance between this point and the MeanBest X_MeanBest. The local boundaries LT and LB are calculated using the expressions: D=|X_best-X_MeanBest |, LT=X_best+D, and LB=X_best-D.
 
