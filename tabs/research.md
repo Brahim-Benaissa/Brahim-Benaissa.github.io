@@ -36,7 +36,7 @@ M As, H Abdullah, H Syahputra, **B Benaissa**, F Harahap. **An Image Processing 
 
 M A Sahali, A Aini, L Bouzit, L Himed, **B Benaissa**. **Experimental modeling and multi-objective optimization of friction stir welding parameters of AA 3004 aluminum alloy**. *The International Journal of Advanced Manufacturing Technology*. 2022. <a href="https://doi.org/10.1007/s00170-022-10349-2" target="_blank"> https://doi.org/10.1007/s00170-022-10349-2 </a>
 
-**B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>.<a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
+**B Benaissa**, M Kobayashi. **The consumers’ response to product design: a narrative review**. *Ergonomics*. 2022. <a href="https://doi.org/10.1080/00140139.2022.2127919" target="_blank"> https://doi.org/10.1080/00140139.2022.2127919 </a>. <a href="{{ site.baseurl }}{% link /assets/files/Preprints/Consumer.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
 
 M As, H Shimizu, **B Benaissa**, K Yoshida, M Köppen. **Calibration Cost Reduction of Indoor Localization Using Bluetooth Low Energy Beacon**. *Journal of Advanced Computational Intelligence and Intelligent Informatics*. 2022. <a href="https://doi.org/10.20965/jaciii.2022.p0097" target="_blank"> https://doi.org/10.20965/jaciii.2022.p0097 </a>
 
@@ -50,7 +50,10 @@ M Slimani, T Khatir, S TIACHACHT, D BOUTCHICHA, **B Benaissa**. **Experimental s
 
 A Behtani, S Tiachacht, T Khatir, S Khatir, M Abdel Wahab, **B Benaissa**. **Residual Force Method for damage identification in a laminated composite plate with different boundary conditions**. *Frattura ed Integrità Strutturale*. 2021. <a href="	https://doi.org/10.3221/IGF-ESIS.59.03 " target="_blank"> 	https://doi.org/10.3221/IGF-ESIS.59.03</a>.  <a href="	https://www.fracturae.com/index.php/fis/article/download/3255/3381/17321 " target="_blank">   **(Download PDF)** </a>
 
-**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. **YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification**. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a>.  <a href="{{ site.baseurl }}{% link /assets/files/Preprints/YUKI Algorithm 2021.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
+**B Benaissa**, N Aït Hocine, S Khatir, M K Riahi, S Mirjalili. **YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification**. *Journal of Computational Science*. 2021. <a href="https://doi.org/10.1016/j.jocs.2021.101451" target="_blank"> https://doi.org/10.1016/j.jocs.2021.101451 </a>.
+📎 <a href="{{ site.baseurl }}{% link /assets/files/Preprints/YUKI Algorithm 2021.pdf %}" target="_blank">  **(Download Preprint PDF)** </a>
+🔍[more on YUKI algorithm]({{site.baseurl}}/posts/Yuki-Algorithm-02)
+🔍[more on POD-RBF]({{site.baseurl}}/posts/POD_RBF)
 
 S Khatir, M Abdel Wahab, S Tiachacht, C L Thanh, R Capozucca, E Magagnini, **B Benaissa**. **Damage identification in steel plate using FRF and inverse analysis**. *Frattura ed Integrità Strutturale*. 2021. <a href="https://doi.org/10.3221/IGF-ESIS.58.30" target="_blank"> https://doi.org/10.3221/IGF-ESIS.58.30 </a> <a href="	https://www.fracturae.com/index.php/fis/article/download/3235/3370/17171 " target="_blank">.   **(Download PDF)** </a>
 
