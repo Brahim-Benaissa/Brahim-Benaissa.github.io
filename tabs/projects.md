@@ -38,6 +38,8 @@ I would love to help!
 
 </p>
 
+
+<!--
 ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm 1</a>
 
 <p align="center">
@@ -54,6 +56,9 @@ I would love to help!
 
 </p>
 
+ -->
+
+ 
 <!-- |<a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> YUKI Algorithm 1.0 <br> <a href="{{site.baseurl}}/posts/Yuki-Algorithm-01"> <img src="{{site.baseurl}}/assets/files/Projects/YUKI ALGORITHM/YA_F50.jpg" width="100%"> </a> |<a href="{{site.baseurl}}/posts/plugin-optimization-testing"> Test Functions for Optimization </a> <br> <a href="{{site.baseurl}}/posts/plugin-optimization-testing"><img src="{{site.baseurl}}/assets/files/Projects/OPTIMIZATION TEST FUNCTIONS/TestFunctions.jpg" width="60%"> </a> -->
 
 

@@ -14,6 +14,8 @@ toc: true
 
 ## 2023
 
+E Ghandourah, S Khatir, E M Banoqitah, A M Alhawsawi, **B Benaissa**, M Abdel Wahab. **Enhanced ANN Predictive Model for Composite Pipes Subjected to Low-Velocity Impact Loads**. *Buildings*. 2023. <a href=" https://doi.org/10.3390/buildings13040973 " target="_blank">  https://doi.org/10.3390/buildings13040973 </a>
+
 **B Benaissa**, S Khatir, MS Jouini, MK Riahi. **Optimal Axial-Probe Design for Foucault-Current Tomography: A Global Optimization Approach Based on Linear Sampling Method**. *Energies*. 2023. <a href=" https://doi.org/10.3390/en16052448 " target="_blank">  https://doi.org/10.3390/en16052448 </a>
 
 A Khatir, R Capozucca, S Khatir, E Magagnini a, **B Benaissa**,  L  T Cuong, M Abdel Wahab. **A new hybrid PSO-YUKI for double crack identification in CFRP cantilever beam**. *Composite Structures*. 2023. <a href=" https://doi.org/10.1016/j.compstruct.2023.116803" target="_blank">  https://doi.org/10.1016/j.compstruct.2023.116803 </a>
