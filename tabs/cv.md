@@ -105,6 +105,8 @@ collaboration.
 
 ## Supervision and Mentoring
 
+<!-- - *AI modeling for  s*, **MSc.,  2022, Toyota Technological Institute. Japan**.  -->
+
 - *Exploring the Use of Accelerometer for Assisting Weight Lifting Exercise*, **MSc.,  2020, Kyushu Institute of technology. Japan**. <a href="http://sozolab.jp/publications/605-exploring-the-use-of-accelerometer-for" target="_blank">*Link*</a>
 
 - *Hand Position Tracking Correction of Leap Motion Controller Attached to the Virtual Reality Headset*, **MSc.,  2019, Kyushu Institute of technology. Japan**. <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_ja.html" target="_blank">*Link*</a>
@@ -119,11 +121,14 @@ collaboration.
 
 # ✋ Scientific Community Roles
 
-## Guest Editor
+## Journal Editor
 
-- <a href="https://www.mdpi.com/journal/buildings/special_issues/OR578F0237" target="_blank"> Special Issue: Advances in Inverse Problem Applications in Structural Health Monitoring </a>.  
+  -  **Editor**: <a href="https://jurnal.unimed.ac.id/2012/index.php/jids" target="_blank"> Journal of Informatics and Data Science  </a>. ISSN: 2964-0415
 
-  <!-- https://jurnal.unimed.ac.id/2012/index.php/jids -->
+  -  **Editor**: <a href="https://jurnal.unimed.ac.id/2012/index.php/jids/index " target="_blank"> Advances in Computational Structures  </a>. ISSN :2815-6218
+
+  - **Guest Editor**: <a href="https://www.mdpi.com/journal/buildings/special_issues/OR578F0237" target="_blank"> Special Issue: Advances in Inverse Problem Applications in Structural Health Monitoring </a>.
+
 ---
 
 ## Conference Organization
