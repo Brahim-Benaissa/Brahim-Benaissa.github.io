@@ -125,7 +125,7 @@ collaboration.
 
 <!--   - **Editor**: <a href="https://jurnal.unimed.ac.id/2012/index.php/jids" target="_blank"> Journal of Informatics and Data Science  </a>. ISSN: 2964-0415 -->
 
-  - **Editor**: <a href=" http://testojs.ou.edu.vn/index.php/acs " target="_blank"> Advances in Computational Structures  </a>. ISSN :2815-6218  
+  - **Editor**: <a href=" http://testojs.ou.edu.vn/index.php/acs/about/editorialTeam " target="_blank"> Advances in Computational Structures  </a>. ISSN :2815-6218  
 
   - **Guest Editor**: <a href="https://www.mdpi.com/journal/buildings/special_issues/OR578F0237" target="_blank"> Special Issue: Advances in Inverse Problem Applications in Structural Health Monitoring </a>.
 
