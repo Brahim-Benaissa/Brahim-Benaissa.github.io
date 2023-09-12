@@ -38,7 +38,7 @@ A Kahouadji, S Tiachacht, M Slimani, A Behtani, S Khatir, **B Benaissa** . **Vib
 
 **B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *UPC knowledge*. 2023. <a href="http://dx.doi.org/10.5821/conference-9788419184849.19" target="_blank"> http://dx.doi.org/10.5821/conference-9788419184849.19</a>.
 
- M I Shirazi, S Khatir, **B Benaissa**, S Mirjalili, M Abdel Wahab. **Damage assessment in laminated composite plates using Modal Strain Energy and YUKI-ANN algorithm**. *Composite Structures*. 2023. <a href="https://doi.org/10.1016/j.compstruct.2022.116272" target="_blank"> https://doi.org/10.1016/j.compstruct.2022.116272 </a>
+M I Shirazi, S Khatir, **B Benaissa**, S Mirjalili, M Abdel Wahab. **Damage assessment in laminated composite plates using Modal Strain Energy and YUKI-ANN algorithm**. *Composite Structures*. 2023. <a href="https://doi.org/10.1016/j.compstruct.2022.116272" target="_blank"> https://doi.org/10.1016/j.compstruct.2022.116272 </a>
 
 ## 2022
 
