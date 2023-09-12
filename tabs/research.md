@@ -20,7 +20,7 @@ M A E Elmeliani, H Aguedal, A Iddou, C Alaoui, **B Benaissa**, M A Belhadj, T Ng
 
 M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi. **Non-parametric optimization for lightweight and high heat conductive structures under convection using metaheuristic structure binary-distribution method**. *Applied Thermal Engineering*.  <a href=" https://doi.org/10.1016/j.applthermaleng.2023.121124 " target="_blank">  https://doi.org/10.1016/j.applthermaleng.2023.121124 </a>
 
-E Ghandourah, K Bendine, S Khatir, **B Benaissa**, E M Banoqitah, A M Alhawsawi, E B Moustafa. **B Benaissa**, M Abdel Wahab. **Novel Approach-Based Sparsity for Damage Localization in Functionally Graded Material**. *Buildings*. 2023. <a href=" https://doi.org/10.3390/buildings13071768 " target="_blank">  https://doi.org/10.3390/buildings13071768 </a>
+E Ghandourah, K Bendine, S Khatir, **B Benaissa**, E M Banoqitah, A M Alhawsawi, E B Moustafa. **Novel Approach-Based Sparsity for Damage Localization in Functionally Graded Material**. *Buildings*. 2023. <a href=" https://doi.org/10.3390/buildings13071768 " target="_blank">  https://doi.org/10.3390/buildings13071768 </a>
 
 **B Benaissa**, S Khatir, MS Jouini, MK Riahi. **Optimal Axial-Probe Design for Foucault-Current Tomography: A Global Optimization Approach Based on Linear Sampling Method**. *Energies*. 2023. <a href=" https://doi.org/10.3390/en16052448 " target="_blank">  https://doi.org/10.3390/en16052448 </a>
 
