@@ -133,6 +133,8 @@ collaboration.
 
 ## Conference Organization
 
+- **Managing Chair**: <a href="https://icsces.com/" target="_blank"> ICSCES 2023</a>  International Conference of Steel and Composite for Engineering Structures. 20-21 November 2023. Università del Salento, Lecce, Italy.
+
 - **Scientific committee**: <a href="https://ihsh2022.uqar.ca/" target="_blank"> IHSH'2022</a>  The 2022 International Conference on Human-Centric Smart Environments for Health and Well-being. 26-28th October 2022. University of Québec at Rimouski, Canada.
 
 - **Keynote Speaker**: <a href="https://iciesc.unimed.ac.id/2022/" target="_blank"> ICIESC 2022</a>  The 4th International Conference on Innovation in Education, Science and Culture (ICIESC 2022). 11 October 2022. State University of Medan, Indonesia.
