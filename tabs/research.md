@@ -14,6 +14,8 @@ toc: true
 
 ## 2023
 
+Mohamed El Amine Elaissaoui Elmeliani, Hakim Aguedal, Abdelkader Iddou, Chakib Alaoui, **Brahim Benaissa**, Mohamed El Amine Belhadj, The-Anh Nguyen, Meng Sun, Mitsuharu Terashima. **Optimizing the Disinfection Inactivation Efficiency in Wastewater Treatment: A Computational Fluid Dynamics Investigation of a Full-Scale Ozonation Contactor**. *Chemical Engineering & Technology*. <a href=" https://doi.org/10.1002/ceat.202300232 " target="_blank"> https://doi.org/10.1002/ceat.202300232 </a>
+
 M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi. **Non-parametric optimization for lightweight and high heat conductive structures under convection using metaheuristic structure binary-distribution method**. *Applied Thermal Engineering*.  <a href=" https://doi.org/10.1016/j.applthermaleng.2023.121124 " target="_blank">  https://doi.org/10.1016/j.applthermaleng.2023.121124 </a>
 
 E Ghandourah, K Bendine, S Khatir, **B Benaissa**, E M Banoqitah, A M Alhawsawi, E B Moustafa. **B Benaissa**, M Abdel Wahab. **Novel Approach-Based Sparsity for Damage Localization in Functionally Graded Material**. *Buildings*. 2023. <a href=" https://doi.org/10.3390/buildings13071768 " target="_blank">  https://doi.org/10.3390/buildings13071768 </a>
@@ -32,7 +34,7 @@ M Slimani, S Tiachacht,  A Behtani, T Khatir, S Khatir, **B Benaissa**,M K Riahi
 
 A Kahouadji, S Tiachacht, M Slimani, A Behtani, S Khatir, **B Benaissa** . **Vibration-Based Damage Assessment in Truss Structures Using Local Frequency Change Ratio Indicator Combined with Metaheuristic Optimization Algorithms**. *Lecture Notes in Civil Engineering*. 2023. <a href="https://doi.org/10.1007/978-3-031-24041-6_14" target="_blank"> https://doi.org/10.1007/978-3-031-24041-6_14 </a>
 
-**B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *UPC knowledge*. 2023. <a href="http://dx.doi.org/10.5821/conference-9788419184849.19" target="_blank"> http://dx.doi.org/10.5821/conference-9788419184849.19</a>. 
+**B Benaissa**, M Kobayashi, K Kinoshita. **Design aesthetics recommender system based on customer profile and wanted affect**. *UPC knowledge*. 2023. <a href="http://dx.doi.org/10.5821/conference-9788419184849.19" target="_blank"> http://dx.doi.org/10.5821/conference-9788419184849.19</a>.
 
  M I Shirazi, S Khatir, **B Benaissa**, S Mirjalili, M Abdel Wahab. **Damage assessment in laminated composite plates using Modal Strain Energy and YUKI-ANN algorithm**. *Composite Structures*. 2023. <a href="https://doi.org/10.1016/j.compstruct.2022.116272" target="_blank"> https://doi.org/10.1016/j.compstruct.2022.116272 </a>
 
