@@ -9,7 +9,6 @@ toc: true
 
 ## <a href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" target="_blank"> 📎 Curriculum Vitae (PDF)</a>
 
-
 ---
 
 # 🧰 Experience
@@ -17,10 +16,7 @@ toc: true
 ## Postdoctoral Researcher
 ( 2021 - Present ) | **Toyota technological Institute, Japan** | **Mechanical Systems Engineering**
 
-
-
 - <a href="https://www.toyota-ti.ac.jp/english/research/labolatories/mech/post-26.html" target="_blank">*Design Engineering Laboratory*</a>
-
 
 ---
 
@@ -37,7 +33,6 @@ collaboration.
 ## Research Associate
 ( 2017 - 2020 ) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
 
-
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Lab*</a>
 - <a href="https://sozolab.jp/?locale=en" target="_blank">*Sozo Lab*</a>
 - <a href="http://www.kyutech-hcclab.science-city.org/hcclab2020/pmwiki.php?n=Main.HomePage" target="_blank">*Human-centered computing (HCC) Lab*</a>
@@ -47,7 +42,6 @@ collaboration.
 ## Visiting Research
 ( 2014 ) | **INSA centre val de loire Blois, France** | **Mechanical Engineering and Design**
 
-
 - <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
 
 ---
@@ -55,9 +49,7 @@ collaboration.
 ## PhD. Computational Mechanics
 ( 2012 - 2016 ) | **Boumerdes University, Algeria** | **Department of  Mechanical Engineering**
 
-
 - <a href="https://www.univ-boumerdes.dz/labo-de-rechercher/Energ%C3%A9tique,%20M%C3%A9canique%20et%20Ingenieries/index.php" target="_blank">*Laboratoire Energétique, Mécanique et Ingénieries*</a>
-
 
 ---
 
