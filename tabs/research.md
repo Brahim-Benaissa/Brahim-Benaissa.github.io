@@ -22,11 +22,11 @@ M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi. **Non-parametric optimization 
 
 E Ghandourah, K Bendine, S Khatir, **B Benaissa**, E M Banoqitah, A M Alhawsawi, E B Moustafa. **B Benaissa**, M Abdel Wahab. **Novel Approach-Based Sparsity for Damage Localization in Functionally Graded Material**. *Buildings*. 2023. <a href=" https://doi.org/10.3390/buildings13071768 " target="_blank">  https://doi.org/10.3390/buildings13071768 </a>
 
-E Ghandourah, S Khatir, E M Banoqitah, A M Alhawsawi, **B Benaissa**, M Abdel Wahab. **Enhanced ANN Predictive Model for Composite Pipes Subjected to Low-Velocity Impact Loads**. *Buildings*. 2023. <a href=" https://doi.org/10.3390/buildings13040973 " target="_blank">  https://doi.org/10.3390/buildings13040973 </a>
-
 **B Benaissa**, S Khatir, MS Jouini, MK Riahi. **Optimal Axial-Probe Design for Foucault-Current Tomography: A Global Optimization Approach Based on Linear Sampling Method**. *Energies*. 2023. <a href=" https://doi.org/10.3390/en16052448 " target="_blank">  https://doi.org/10.3390/en16052448 </a>
 
 A Khatir, R Capozucca, S Khatir, E Magagnini a, **B Benaissa**,  L  T Cuong, M Abdel Wahab. **A new hybrid PSO-YUKI for double crack identification in CFRP cantilever beam**. *Composite Structures*. 2023. <a href=" https://doi.org/10.1016/j.compstruct.2023.116803" target="_blank">  https://doi.org/10.1016/j.compstruct.2023.116803 </a>
+
+E Ghandourah, S Khatir, E M Banoqitah, A M Alhawsawi, **B Benaissa**, M Abdel Wahab. **Enhanced ANN Predictive Model for Composite Pipes Subjected to Low-Velocity Impact Loads**. *Buildings*. 2023. <a href=" https://doi.org/10.3390/buildings13040973 " target="_blank">  https://doi.org/10.3390/buildings13040973 </a>
 
 M  Al Ali, M Shimoda, **B Benaissa**, M Kobayashi. **Concurrent Multiscale Hybrid Topology Optimization for Light Weight Porous Soft Robotic Hand with High Cellular Stiffness**. *Lecture Notes in Civil Engineering*. 2023. <a href=" https://doi.org/10.1007/978-3-031-24041-6_22" target="_blank">  https://doi.org/10.1007/978-3-031-24041-6_22 </a>
 
