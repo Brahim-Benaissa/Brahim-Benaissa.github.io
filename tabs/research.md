@@ -14,6 +14,8 @@ toc: true
 
 ## 2023
 
+**B. Benaissa** , M. Kobayashi, K. Kinoshita, H. Takenouchi. **A Novel Approach for Individual Design Perception Based on Fuzzy Inference System Training with YUKI Algorithm**. *Axioms*. <a href=" https://doi.org/10.3390/axioms12100904 " target="_blank"> https://doi.org/10.3390/axioms12100904 </a>
+
 S. Tiachacht , A. Kahouadji , M. Slimani , A. Behtani , **B. Benaissa** , T. Khatir, M. Noori. **Structural health monitoring of steel plates using modified modal strain energy indicator and optimization algorithms**. *In the book Data-Centric Structural Health Monitoring*. <a href=" https://doi.org/10.1515/9783110791426-006 " target="_blank"> https://doi.org/10.1515/9783110791426-006 </a>
 
 M A E Elmeliani, H Aguedal, A Iddou, C Alaoui, **B Benaissa**, M A Belhadj, T Nguyen, M Sun, M Terashima. **Optimizing the Disinfection Inactivation Efficiency in Wastewater Treatment: A Computational Fluid Dynamics Investigation of a Full-Scale Ozonation Contactor**. *Chemical Engineering & Technology*. <a href=" https://doi.org/10.1002/ceat.202300232 " target="_blank"> https://doi.org/10.1002/ceat.202300232 </a>
