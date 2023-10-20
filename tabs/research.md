@@ -14,6 +14,8 @@ toc: true
 
 ## 2023
 
+M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi, T Takeuchi, A Al-Shawk, S Ranjbar**On metaheuristic aided structural topology optimization method for heat sink design with low electromagnetic interference**. *Researchsquare*. <a href=" https://doi.org/10.21203/rs.3.rs-3353757/v1 " target="_blank"> https://doi.org/10.21203/rs.3.rs-3353757/v1 </a>
+
 **B. Benaissa** , M. Kobayashi, K. Kinoshita, H. Takenouchi. **A Novel Approach for Individual Design Perception Based on Fuzzy Inference System Training with YUKI Algorithm**. *Axioms*. <a href=" https://doi.org/10.3390/axioms12100904 " target="_blank"> https://doi.org/10.3390/axioms12100904 </a>
 
 S. Tiachacht , A. Kahouadji , M. Slimani , A. Behtani , **B. Benaissa** , T. Khatir, M. Noori. **Structural health monitoring of steel plates using modified modal strain energy indicator and optimization algorithms**. *In the book Data-Centric Structural Health Monitoring*. <a href=" https://doi.org/10.1515/9783110791426-006 " target="_blank"> https://doi.org/10.1515/9783110791426-006 </a>
