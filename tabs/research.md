@@ -14,6 +14,8 @@ toc: true
 
 ## 2023
 
+AO Brahim, R Capozzuca, S Khatir, E Magagnini, **B Benaissa**, A Wahab, T Cuong-Le **Artificial Neural Network and YUKI Algorithm for Notch Depth Prediction in X70 Steel Specimens**. *Theoretical and Applied Fracture Mechanics*. <a href=" https://doi.org/10.1016/j.tafmec.2023.104227 " target="_blank"> https://doi.org/10.1016/j.tafmec.2023.104227 </a>
+
 J Bai, Y Li, M Zheng, S Khatir, **B Benaissa**, L Abualigah, MA Wahab **A Sinh Cosh Optimizer**. *Knowledge-Based Systems*. <a href=" https://doi.org/10.1016/j.knosys.2023.111081 " target="_blank"> https://doi.org/10.1016/j.knosys.2023.111081 </a>
 
 M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi, T Takeuchi, A Al-Shawk, S Ranjbar. **On metaheuristic aided structural topology optimization method for heat sink design with low electromagnetic interference**. *Researchsquare*. <a href=" https://doi.org/10.21203/rs.3.rs-3353757/v1 " target="_blank"> https://doi.org/10.21203/rs.3.rs-3353757/v1 </a>
