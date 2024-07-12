@@ -36,6 +36,11 @@ Z Roumaissa, A Ayoub, **B Benaissa**, I  Belaidi, E Sukic, T Khatir. **A compara
 
 **B Benaissa**, R Capozucca, S Khatir, G Milani. **Proceedings of the International Conference of Steel and Composite for Engineering Structures: ICSCES 2023**. *Springer Nature*. <a href=" https://doi.org/10.1007/978-3-031-57224-1 " target="_blank"> https://doi.org/10.1007/978-3-031-57224-1 </a>
 
+A Kahouadji, S Tiachacht, M Slimani, T Khatir, **B Benaissa**, A Behtani. **Nature-Inspired Optimization for Frequency-Based Damage Identification in Planar and Space Trusses**. *International Conference of Steel and Composite for Engineering Structures*. <a href=" https://doi.org/10.1007/978-3-031-57224-1_20 " target="_blank"> https://doi.org/10.1007/978-3-031-57224-1_20 </a>
+
+**B Benaissa**, M Al Ali, M Kobayashi, T Cuong-Le, S Khatir. **Damage Tolerance in Topologically Optimized Structures: Exploring Structural Integrity Through Worst-Case Damage Optimization**. *International Conference of Steel and Composite for Engineering Structures*. <a href=" https://doi.org/10.1007/978-3-031-57224-1_23 " target="_blank"> https://doi.org/10.1007/978-3-031-57224-1_23 </a>
+
+M Al Ali, **B Benaissa**, S Khatir, M Shimoda, M Kobayashi, P Vignon, A Al-Shawk, B Lay. **Exploring Concurrent Multi-materials and Multiscale Hybrid Topology Optimization for Lightweight Porous Gripping Mechanism**. *International Conference of Steel and Composite for Engineering Structures*. <a href=" https://doi.org/10.1007/978-3-031-57224-1_14 " target="_blank"> https://doi.org/10.1007/978-3-031-57224-1_14 </a>
 
 ## 2023
 
@@ -197,6 +202,10 @@ Patent office: JP.
 ---
 
 # 🎤 Conference Presentations
+
+## 2023
+
+- **Damage Tolerance in Topologically Optimized Structures: Exploring Structural Integrity Through Worst-Case Damage Optimization**. : <a href="https://icsces.com" target="_blank"> ICSCES 2023</a>  The 2nd International Conference of Steel and Composite for Engineering Structures. 20-21 November 2023. Università del Salento, Lecce, Italy
 
 ## 2022
 

@@ -23,7 +23,7 @@ toc: true
 ## Startup Founder
 ( 2019 - 2021 ) | **Entrepreneurship** | **Web platform**
 
-<!-- Eyenbros.com was an --> Information Technology company with a web platform product for community interaction and project 
+<!-- Eyenbros.com was an --> Information Technology company with a web platform product for community interaction and project
 collaboration.  
 
 ---
