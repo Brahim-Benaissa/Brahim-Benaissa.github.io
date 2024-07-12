@@ -14,6 +14,18 @@ toc: true
 
 ## 2024
 
+HA Abdushkour, M Saadatmorad, S Khatir, :**B Benaissa**, F Al Thobiani, A U Khawaja. **Structural Damage Detection by Derivative-Based Wavelet Transforms**. *Arabian Journal for Science and Engineering*. <a href=" https://doi.org/10.1007/s13369-024-09115-1 " target="_blank"> https://doi.org/10.1007/s13369-024-09115-1 </a>
+
+M Saadatmorad, S Khatir, T Cuong-Le, **B Benaissa**, S Mahmoudi. **Detecting damages in metallic beam structures using a novel wavelet selection criterion**. *Journal of Sound and Vibration*. <a href=" https://doi.org/10.1016/j.jsv.2024.118297 " target="_blank"> https://doi.org/10.1016/j.jsv.2024.118297 </a>
+
+**B Benaissa**, M Kobayashi, M Al Ali, S Khatir, M Shimoda. **A novel exploration strategy for the YUKI algorithm for topology optimization with metaheuristic structural binary distribution**. *Engineering Optimization*. <a href=" https://doi.org/10.1080/0305215X.2024.2349104 " target="_blank"> https://doi.org/10.1080/0305215X.2024.2349104 </a>
+
+M Seguini, S Khatir, D Boutchicha, AO Brahim, **B Benaissa**, C Le Thanh, M Noori, N Fantuzzi. **Forecasting and characterization of composite pipeline based on experimental modal analysis and YUKI-gradient boosting**. *Construction and Building Materials*. <a href=" https://doi.org/10.1016/j.conbuildmat.2024.135625 " target="_blank"> https://doi.org/10.1016/j.conbuildmat.2024.135625 </a>
+
+A Oulad Brahim, R Capozucca, S Khatir, N Fahem, **B Benaissa**, C Le Thanh. **Optimal Prediction for Patch Design Using YUKI-RANDOM-FOREST in a Cracked Pipeline Repaired with CFRP**. *Arabian Journal for Science and Engineering*. <a href=" https://doi.org/10.1007/s13369-024-08777-1 " target="_blank"> https://doi.org/10.1007/s13369-024-08777-1 </a>
+
+A Khatir, R Capozucca, S Kathir, E Magagnini, **B Benaissa**, T Cuong-Le. **An efficient improved gradient boosting for strain prediction in NSM FRP strengthened RC beam**. *Frontiers of Structural and Civil Engineering*. <!-- <a href=" https://doi.org/10.1007/s13369-024-08777-1 " target="_blank"> https://doi.org/10.1007/s13369-024-08777-1 </a> -->
+
 M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi, T Takeuchi, A Al-Shawk, S Ranjbar. **Metaheuristic aided structural topology optimization method for heat sink design with low electromagnetic interference**. *Scientific Reports*. <a href=" https://doi.org/10.1038/s41598-024-54083-z " target="_blank"> https://doi.org/10.1038/s41598-024-54083-z </a>
 
 **B Benaissa**, M Kobayashi, M Al Ali, T Khatir, M Elmeliani. **Metaheuristic Optimization Algorithms: an overview**. *Journal of Science–Advances in Computational Structures*. <a href=" https://doi.org/10.46223/HCMCOUJS.acs.en.14.1.47.2024 " target="_blank"> https://doi.org/10.46223/HCMCOUJS.acs.en.14.1.47.2024 </a>
@@ -21,6 +33,8 @@ M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi, T Takeuchi, A Al-Shawk, S Ranj
 M Saadatmorad, S Khatir, C Le Thanh, **B Benaissa**, S Mahmoudi. **Detecting Damages in Metallic Beam Structures using a Novel Wavelet Selection Criterion**. *Journal of Sound and Vibration*. <a href=" https://doi.org/10.1016/j.jsv.2024.118297 " target="_blank"> https://doi.org/10.1016/j.jsv.2024.118297 </a>
 
 Z Roumaissa, A Ayoub, **B Benaissa**, I  Belaidi, E Sukic, T Khatir. **A comparative analysis for crack identification in structural health monitoring: a focus on experimental crack length prediction with YUKI and POD-RBF**. *Comptes Rendus. Mécanique*.  <a href=" https://doi.org/10.5802/crmeca.241 " target="_blank"> https://doi.org/10.5802/crmeca.241 </a>
+
+**B Benaissa**, R Capozucca, S Khatir, G Milani. **Proceedings of the International Conference of Steel and Composite for Engineering Structures: ICSCES 2023**. *Springer Nature*. <a href=" https://doi.org/10.1007/978-3-031-57224-1 " target="_blank"> https://doi.org/10.1007/978-3-031-57224-1 </a>
 
 
 ## 2023
