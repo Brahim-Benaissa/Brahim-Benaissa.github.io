@@ -14,7 +14,7 @@ toc: true
 
 ## 2024
 
-HA Abdushkour, M Saadatmorad, S Khatir, :**B Benaissa**, F Al Thobiani, A U Khawaja. **Structural Damage Detection by Derivative-Based Wavelet Transforms**. *Arabian Journal for Science and Engineering*. <a href=" https://doi.org/10.1007/s13369-024-09115-1 " target="_blank"> https://doi.org/10.1007/s13369-024-09115-1 </a>
+HA Abdushkour, M Saadatmorad, S Khatir, **B Benaissa**, F Al Thobiani, A U Khawaja. **Structural Damage Detection by Derivative-Based Wavelet Transforms**. *Arabian Journal for Science and Engineering*. <a href=" https://doi.org/10.1007/s13369-024-09115-1 " target="_blank"> https://doi.org/10.1007/s13369-024-09115-1 </a>
 
 M Saadatmorad, S Khatir, T Cuong-Le, **B Benaissa**, S Mahmoudi. **Detecting damages in metallic beam structures using a novel wavelet selection criterion**. *Journal of Sound and Vibration*. <a href=" https://doi.org/10.1016/j.jsv.2024.118297 " target="_blank"> https://doi.org/10.1016/j.jsv.2024.118297 </a>
 
