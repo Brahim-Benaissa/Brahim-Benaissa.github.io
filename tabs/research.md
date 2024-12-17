@@ -14,6 +14,8 @@ toc: true
 
 ## 2024
 
+A Khatir, R Capozucca, S Khatir, E Magagnini, **B Benaissa**, T Cuong-Le **An efficient improved Gradient Boosting for strain prediction in Near-Surface Mounted fiber-reinforced polymer strengthened reinforced concrete beam**. *Frontiers of structural and civil engineering*. <a href=" https://link.springer.com/article/10.1007/s11709-024-1079-x " target="_blank"> https://link.springer.com/article/10.1007/s11709-024-1079-x </a>
+
 HA Abdushkour, M Saadatmorad, S Khatir, **B Benaissa**, F Al Thobiani, A U Khawaja. **Structural Damage Detection by Derivative-Based Wavelet Transforms**. *Arabian Journal for Science and Engineering*. <a href=" https://doi.org/10.1007/s13369-024-09115-1 " target="_blank"> https://doi.org/10.1007/s13369-024-09115-1 </a>
 
 M Saadatmorad, S Khatir, T Cuong-Le, **B Benaissa**, S Mahmoudi. **Detecting damages in metallic beam structures using a novel wavelet selection criterion**. *Journal of Sound and Vibration*. <a href=" https://doi.org/10.1016/j.jsv.2024.118297 " target="_blank"> https://doi.org/10.1016/j.jsv.2024.118297 </a>
@@ -47,8 +49,6 @@ M Al Ali, **B Benaissa**, S Khatir, M Shimoda, M Kobayashi, P Vignon, A Al-Shawk
 AO Brahim, R Capozzuca, S Khatir, E Magagnini, **B Benaissa**, A Wahab, T Cuong-Le **Artificial Neural Network and YUKI Algorithm for Notch Depth Prediction in X70 Steel Specimens**. *Theoretical and Applied Fracture Mechanics*. <a href=" https://doi.org/10.1016/j.tafmec.2023.104227 " target="_blank"> https://doi.org/10.1016/j.tafmec.2023.104227 </a>
 
 J Bai, Y Li, M Zheng, S Khatir, **B Benaissa**, L Abualigah, MA Wahab **A Sinh Cosh Optimizer**. *Knowledge-Based Systems*. <a href=" https://doi.org/10.1016/j.knosys.2023.111081 " target="_blank"> https://doi.org/10.1016/j.knosys.2023.111081 </a>
-
-M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi, T Takeuchi, A Al-Shawk, S Ranjbar. **On metaheuristic aided structural topology optimization method for heat sink design with low electromagnetic interference**. *Researchsquare*. <a href=" https://doi.org/10.21203/rs.3.rs-3353757/v1 " target="_blank"> https://doi.org/10.21203/rs.3.rs-3353757/v1 </a>
 
 **B. Benaissa** , M. Kobayashi, K. Kinoshita, H. Takenouchi. **A Novel Approach for Individual Design Perception Based on Fuzzy Inference System Training with YUKI Algorithm**. *Axioms*. <a href=" https://doi.org/10.3390/axioms12100904 " target="_blank"> https://doi.org/10.3390/axioms12100904 </a>
 
