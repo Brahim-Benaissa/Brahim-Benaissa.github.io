@@ -13,8 +13,16 @@ toc: true
 
 # 🧰 Experience
 
+
+## Assistant Professor
+( 2024 - Present ) | **CEATS Center, Ho Chi Minh City Open University** | **Mechanical Systems Engineering**
+
+- <a href="https://ceats.ou.edu.vn/us/" target="_blank">*CEATS Center*</a>
+
+---
+
 ## Postdoctoral Researcher
-( 2021 - Present ) | **Toyota technological Institute, Japan** | **Mechanical Systems Engineering**
+( 2021 - 2024 ) | **Toyota technological Institute, Japan** | **Mechanical Systems Engineering**
 
 - <a href="https://www.toyota-ti.ac.jp/english/research/labolatories/mech/post-26.html" target="_blank">*Design Engineering Laboratory*</a>
 
