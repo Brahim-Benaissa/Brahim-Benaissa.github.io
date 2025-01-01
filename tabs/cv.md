@@ -4,12 +4,13 @@ title: CV
 toc: true
 ---
 
-
+<!--
 ---
 
 ## <a href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" target="_blank"> 📎 Curriculum Vitae (PDF)</a>
 
 ---
+-->
 
 # 🧰 Experience
 
@@ -31,8 +32,7 @@ toc: true
 ## Startup Founder
 ( 2019 - 2021 ) | **Entrepreneurship** | **Web platform**
 
-<!-- Eyenbros.com was an --> Information Technology company with a web platform product for community interaction and project
-collaboration.  
+Information Technology company with a web platform product for community interaction and project collaboration.  
 
 ---
 
