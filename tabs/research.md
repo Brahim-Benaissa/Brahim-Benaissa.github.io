@@ -12,6 +12,11 @@ toc: true
  <a href="https://www.scopus.com/authid/detail.uri?authorId=57140682400" target="_blank">Scopus</a>
 </div>
 
+## 2025
+
+**B Benaissa**, M Kobayashi, H Takenouchi. **Enhancing Consumer Agent Modeling Through Openness-Based Consumer Traits and Inverse Clustering**. *Machine Learning and Knowledge Extraction*. <a href=" https://doi.org/10.3390/make7010009 " target="_blank"> https://doi.org/10.3390/make7010009 </a>
+
+
 ## 2024
 
 A Khatir, R Capozucca, S Khatir, E Magagnini, **B Benaissa**, T Cuong-Le **An efficient improved Gradient Boosting for strain prediction in Near-Surface Mounted fiber-reinforced polymer strengthened reinforced concrete beam**. *Frontiers of structural and civil engineering*. <a href=" https://link.springer.com/article/10.1007/s11709-024-1079-x " target="_blank"> https://link.springer.com/article/10.1007/s11709-024-1079-x </a>
