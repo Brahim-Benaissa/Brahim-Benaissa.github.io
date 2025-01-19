@@ -47,13 +47,6 @@ Information Technology company with a web platform product for community interac
 
 ---
 
-## Visiting Research
-( 2014 ) | **INSA centre val de loire Blois, France** | **Mechanical Engineering and Design**
-
-- <a href="https://lmr.univ-tours.fr/" target="_blank">*Laboratoire de Mécanique et Rhéologie (LMR)*</a>
-
----
-
 ## PhD. Computational Mechanics
 ( 2012 - 2016 ) | **Boumerdes University, Algeria** | **Department of  Mechanical Engineering**
 
