@@ -15,7 +15,7 @@ toc: true
 # 🧰 Experience
 
 
-## Assistant Professor
+## Lecturer
 ( 2024 - Present ) | **CEATS Center, Ho Chi Minh City Open University** | **Mechanical Systems Engineering**
 
 - <a href="https://ceats.ou.edu.vn/us/" target="_blank">*CEATS Center*</a>
