@@ -14,6 +14,9 @@ toc: true
 
 # 🧰 Experience
 
+## Independent
+( 2024 - Present ) | @ **justpeers.com**
+
 
 ## Lecturer
 ( 2024 - Present ) | **CEATS Center, Ho Chi Minh City Open University** | **Mechanical Systems Engineering**
