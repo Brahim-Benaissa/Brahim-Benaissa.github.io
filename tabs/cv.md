@@ -17,6 +17,7 @@ toc: true
 ## Independent
 ( 2024 - Present ) | @ **justpeers.com**
 
+- <a href="https://justpeers.com" target="_blank">*justpeers.com*</a>
 
 ## Lecturer
 ( 2024 - Present ) | **CEATS Center, Ho Chi Minh City Open University** | **Mechanical Systems Engineering**
