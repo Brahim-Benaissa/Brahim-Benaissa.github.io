@@ -40,9 +40,7 @@ Information Technology company with a web platform product for community interac
 
 ---
 
-# 🎓 Education
-
-## Research Associate
+## Postdoctoral Researcher
 ( 2017 - 2020 ) | **Kyushu Institute of Technology, Japan** | **Department of Human Intelligence Systems**
 
 - <a href="https://www.brain.kyutech.ac.jp/~kaori/" target="_blank">*Kaori Lab*</a>
@@ -50,6 +48,8 @@ Information Technology company with a web platform product for community interac
 - <a href="http://www.kyutech-hcclab.science-city.org/hcclab2020/pmwiki.php?n=Main.HomePage" target="_blank">*Human-centered computing (HCC) Lab*</a>
 
 ---
+
+# 🎓 Education
 
 ## PhD. Computational Mechanics
 ( 2012 - 2016 ) | **Boumerdes University, Algeria** | **Department of  Mechanical Engineering**
@@ -72,17 +72,6 @@ Information Technology company with a web platform product for community interac
 
 
 - <a href="http://www.univ-medea.dz/lmp2m/" target="_blank">*Laboratoire de Mécanique Physique et Modélisation Mathématique  (LMP2M)*</a>
-
----
-
-# 🏵️ Awards & Highlights
-
-- Awarded Grants for studies:
-    - Associate researcher contract (2017), by Kyushu Institute of technology, Japan.  
-    - Visiting researcher grant (2014), by the Algerian Ministry of Higher Education and Scientific Research.
-    - PhD studies scholarship (2012), by the Algerian Ministry of Higher Education and Scientific Research.
-- Top graduated students award (2011), by department of mechanical engineering  - Medea University.
-- Top undergraduate students award (2009), by department of mechanical engineering  - Medea University.
 
 ---
 
