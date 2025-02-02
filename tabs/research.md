@@ -8,7 +8,7 @@ toc: true
 
 # 📰 Publications
 <div align="center">
- <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a> ||
+ <a href="https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en" target="_blank">Google Scholar</a> 
 </div>
 
 ## 2025
