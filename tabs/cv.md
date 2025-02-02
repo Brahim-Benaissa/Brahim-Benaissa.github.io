@@ -77,11 +77,11 @@ Information Technology company with a web platform product for community interac
 
 # 👨‍🏫 Academic Roles
 
-## Guest Lecture
+## Guest Lecturer
 
 - **Optimization Algorithms**. 2018. For students in MSc in the Department of Human Intelligence Systems. <a href="https://www.kyutech.ac.jp/english/" target="_blank">*Kyushu Institute of Technology*</a>. Japan.
 
-## Teaching Assistant
+## Lecturer
 
 - **Analytical Mechanics**. 2011-2013. For undergraduate students in the Department of Mechanical engineering. <a href="http://www.univ-medea.dz/en/" target="_blank">*Medea University*</a>. Algeria.
 
@@ -106,15 +106,15 @@ Information Technology company with a web platform product for community interac
 ---
 
 # ✋ Scientific Community Roles
-
+<!--
 ## Journal Editor
 
-<!--   - **Editor**: <a href="https://jurnal.unimed.ac.id/2012/index.php/jids" target="_blank"> Journal of Informatics and Data Science  </a>. ISSN: 2964-0415 -->
+   - **Editor**: <a href="https://jurnal.unimed.ac.id/2012/index.php/jids" target="_blank"> Journal of Informatics and Data Science  </a>. ISSN: 2964-0415
 
   - **Editor**: <a href=" http://journalofscience.acs.ou.edu.vn/index.php/acs/about/editorialTeam " target="_blank"> Advances in Computational Structures  </a>. ISSN :2815-6218  
 
   - **Guest Editor**: <a href="https://www.mdpi.com/journal/buildings/special_issues/OR578F0237" target="_blank"> Special Issue: Advances in Inverse Problem Applications in Structural Health Monitoring </a>.
-
+-->
 ---
 
 ## Conference Organization
