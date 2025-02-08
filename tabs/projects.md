@@ -8,8 +8,8 @@ toc: true
 
 # Contact
 
-If you're looking for collaboration or have any question about my research, please do not hesitate to contact me.
-I would love to help!
+If you're looking for collaboration, do not hesitate to contact me.
+
 
 <h3 class="dynamic-title d-flex justify-content-center">
    <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"> <!-- Replace with "mailto:YOUREMAIL@ADDRESS.COM?subject=SUBJECT"  -->
