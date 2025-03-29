@@ -37,7 +37,7 @@ toc: true
 ## Startup Founder
 ( 2019 - Present ) | **Entrepreneurship** | **Web platform**
 
-<a href="https://eyenbros.com/" target="_blank">*eyenbros.com/*</a>
+- <a href="https://eyenbros.com/" target="_blank">*eyenbros.com/*</a>
 
 Information Technology company with a web platform product for community interaction and project collaboration.  
 
