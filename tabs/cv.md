@@ -14,15 +14,16 @@ toc: true
 
 # 🧰 Experience
 
-## Independent
-( 2024 - Present ) | @ **justpeers.com**
-
-- <a href="https://justpeers.com" target="_blank">*justpeers.com*</a>
-
 ## Lecturer
 ( 2024 - Present ) | **CEATS Center, Ho Chi Minh City Open University** | **Mechanical Systems Engineering**
 
 - <a href="https://ceats.ou.edu.vn/us/" target="_blank">*CEATS Center*</a>
+
+
+## Independent
+( 2024 - Present ) | @ **justpeers.com**
+
+- <a href="https://justpeers.com" target="_blank">*justpeers.com*</a>
 
 ---
 
@@ -34,7 +35,9 @@ toc: true
 ---
 
 ## Startup Founder
-( 2019 - 2021 ) | **Entrepreneurship** | **Web platform**
+( 2019 - Present ) | **Entrepreneurship** | **Web platform**
+
+<a href="https://eyenbros.com/" target="_blank">*eyenbros.com/*</a>
 
 Information Technology company with a web platform product for community interaction and project collaboration.  
 
