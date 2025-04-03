@@ -20,11 +20,6 @@ toc: true
 - <a href="https://ceats.ou.edu.vn/us/" target="_blank">*CEATS Center*</a>
 
 
-## Independent
-( 2024 - Present ) | @ **justpeers.com**
-
-- <a href="https://justpeers.com" target="_blank">*justpeers.com*</a>
-
 ---
 
 ## Postdoctoral Researcher
@@ -35,7 +30,7 @@ toc: true
 ---
 
 ## Startup Founder
-( 2019 - Present ) | **Entrepreneurship** | **Web platform**
+( 2020 - Present ) | **Entrepreneurship** | **Web platform**
 
 - <a href="https://eyenbros.com/" target="_blank">*eyenbros.com/*</a>
 
