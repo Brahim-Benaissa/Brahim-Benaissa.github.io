@@ -13,6 +13,8 @@ toc: true
 
 ## 2025
 
+**B Benaissa**, M Al Ali, B Khatir, M Saadatmorad. **Analyzing the effects of void characteristics on the compliance of topology optimized structures for additive manufacturing**. *Journal of Science–Advances in Computational Structures*. <a href=" https://doi.org/10.46223/HCMCOUJS.acs.en.15.1.66.2025 " target="_blank"> https://doi.org/10.46223/HCMCOUJS.acs.en.15.1.66.2025 </a>
+
 **B Benaissa**, F Hendrichovsky, M As, K Yoshida. **BLE Signal Reception and Localization Performance with Varying Receiver and Beacon Setups**. *Future Internet*. <a href=" https://doi.org/10.3390/fi17020054 " target="_blank"> https://doi.org/10.3390/fi17020054 </a>
 
 **B Benaissa**, M Kobayashi, H Takenouchi. **Enhancing Consumer Agent Modeling Through Openness-Based Consumer Traits and Inverse Clustering**. *Machine Learning and Knowledge Extraction*. <a href=" https://doi.org/10.3390/make7010009 " target="_blank"> https://doi.org/10.3390/make7010009 </a>
