@@ -17,9 +17,7 @@ toc: true
 ## Startup Founder
 ( 2020 - Present ) | **Entrepreneurship** | **Web platform**
 
-- <a href="https://eyenbros.com/" target="_blank">*eyenbros.com/*</a>
-
-Social and Solidarity Economy Technology platform.  
+- <a href="https://eyenbros.com/" target="_blank">*Technology platform for Social and Solidarity Economy.*</a>
 
 ---
 
