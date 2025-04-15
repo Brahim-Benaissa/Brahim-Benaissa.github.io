@@ -14,11 +14,19 @@ toc: true
 
 # 🧰 Experience
 
+## Startup Founder
+( 2020 - Present ) | **Entrepreneurship** | **Web platform**
+
+- <a href="https://eyenbros.com/" target="_blank">*eyenbros.com/*</a>
+
+Social and Solidarity Economy Technology platform.  
+
+---
+
 ## Lecturer
 ( 2024 - Present ) | **CEATS Center, Ho Chi Minh City Open University** | **Mechanical Systems Engineering**
 
 - <a href="https://ceats.ou.edu.vn/us/" target="_blank">*CEATS Center*</a>
-
 
 ---
 
@@ -27,14 +35,6 @@ toc: true
 
 - <a href="https://www.toyota-ti.ac.jp/english/research/labolatories/mech/post-26.html" target="_blank">*Design Engineering Laboratory*</a>
 
----
-
-## Startup Founder
-( 2020 - Present ) | **Entrepreneurship** | **Web platform**
-
-- <a href="https://eyenbros.com/" target="_blank">*eyenbros.com/*</a>
-
-Information Technology company with a web platform product for community interaction and project collaboration.  
 
 ---
 
