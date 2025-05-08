@@ -12,7 +12,7 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 
 <h3 class="dynamic-title d-flex justify-content-center">
-   <a target="_blank" rel="noopener noreferrer" href="mailto:benaissa@toyota-ti.ac.jp?subject=Hi"> <!-- Replace with "mailto:YOUREMAIL@ADDRESS.COM?subject=SUBJECT"  -->
+   <a target="_blank" rel="noopener noreferrer" href="mailto:brahim.benaissa@ou.edu.vn?subject=Collab"> <!-- Replace with "mailto:YOUREMAIL@ADDRESS.COM?subject=SUBJECT"  -->
         <span style="font-size:1.1em;"> Contact 📨</span>
    </a>
 </h3>
