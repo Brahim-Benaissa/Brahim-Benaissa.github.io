@@ -15,7 +15,7 @@ toc: true
 # 🧰 Experience
 
 ## Startup Founder
-( 2020 ) | **Entrepreneurship** | **Web platform**
+( 2019 ) | **Entrepreneurship** | **Web platform**
 
 - <a href="https://eyenbros.com/" target="_blank">*Technology platform for Social and Solidarity Economy.*</a>
 
