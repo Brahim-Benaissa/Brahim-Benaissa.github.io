@@ -218,7 +218,7 @@ Patent office: JP.
 
 ## 2024
 
-- **New Interactive Evolutionary Algorithm**. <a href="https://keer.org/keer2024/" target="_blank"> KEER 2024 </a>  Kansei Sustainability And Ennovation.  20-23 November 2024, Taiwan.
+- **New Interactive Evolutionary Algorithm**. <a href="https://keer.org/keer2024/" target="_blank"> KEER 2024 </a>  Kansei Sustainability And Enovation.  20-23 November 2024, Taiwan.
 
 ## 2023
 
