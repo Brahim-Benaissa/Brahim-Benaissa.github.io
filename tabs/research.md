@@ -218,7 +218,7 @@ Patent office: JP.
 
 ## 2024
 
-- **New Interactive Evolutionary Algorithm**. <a href="https://keer.org/keer2024/" target="_blank"> KEER 2024 </a>  Kansei Sustainability And Enovation.  20-23 November 2024, Taiwan.
+- **New Interactive Evolutionary Algorithm**. <a href="https://keer.org/keer2024/" target="_blank"> KEER 2024 </a>  Design Sustainability And Enovation.  20-23 November 2024, Taiwan.
 
 ## 2023
 
@@ -230,7 +230,7 @@ Patent office: JP.
 
 - **Deep Neural Network and YUKI algorithm for Inner damage characterization based on elastic boundary displacement**. <a href="https://icsces.com/" target="_blank"> ICSCES 2022 </a>  International Conference of Steel and Composite for Engineering Structures.  12-13th September 2022.  Ancona, Italy.
 
-- **Design recommendation system based on customer profile and wanted affect**. <a href="https://keer.org/keer2022/" target="_blank"> KEER 2022 </a>  Kansei Engineering and Emotion Research.  5-8th September 2022. Barcelona, Spain.
+- **Design recommendation system based on customer profile and wanted affect**. <a href="https://keer.org/keer2022/" target="_blank"> KEER 2022 </a>  Design Engineering and Emotion Research.  5-8th September 2022. Barcelona, Spain.
 
 ## 2020
 
