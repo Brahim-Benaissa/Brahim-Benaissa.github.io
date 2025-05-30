@@ -16,6 +16,8 @@ toc: true
 
 ## 2025
 
+N Hassaine, M Dahak, N Touat, S Khatir, **B Benaissa**, T Cuong-Le, **Damage identification in functionally graded material beam structures based on frequency analysis and AOA-ANN**, *Mechanics Based Design of Structures and Machines*. <a href=" https://doi.org/10.1080/15397734.2025.2487176 " target="_blank"> https://doi.org/10.1080/15397734.2025.2487176 </a>  
+
 **B Benaissa**, M Al Ali, B Khatir, M Saadatmorad. **Analyzing the effects of void characteristics on the compliance of topology optimized structures for additive manufacturing**. *Journal of Science–Advances in Computational Structures*. <a href=" https://doi.org/10.46223/HCMCOUJS.acs.en.15.1.66.2025 " target="_blank"> https://doi.org/10.46223/HCMCOUJS.acs.en.15.1.66.2025 </a>
 
 **B Benaissa**, F Hendrichovsky, M As, K Yoshida. **BLE Signal Reception and Localization Performance with Varying Receiver and Beacon Setups**. *Future Internet*. <a href=" https://doi.org/10.3390/fi17020054 " target="_blank"> https://doi.org/10.3390/fi17020054 </a>
@@ -213,6 +215,10 @@ Patent office: JP.
 ---
 
 # 🎤 Conference Presentations
+
+## 2024
+
+- **New Interactive Evolutionary Algorithm**. <a href="https://keer.org/keer2024/" target="_blank"> KEER 2024 </a>  Kansei Sustainability And Ennovation.  20-23 November 2024. Barcelona, Spain.
 
 ## 2023
 
