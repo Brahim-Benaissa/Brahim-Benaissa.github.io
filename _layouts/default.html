@@ -53,6 +53,11 @@ layout: compress
       {% include google-analytics.html %}
     {% endif %}
 
+
+    {% if jekyll.environment == 'production' %}
+      {% include gtm-body.html %}
+    {% endif %}
+
     {% include search-loader.html %}
 
   </body>
