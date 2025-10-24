@@ -5,7 +5,7 @@ date: 2025-10-24 08:31:00 +0900
 categories: [Physics, Gravity]
 tags: [Ongoing]
 toc: true
-published: true
+published: false
 comments: true
 pin: true
 ---
