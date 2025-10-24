@@ -53,8 +53,8 @@
   const observed_base = [1,1,1,1,1,1,1,1,1,1];
   const expected_base = [1,0.71,0.58,0.5,0.45,0.41,0.38,0.35,0.33,0.32];
 
-  const chartCanvas = document.getElementById('chartCanvas');
-  const chart = new Chart(chartCanvas, {  
+  const ctx = document.getElementById('chartCanvas').getContext('2d');
+  const chart = new Chart(ctx, {
     type: 'line',
     data: {
       labels: r_values,
