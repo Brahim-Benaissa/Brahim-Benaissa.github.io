@@ -73,7 +73,7 @@ google_tag_manager:
   id: 'GTM-TRGMTJZG'  # Replace with your GTM Container ID (leave empty to disable)
 
 disqus:
-  comments: true  # boolean type, the global switch for posts comments.
+  comments: false  # boolean type, the global switch for posts comments.
   shortname: 'brahimbenaissa'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
