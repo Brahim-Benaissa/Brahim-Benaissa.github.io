@@ -30,17 +30,37 @@ If the Mezzi effect holds up, it could shake up cosmology. Dark matter hunts (li
 
 ---
 
-<div style="position:relative; width:100%; padding-bottom:100%; height:0; overflow:hidden; max-width:100%;">
-<iframe src="https://brahimbenaissa.com/DM_chart/DM_Chart.html"
-      style="width:100%; height:500px; border:none; border-radius:16px;"
-      title="DM Chart" loading="lazy" allowfullscreen scrolling="no"></iframe>
-</div>
+<style>
+  /* Desktop styles (larger screens) */
+  .responsive-iframe {
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;  
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
 
+  /* Mobile styles (smaller screens) */
+  @media (max-width: 768px) {
+    .responsive-iframe {
+      padding-bottom: 120%;  
+    }
+  }
+</style>
+
+<div class="responsive-iframe">
+  <iframe src="https://brahimbenaissa.com/DM_chart/DM_Chart.html"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 16px;"
+          title="DM Chart" loading="lazy" allowfullscreen></iframe>
+</div>
 
 ---
 
-<div style="position:relative; width:100%; padding-bottom:100%; height:0; overflow:hidden; max-width:100%;">
-<iframe src="https://brahimbenaissa.com/Mezzi_Chart/Mezzi_Chart.html"
-      style="width:100%; height:500px; border:none; border-radius:16px;"
-      title="DM Chart" loading="lazy" allowfullscreen scrolling="no"></iframe>
+<div class="responsive-iframe">
+  <iframe src="https://brahimbenaissa.com/Mezzi_Chart/Mezzi_Chart.html"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 16px;"
+          title="DM Chart" loading="lazy" allowfullscreen></iframe>
 </div>
+
+---
