@@ -35,7 +35,7 @@ If the Mezzi effect holds up, it could shake up cosmology. Dark matter hunts (li
   .responsive-iframe {
     position: relative;
     width: 100%;
-    padding-bottom: 95%;  
+    padding-bottom: 90%;  
     height: 0;
     overflow: hidden;
     max-width: 100%;
@@ -44,7 +44,7 @@ If the Mezzi effect holds up, it could shake up cosmology. Dark matter hunts (li
   /* Mobile styles (smaller screens) */
   @media (max-width: 768px) {
     .responsive-iframe {
-      padding-bottom: 115%;  
+      padding-bottom: 120%;  
     }
   }
 </style>
