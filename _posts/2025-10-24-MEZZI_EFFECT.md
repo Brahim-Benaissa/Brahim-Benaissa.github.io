@@ -38,13 +38,13 @@ If the Mezzi effect holds up, it could shake up cosmology. Dark matter hunts (li
     padding-bottom: 80%;  
     height: 0;
     overflow: hidden;
-    max-width: 100%;
+    max-width: 95%;
   }
 
   /* Mobile styles (smaller screens) */
   @media (max-width: 768px) {
     .responsive-iframe {
-      padding-bottom: 100%;  
+      padding-bottom: 115%;  
     }
   }
 </style>
