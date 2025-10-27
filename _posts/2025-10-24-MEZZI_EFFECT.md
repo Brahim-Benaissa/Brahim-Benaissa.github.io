@@ -30,7 +30,7 @@ If the Mezzi effect holds up, it could shake up cosmology. Dark matter hunts (li
 
 ---
 
-<div style="position:relative; width:100%; padding-bottom:70%; height:0; overflow:hidden; max-width:100%;">
+<div style="position:relative; width:100%; padding-bottom:80%; height:0; overflow:hidden; max-width:100%;">
 <iframe src="https://brahimbenaissa.com/DM_chart/DM_Chart.html"
       style="width:100%; height:500px; border:none; border-radius:16px;"
       title="DM Chart" loading="lazy" allowfullscreen scrolling="no"></iframe>
@@ -39,7 +39,7 @@ If the Mezzi effect holds up, it could shake up cosmology. Dark matter hunts (li
 
 ---
 
-<div style="position:relative; width:100%; padding-bottom:70%; height:0; overflow:hidden; max-width:100%;">
+<div style="position:relative; width:100%; padding-bottom:80%; height:0; overflow:hidden; max-width:100%;">
 <iframe src="https://brahimbenaissa.com/Mezzi_Chart/Mezzi_Chart.html"
       style="width:100%; height:500px; border:none; border-radius:16px;"
       title="DM Chart" loading="lazy" allowfullscreen scrolling="no"></iframe>
