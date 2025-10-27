@@ -5,7 +5,7 @@ date: 2025-10-24 08:31:00 +0900
 categories: [Physics, Gravity]
 tags: [Ongoing]
 toc: true
-published: false
+published: true
 comments: true
 pin: true
 ---
@@ -37,6 +37,7 @@ If the Mezzi effect holds up, it could shake up cosmology. Dark matter hunts (li
   style="border:none; border-radius:16px; overflow:hidden;"
   title="DM Chart"
   loading="lazy"
+  allowfullscreen
 ></iframe>
 
 
@@ -45,6 +46,7 @@ If the Mezzi effect holds up, it could shake up cosmology. Dark matter hunts (li
     width="100%"
     height="550"
     style="border:none; border-radius:16px; overflow:hidden;"
-    title="DM Chart"
+    title="Mezzi Chart"
     loading="lazy"
+    allowfullscreen
   ></iframe>
