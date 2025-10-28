@@ -12,21 +12,9 @@ pin: true
 
 # What's the Problem with Galaxy Rotation?
 
-
-
 - **Dark matter**: An invisible halo of mysterious stuff surrounding galaxies, providing extra gravity to keep those outer stars speeding along. It's the leading theory, but we haven't directly detected dark matter particles yet.
 
 - **Modified gravity**: Tweaks to Newton's or Einstein's laws at large scales, like MOND (Modified Newtonian Dynamics), which changes how gravity works in low-acceleration environments.Both have their fans and flaws, but what if there's another explanation? Enter the Mezzi effect.
-
-## Introducing the Mezzi Effect: A Relativistic TwistIn his paper titled
-
-
-## Testing It Out: Evidence from Real GalaxiesBenaissa didn't just theorize; he tested it.
-
-
-
-## Why Does This Matter? And What's Next?
-
 
 ---
 
@@ -49,6 +37,8 @@ pin: true
   }
 </style>
 
+## Dark Matter visualization
+
 <div class="responsive-iframe">
   <iframe src="https://brahimbenaissa.com/DM_chart/DM_Chart.html"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 16px;"
@@ -56,6 +46,8 @@ pin: true
 </div>
 
 ---
+
+## Mezzi effect visualization
 
 <div class="responsive-iframe">
   <iframe src="https://brahimbenaissa.com/Mezzi_Chart/Mezzi_Chart.html"
