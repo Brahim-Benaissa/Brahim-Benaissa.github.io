@@ -16,6 +16,8 @@ toc: true
 
 ## 2025
 
+**B Benaissa**, **Resolving Galactic Rotation Curve Discrepancies Through a Proposed Relativistic Observation Effect**, *SSRN Preprint*. <a href=" http://dx.doi.org/10.2139/ssrn.5176689 " target="_blank"> http://dx.doi.org/10.2139/ssrn.5176689 </a>  
+
 N Hassaine, M Dahak, N Touat, S Khatir, **B Benaissa**, T Cuong-Le, **Damage identification in functionally graded material beam structures based on frequency analysis and AOA-ANN**, *Mechanics Based Design of Structures and Machines*. <a href=" https://doi.org/10.1080/15397734.2025.2487176 " target="_blank"> https://doi.org/10.1080/15397734.2025.2487176 </a>  
 
 **B Benaissa**, M Al Ali, B Khatir, M Saadatmorad. **Analyzing the effects of void characteristics on the compliance of topology optimized structures for additive manufacturing**. *Journal of Science–Advances in Computational Structures*. <a href=" https://doi.org/10.46223/HCMCOUJS.acs.en.15.1.66.2025 " target="_blank"> https://doi.org/10.46223/HCMCOUJS.acs.en.15.1.66.2025 </a>
@@ -23,6 +25,8 @@ N Hassaine, M Dahak, N Touat, S Khatir, **B Benaissa**, T Cuong-Le, **Damage ide
 **B Benaissa**, F Hendrichovsky, M As, K Yoshida. **BLE Signal Reception and Localization Performance with Varying Receiver and Beacon Setups**. *Future Internet*. <a href=" https://doi.org/10.3390/fi17020054 " target="_blank"> https://doi.org/10.3390/fi17020054 </a>
 
 **B Benaissa**, M Kobayashi, H Takenouchi. **Enhancing Consumer Agent Modeling Through Openness-Based Consumer Traits and Inverse Clustering**. *Machine Learning and Knowledge Extraction*. <a href=" https://doi.org/10.3390/make7010009 " target="_blank"> https://doi.org/10.3390/make7010009 </a>
+
+**B Benaissa**, M Kobayashi, M Al Ali, S Khatir, M Shimoda. **A novel exploration strategy for the YUKI algorithm for topology optimization with metaheuristic structural binary distribution**. *Engineering Optimization*. <a href=" https://doi.org/10.1080/0305215X.2024.2349104 " target="_blank"> https://doi.org/10.1080/0305215X.2024.2349104 </a>
 
 
 ## 2024
@@ -32,8 +36,6 @@ A Khatir, R Capozucca, S Khatir, E Magagnini, **B Benaissa**, T Cuong-Le **An ef
 HA Abdushkour, M Saadatmorad, S Khatir, **B Benaissa**, F Al Thobiani, A U Khawaja. **Structural Damage Detection by Derivative-Based Wavelet Transforms**. *Arabian Journal for Science and Engineering*. <a href=" https://doi.org/10.1007/s13369-024-09115-1 " target="_blank"> https://doi.org/10.1007/s13369-024-09115-1 </a>
 
 M Saadatmorad, S Khatir, T Cuong-Le, **B Benaissa**, S Mahmoudi. **Detecting damages in metallic beam structures using a novel wavelet selection criterion**. *Journal of Sound and Vibration*. <a href=" https://doi.org/10.1016/j.jsv.2024.118297 " target="_blank"> https://doi.org/10.1016/j.jsv.2024.118297 </a>
-
-**B Benaissa**, M Kobayashi, M Al Ali, S Khatir, M Shimoda. **A novel exploration strategy for the YUKI algorithm for topology optimization with metaheuristic structural binary distribution**. *Engineering Optimization*. <a href=" https://doi.org/10.1080/0305215X.2024.2349104 " target="_blank"> https://doi.org/10.1080/0305215X.2024.2349104 </a>
 
 M Seguini, S Khatir, D Boutchicha, AO Brahim, **B Benaissa**, C Le Thanh, M Noori, N Fantuzzi. **Forecasting and characterization of composite pipeline based on experimental modal analysis and YUKI-gradient boosting**. *Construction and Building Materials*. <a href=" https://doi.org/10.1016/j.conbuildmat.2024.135625 " target="_blank"> https://doi.org/10.1016/j.conbuildmat.2024.135625 </a>
 
