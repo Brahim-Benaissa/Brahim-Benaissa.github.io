@@ -31,9 +31,6 @@ pin: true
 </style>
 
 
-# TL;DR
-
-
 ---
 
 ## The Problem of Galaxy Rotation Curves
