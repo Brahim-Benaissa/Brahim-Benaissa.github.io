@@ -88,4 +88,17 @@ layout: compress
 
 {% endfor %}
 
+{% assign extra_pages = site.data.extra_pages %}
+{% if extra_pages %}
+  {% for item in extra_pages %}
+    <url>
+      <loc>{{ item.url }}</loc>
+      <lastmod>{{ item.lastmod | default: site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>{{ item.changefreq | default: "monthly" }}</changefreq>
+      <priority>{{ item.priority | default: 0.5 }}</priority>
+    </url>
+  {% endfor %}
+{% endif %}
+
+
 </urlset>
