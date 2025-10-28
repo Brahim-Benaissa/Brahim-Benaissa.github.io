@@ -10,13 +10,6 @@ comments: true
 pin: true
 ---
 
-# The Problem of Galaxy Rotation Curves
-
-The observed flat rotation curves, where stars maintain high velocities at large galactic radii, contradict the Newtonian predictions. This anomaly have presented a significant challenge to our understanding of gravity and the distribution of visible matter in galaxies.
-
-The prevailing explanation invokes dark matter, a non interactive form of matter that permeates galaxies, providing the additional gravitational pull needed to explain the observations. However, despite extensive searches, dark matter remain undetected.
-
----
 
 <style>
   /* Desktop styles (larger screens) */
@@ -36,6 +29,22 @@ The prevailing explanation invokes dark matter, a non interactive form of matter
     }
   }
 </style>
+
+
+# TL;DR
+
+
+---
+
+## The Problem of Galaxy Rotation Curves
+
+The observed flat rotation curves, where stars maintain high velocities at large galactic radii, contradict the Newtonian predictions. This anomaly have presented a significant challenge to our understanding of gravity and the distribution of visible matter in galaxies.
+
+The prevailing explanation invokes dark matter, a non interactive form of matter that permeates galaxies, providing the additional gravitational pull needed to explain the observations. However, despite extensive searches, dark matter remain undetected.
+
+---
+
+
 
 ## Dark Matter visualization
 
