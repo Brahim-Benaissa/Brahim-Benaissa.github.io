@@ -67,3 +67,13 @@ The mezzi effect is relativistic observational effect that causes galaxies to ap
 </div>
 
 ---
+
+### Explore More
+
+To access the **full paper details**, **results**, and **computational code**, please visit:  
+🔗 [JustPeers Research Page](https://justpeers.com/)
+
+You can also read the official **preprint paper** here:  
+📄 [SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176689)
+
+---
