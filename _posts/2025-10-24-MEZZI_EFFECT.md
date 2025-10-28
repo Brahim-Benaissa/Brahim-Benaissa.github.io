@@ -10,11 +10,11 @@ comments: true
 pin: true
 ---
 
-# What's the Problem with Galaxy Rotation?
+# The Problem of Galaxy Rotation Curves
 
-- **Dark matter**: An invisible halo of mysterious stuff surrounding galaxies, providing extra gravity to keep those outer stars speeding along. It's the leading theory, but we haven't directly detected dark matter particles yet.
+The observed flat rotation curves, where stars maintain high velocities at large galactic radii, contradict the Newtonian predictions. This anomaly have presented a significant challenge to our understanding of gravity and the distribution of visible matter in galaxies.
 
-- **Modified gravity**: Tweaks to Newton's or Einstein's laws at large scales, like MOND (Modified Newtonian Dynamics), which changes how gravity works in low-acceleration environments.Both have their fans and flaws, but what if there's another explanation? Enter the Mezzi effect.
+The prevailing explanation invokes dark matter, a non interactive form of matter that permeates galaxies, providing the additional gravitational pull needed to explain the observations. However, despite extensive searches, dark matter remain undetected.
 
 ---
 
@@ -38,6 +38,8 @@ pin: true
 </style>
 
 ## Dark Matter visualization
+
+ According to dark matter models, galaxies reside within vast, unseen halos that extend well beyond their visible regions, providing the gravitational force required to account for the unexplained high orbital velocities observed at large radii.
 
 <div class="responsive-iframe">
   <iframe src="https://brahimbenaissa.com/DM_chart/DM_Chart.html"
