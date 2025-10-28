@@ -57,7 +57,7 @@ The prevailing explanation invokes dark matter, a non interactive form of matter
 
 ## Mezzi effect visualization
 
-The mezzi effect is relativistic observational effect that causes galaxies to appear compressed. This effect makes distant stars appear closer to the center than they truly are, leading us to miscalculate their expected orbital speeds. By accounting for this distortion, the observed flat rotation curves align with observation.
+The mezzi effect is a relativistic observational effect that causes galaxies to appear compressed. This effect makes distant stars appear closer to the center than they truly are, leading us to miscalculate their expected orbital speeds. By accounting for this distortion, the observed flat rotation curves align with observation.
 
 
 <div class="responsive-iframe">
