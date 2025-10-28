@@ -41,8 +41,6 @@ The prevailing explanation invokes dark matter, a non interactive form of matter
 
 ---
 
-
-
 ## Dark Matter visualization
 
  According to dark matter models, galaxies reside within vast, unseen halos that extend well beyond their visible regions, providing the gravitational force required to account for the unexplained high orbital velocities observed at large radii.
@@ -66,7 +64,9 @@ The mezzi effect is a relativistic observational effect that causes galaxies to 
           title="DM Chart" loading="lazy" allowfullscreen scrolling="no"></iframe>
 </div>
 
+
 ---
+
 
 ## Explore the details
 
@@ -75,5 +75,6 @@ To access the **full SPARC data results**, and **computational code**, please vi
 
 You can also read the **Research Preprint Paper** here:  
 📄 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176689" target="_blank" rel="noopener noreferrer">SSRN Preprint</a>
+
 
 ---
