@@ -12,6 +12,11 @@ pin: true
 description: "Explore the Mezzi Effect and its impact on galaxy rotation curves with interactive visualizations. Learn how this relativistic effect challenges traditional dark matter explanations."
 keywords: [mezzi effect, galaxy rotation curve, dark matter, astrophysics, galactic dynamics, astronomy]
 
+ 
+image: "{{site.baseurl}}/assets/files/Projects/Mezzi Effect/Mezzi effect.JPG"
+og_image: "{{site.baseurl}}/assets/files/Projects/Mezzi Effect/Mezzi effect.JPG"
+twitter_image: "{{site.baseurl}}/assets/files/Projects/Mezzi Effect/Mezzi effect.JPG"
+
 ---
 
 
