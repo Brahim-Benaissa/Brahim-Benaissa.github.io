@@ -22,9 +22,9 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 # MEZZI Effect @ JustPeers
 
-## <a href="{{site.baseurl}}/posts/MEZZI_EFFECT" target="_blank"> JustPeers page</a>
+## <a href="{{site.baseurl}}/posts/MEZZI_EFFECT" target="_blank"> What is the Mezzi Effect?</a>
 
-## <a href="https://justpeers.com/" target="_blank"> JustPeers page</a>
+## <a href="https://justpeers.com/" target="_blank"> JustPeers with Full code and results</a>
 
 <p align="center">
     <a href="https://justpeers.com/" target="_blank">
