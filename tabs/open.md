@@ -8,7 +8,7 @@ toc: true
 
 # 👨‍💻 Open Source Code
 
-## <a href="https://justpeers.com/"> **Mezzi Effect** [ Matlab + Full Results ] </a>
+## <a href="https://justpeers.com/" target="_blank"> **Mezzi Effect** [ Matlab + Full Results ] </a>
 
 ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> **YUKI Algorithm 2.0** [ Python + Matlab ] </a>
 

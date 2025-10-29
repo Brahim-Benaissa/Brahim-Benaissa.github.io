@@ -22,15 +22,13 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 # MEZZI Effect @ JustPeers
 
-## <a href="https://justpeers.com/"> MEZZI Effect</a>
+## <a href="https://justpeers.com/" target="_blank"> MEZZI Effect</a>
 
 <p align="center">
-
-    <a href="https://justpeers.com/"><img src="{{site.baseurl}}/assets/files/Projects/Mezzi Effect/ME.JPG" width="55%"> </a>
-
+    <a href="https://justpeers.com/" target="_blank">
+        <img src="{{site.baseurl}}/assets/files/Projects/Mezzi Effect/ME.JPG" width="55%">
+    </a>
 </p>
-
-
 
 # Soft Computing Tools
 
