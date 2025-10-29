@@ -19,6 +19,19 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 ---
 
+
+# MEZZI Effect @ JustPeers
+
+## <a href="https://justpeers.com/"> MEZZI Effect</a>
+
+<p align="center">
+
+    <a href="https://justpeers.com/"><img src="{{site.baseurl}}/assets/files/Projects/Mezzi Effect/ME.jpg" width="55%"> </a>
+
+</p>
+
+
+
 # Soft Computing Tools
 
 ## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> YUKI Algorithm 2</a>
