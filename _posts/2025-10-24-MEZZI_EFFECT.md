@@ -43,7 +43,7 @@ The prevailing explanation invokes dark matter, a non interactive form of matter
 
 ## Dark Matter visualization
 
- According to dark matter models, galaxies reside within vast, unseen halos that extend well beyond their visible regions, providing the gravitational force required to account for the unexplained high orbital velocities observed at large radii.
+ According to dark matter models, galaxies reside within vast, unseen halos that extend well beyond their visible regions, providing the gravitational force required to account for the high orbital velocities observed at large radii.
 
 <div class="responsive-iframe">
   <iframe src="https://brahimbenaissa.com/DM_chart/DM_Chart.html"
@@ -55,7 +55,7 @@ The prevailing explanation invokes dark matter, a non interactive form of matter
 
 ## Mezzi effect visualization
 
-The mezzi effect is a relativistic observational effect that causes galaxies to appear compressed. This effect makes distant stars appear closer to the center than they truly are, leading us to miscalculate their expected orbital speeds. By accounting for this distortion, the Newtonian model results align with observed flat rotation curves.
+The mezzi effect is a relativistic observational effect that causes galaxies to appear compressed. This effect makes distant stars appear closer to the center than they truly are, which distorts the perceived distances and leads us to miscalculate their orbital speeds. By accounting for this distortion, the Newtonian model results align with observed flat rotation curves.
 
 
 <div class="responsive-iframe">
