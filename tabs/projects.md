@@ -20,7 +20,7 @@ If you're looking for collaboration, do not hesitate to contact me.
 ---
 
 
-# MEZZI Effect @ JustPeers
+# The Mezzi Effect
 
 ## <a href="{{site.baseurl}}/posts/MEZZI_EFFECT" target="_blank"> What is the Mezzi Effect?</a>
 
