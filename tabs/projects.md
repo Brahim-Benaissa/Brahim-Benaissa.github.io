@@ -28,7 +28,7 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 <p align="center">
     <a href="https://justpeers.com/" target="_blank">
-        <img src="{{site.baseurl}}/assets/files/Projects/Mezzi Effect/ME.JPG" width="100%">
+        <img src="{{site.baseurl}}/assets/files/Projects/Mezzi Effect/Mezzi effect.JPG" width="100%">
     </a>
 </p>
 
