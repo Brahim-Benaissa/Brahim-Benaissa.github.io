@@ -72,6 +72,29 @@ The mezzi effect is a relativistic observational effect that causes galaxies to 
 
 ---
 
+## Perspective Shift: Not the Outer Regions Too Fast, But Inner Regions Too Slow
+
+The Mezzi Effect provides an alternative interpretation of galaxy rotation curves. Instead of outer stars moving too fast, it proposes that the inner regions appear slower due to a subtle spatial compression. When this geometric distortion is accounted for, Newtonian predictions align more closely with the observed rotation profiles.
+
+---
+
+## No Missing Mass, Only Underestimated Mass
+
+A compressed appearance can make galaxies seem smaller and fainter than they are, leading to an underestimation of their visible mass. Adjusting for this scale effect increases the inferred baryonic content, reducing the apparent need for additional unseen matter.
+
+---
+
+## Occam's Razor  
+
+The Mezzi framework remains within established physics, relying on relativistic geometry rather than new particles or modified gravity. If it explains observations with fewer assumptions, it offers a simpler and testable alternative consistent with Occam’s principle.
+
+---
+
+## Supporting Evidence
+
+Analysis of 175 galaxies from the SPARC database shows that applying a relativistic scale correction can reproduce flat rotation curves using only visible matter. The resulting spatial curvature correlates strongly with general relativity’s predictions, suggesting the effect may reflect a genuine geometric property rather than only a fitting artifact.
+
+---
 
 ## Explore the details
 
@@ -80,6 +103,5 @@ To access the **full SPARC data results**, and **computational code**, visit:
 
 You can also read the **Research Preprint Paper** here:  
 📄 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176689" target="_blank" rel="noopener noreferrer">SSRN Preprint</a>
-
 
 ---
