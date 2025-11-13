@@ -98,25 +98,25 @@ Analysis of 175 galaxies from the SPARC database shows that applying a relativis
 
 ## Questions to be Answered
 
-• How robust is the correlation with Ricci curvature?
-• Can the Mezzi scale factor be derived from first principles?     
-• How does it connect to established relativistic phenomena?
-• Will there be an Independent confirmation of SPARC results?     
-• Can the SPARC data results results correspond to the Lensing observations?    
-• Can the mezzi Effect be applied to galaxy custers?
+- How robust is the correlation with Ricci curvature?
+- Can the Mezzi scale factor be derived from first principles?     
+- How does it connect to established relativistic phenomena?
+- Will there be an Independent confirmation of SPARC results?     
+- Can the SPARC data results results correspond to the Lensing observations?    
+- Can the mezzi Effect be applied to galaxy custers?
 
 ---
 
 ## A Call for Collaboration
 
-To astronomers, relativists, data scientists, and theorists: I invite you to test, challenge, and refine this idea. Whether you work with rotation curves, weak lensing surveys, or foundational gravity theories—your expertise is needed.
+To astronomers, relativists, data scientists, and theorists: I invite you to test, challenge, and refine this idea. Whether you work with rotation curves, weak lensing surveys, or foundational gravity theories, your expertise is needed.
 
 Let us collaborate on:
 
-• Reproduce the SPARC analysis independently, using alternative mass models and fitting techniques.  
-• Compare Mezzi-corrected baryonic maps with lensing mass reconstructions from Euclid, Rubin Observatory, or JWST.  
-• Explore theoretical derivations of ξ(r) within Painlevé–Gullstrand geometry or other GR frameworks.  
-• Apply the Mezzi scaling to cluster dynamics, can it explain lensing observation without dark matter?
+- Reproduce the SPARC analysis independently, using alternative mass models and fitting techniques.  
+- Compare Mezzi-corrected baryonic maps with lensing mass reconstructions from Euclid, Rubin Observatory, or JWST.  
+- Explore theoretical derivations of ξ(r) within Painlevé–Gullstrand geometry or other GR frameworks.  
+- Apply the Mezzi scaling to cluster dynamics, can it explain lensing observation without dark matter?
 
 ---
 
