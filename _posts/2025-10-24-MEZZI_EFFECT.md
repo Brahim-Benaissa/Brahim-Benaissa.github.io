@@ -9,7 +9,7 @@ published: true
 comments: true
 pin: true
 
-description: "Explore the Mezzi Effect and its impact on galaxy rotation curves with interactive visualizations. Learn how this relativistic effect challenges traditional dark matter explanations."
+description: "Explore the Mezzi Effect and its impact on galaxy rotation curves with interactive visualizations. Learn how this relativistic effect may offer an alternative perspective on dark matter explanations."
 keywords: [mezzi effect, galaxy rotation curve, dark matter, astrophysics, galactic dynamics, astronomy]
 
 
@@ -37,6 +37,16 @@ keywords: [mezzi effect, galaxy rotation curve, dark matter, astrophysics, galac
 
 
 ---
+
+## This is Preprint Research; Treat as Speculative
+
+This framework remains in preprint status and has not undergone formal peer review. All findings—correlations, fits, and interpretations—should be considered provisional and exploratory.
+
+ <a href="https://justpeers.com/" target="_blank" rel="noopener noreferrer"> Full Data and Computational Code</a> are provided for independent verification.
+
+ Critiques and attempts to reproduce/refute are welcome.
+
+ ---
 
 ## The Problem of Galaxy Rotation Curves
 
@@ -84,11 +94,6 @@ A compressed appearance can make galaxies seem smaller and fainter than they are
 
 ---
 
-## Occam's Razor  
-
-The Mezzi framework remains within established physics, relying on relativistic geometry rather than new particles or modified gravity. If it explains observations with fewer assumptions, it offers a simpler and testable alternative consistent with Occam’s principle.
-
----
 
 ## Supporting Evidence
 
