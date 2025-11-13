@@ -38,13 +38,13 @@ keywords: [mezzi effect, galaxy rotation curve, dark matter, astrophysics, galac
 
 ---
 
-## A Preprint Research 
+## A Preprint Research
 
 This framework remains in preprint status and has not undergone formal peer review. All findings, correlations, fits, and interpretations should be considered provisional and exploratory.
 
- <a href="https://justpeers.com/" target="_blank" rel="noopener noreferrer"> Full Data and Computational Code</a> are provided for independent verification.
+The <a href="https://justpeers.com/" target="_blank" rel="noopener noreferrer"> Full Data and Computational Code</a> are provided for independent verification.
 
- Critiques and attempts to reproduce/refute are welcome.
+Critiques and attempts to reproduce/refute are welcome.
 
  ---
 
