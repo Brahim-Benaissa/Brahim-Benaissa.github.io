@@ -96,6 +96,18 @@ Analysis of 175 galaxies from the SPARC database shows that applying a relativis
 
 ---
 
+## Questions to be Answered
+
+• How robust is the correlation with Ricci curvature?
+• Can the Mezzi scale factor be derived from first principles?     
+• How does it connect to established relativistic phenomena?
+• Will there be an Independent confirmation of SPARC results?     
+• Can the SPARC data results results correspond to the Lensing observations?    
+• Can the mezzi Effect be applied to galaxy custers?
+
+---
+
+
 ## Explore the details
 
 To access the **full SPARC data results**, and **computational code**, visit:  
