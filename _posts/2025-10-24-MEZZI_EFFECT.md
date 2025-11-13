@@ -74,7 +74,7 @@ The mezzi effect is a relativistic observational effect that causes galaxies to 
 
 ## First Shift in Perspective: It’s Not That the Outer Regions Move Too Fast, but That the Inner Regions Appear Too Slow
 
-The Mezzi Effect provides an alternative interpretation of galaxy rotation curves. Instead of outer stars moving too fast, it proposes that the inner regions appear slower due to a subtle spatial compression. When this geometric distortion is accounted for, Newtonian predictions align more closely with the observed rotation profiles.
+The Mezzi Effect provides an alternative interpretation of galaxy rotation curves. Instead of outer stars moving too fast, it proposes that the inner regions appear slower. When the velocity underestimation is corrected, the Newtonian predictions match the observed rotation profiles more closely.
 
 ---
 
