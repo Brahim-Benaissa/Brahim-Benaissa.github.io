@@ -16,6 +16,8 @@ toc: true
 
 ## 2025
 
+H Takenouchi, **B Benaissa**, M Tokumaru, **Applying Yuki Algorithm To Interactive Evolutionary Computation**, *Intelligent Informatics*. <a href="https://doi.org/10.3156/jsoft.37.1_553" target="_blank"> https://doi.org/10.3156/jsoft.37.1_553 </a>  
+
 **B Benaissa**, **Resolving Galactic Rotation Curve Discrepancies Through a Proposed Relativistic Observation Effect**, *SSRN Preprint*. <a href=" http://dx.doi.org/10.2139/ssrn.5176689 " target="_blank"> http://dx.doi.org/10.2139/ssrn.5176689 </a>  
 
 N Hassaine, M Dahak, N Touat, S Khatir, **B Benaissa**, T Cuong-Le, **Damage identification in functionally graded material beam structures based on frequency analysis and AOA-ANN**, *Mechanics Based Design of Structures and Machines*. <a href=" https://doi.org/10.1080/15397734.2025.2487176 " target="_blank"> https://doi.org/10.1080/15397734.2025.2487176 </a>  
@@ -50,8 +52,6 @@ M Al Ali, M Shimoda, **B Benaissa**, M Kobayashi, T Takeuchi, A Al-Shawk, S Ranj
 M Saadatmorad, S Khatir, C Le Thanh, **B Benaissa**, S Mahmoudi. **Detecting Damages in Metallic Beam Structures using a Novel Wavelet Selection Criterion**. *Journal of Sound and Vibration*. <a href=" https://doi.org/10.1016/j.jsv.2024.118297 " target="_blank"> https://doi.org/10.1016/j.jsv.2024.118297 </a>
 
 Z Roumaissa, A Ayoub, **B Benaissa**, I  Belaidi, E Sukic, T Khatir. **A comparative analysis for crack identification in structural health monitoring: a focus on experimental crack length prediction with YUKI and POD-RBF**. *Comptes Rendus. Mécanique*.  <a href=" https://doi.org/10.5802/crmeca.241 " target="_blank"> https://doi.org/10.5802/crmeca.241 </a>
-
-**B Benaissa**, R Capozucca, S Khatir, G Milani. **Proceedings of the International Conference of Steel and Composite for Engineering Structures: ICSCES 2023**. *Springer Nature*. <a href=" https://doi.org/10.1007/978-3-031-57224-1 " target="_blank"> https://doi.org/10.1007/978-3-031-57224-1 </a>
 
 A Kahouadji, S Tiachacht, M Slimani, T Khatir, **B Benaissa**, A Behtani. **Nature-Inspired Optimization for Frequency-Based Damage Identification in Planar and Space Trusses**. *International Conference of Steel and Composite for Engineering Structures*. <a href=" https://doi.org/10.1007/978-3-031-57224-1_20 " target="_blank"> https://doi.org/10.1007/978-3-031-57224-1_20 </a>
 
