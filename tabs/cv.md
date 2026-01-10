@@ -16,10 +16,10 @@ toc: true
 
 
 
-## Lecturer
-( 2024 - 2025 ) | **CEATS Center, Ho Chi Minh City Open University** | **Mechanical Systems Engineering**
+## Independent Researcher
+( 2024 ) | **Mezzi Effect** | **Astrophysics**
 
-- <a href="https://ceats.ou.edu.vn/us/" target="_blank">*CEATS Center*</a>
+- <a href="https://justpeers.com/" target="_blank">*JustPeers*</a>
 
 ---
 
