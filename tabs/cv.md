@@ -15,7 +15,6 @@ toc: true
 # 🧰 Experience
 
 
-
 ## Independent Researcher
 ( 2024 ) | **Mezzi Effect** | **Astrophysics**
 
