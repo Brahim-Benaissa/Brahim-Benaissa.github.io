@@ -77,7 +77,7 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 ---
 
-# Current Projects
+# Past Projects
 
 ## Deep Learning for **Multidisciplinary Design Optimization** *(@ Toyota technological Institute)*
 
