@@ -97,7 +97,7 @@ The shallower lensing slope reveals that geometric scaling affects dynamical mas
 
  - **Freeman's Law:** When geometric distortion is removed, the central surface densities of disk galaxies converge to a truly universal value. This suggests Freeman's Law is a fundamental anchor of galactic structure.
 
- 
+
  ---
 
 
@@ -154,6 +154,6 @@ To access the **full SPARC data results**, and **computational code**, visit:
 🔗 <a href="https://justpeers.com/" target="_blank" rel="noopener noreferrer">JustPeers Page</a>
 
 You can also read the **Research Preprint Paper** here:  
-📄 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176689" target="_blank" rel="noopener noreferrer">SSRN Preprint</a>
+📄 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176689" target="_blank" rel="noopener noreferrer">Preprint</a>
 
 ---
