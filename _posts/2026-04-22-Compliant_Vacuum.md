@@ -96,6 +96,8 @@ Critiques and attempts to reproduce/refute are welcome.
 The shallower lensing slope reveals that geometric scaling affects dynamical mass more strongly than lensing mass. Although the true mass increases substantially for highly distorted systems, this mass is redistributed over proportionally larger radii, effectively diluting the surface density that governs lensing efficiency. This differential scaling provides a testable signature distinguishing geometric distortion from particle dark matter.
 
  - **Freeman's Law:** When geometric distortion is removed, the central surface densities of disk galaxies converge to a truly universal value. This suggests Freeman's Law is a fundamental anchor of galactic structure.
+
+ 
  ---
 
 
