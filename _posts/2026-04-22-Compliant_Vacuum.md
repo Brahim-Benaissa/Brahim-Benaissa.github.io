@@ -49,14 +49,14 @@ Critiques and attempts to reproduce/refute are welcome.
  ---
 
 
-## Darkmatter problem, RAR and BTFR
+## Dark Matter Problem, RAR and BTFR
 
- Galaxies rotate faster than their visible matter allows. This discrepancy—Zwicky's 1933 "missing mass"—persists across scales from dwarfs to massive spirals. Two empirical relations govern this anomaly:
+ - **Rotation Curves**: Since Zwicky (1933) and Rubin et al. (1980), observations reveal that galactic rotation velocities remain approximately constant at large radii, contrary to the Keplerian decline ($v \propto r^{-1/2}$) predicted by Newtonian gravity applied to visible baryons. This "missing mass" discrepancy persists across galaxy types and scales, forming the empirical basis for the dark matter hypothesis.
 
- - **Radial Acceleration Relation (RAR):** Dynamical acceleration \( g_{\text{dyn}} \) correlates precisely with baryonic acceleration \( g_{\text{bar}} \) across five orders of magnitude, with scatter below 0.13 dex.
- - **Baryonic Tully-Fisher Relation (BTFR):** Baryonic mass scales with asymptotic rotation velocity as \( M \propto v^4 \), slope \( \approx 4 \), normalization offset \( \approx 47 \, M_\odot \, \text{km}^{-4} \, \text{s}^4 \).
+ - **Radial Acceleration Relation (RAR)**: A tight, nearly scatter-free correlation between the observed centripetal acceleration $g_{\rm obs} = v_{\rm obs}^2/r$ and the acceleration predicted from the baryonic mass distribution alone, $g_{\rm bar} = GM_{\rm bar}(<r)/r^2$. The RAR holds over ~5 dex in acceleration and across diverse galaxy morphologies, suggesting a fundamental coupling between baryons and dynamics that any viable theory must reproduce (McGaugh et al. 2016; Lelli et al. 2017).
 
- Standard cosmology invokes non-baryonic dark matter halos. MOND modifies Newtonian dynamics below acceleration \( a_0 \approx 1.2 \times 10^{-10} \, \text{m} \, \text{s}^{-2} \). Both require tuning: halo parameters per galaxy in \( \Lambda \)CDM; \( a_0 \) as a new constant in MOND.
+ - **Baryonic Tully-Fisher Relation (BTFR)**: A power-law scaling $M_{\rm bar} \propto v_{\rm flat}^4$ linking total baryonic mass to the asymptotic rotation velocity, valid from dwarf irregulars to massive spirals. Its low intrinsic scatter (~0.2 dex) and slope near 4 challenge hierarchical formation models that predict significant variation in halo concentration and baryon retention, while providing a precise benchmark for alternative frameworks.
+
 
  ---
 
