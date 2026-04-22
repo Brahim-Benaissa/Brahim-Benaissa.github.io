@@ -61,7 +61,7 @@ Critiques and attempts to reproduce/refute are welcome.
 
  Standard analysis assumes space is a static, rigid grid where observed distances equal true distances. We propose instead that the vacuum behaves as a dynamic medium that flows radially inward toward mass concentrations. As light climbs out of a galaxy, it travels through this flowing vacuum, accumulating a subtle kinematic distortion along its entire path to the observer.
 
- The vacuum possesses a property we call **compliance**, quantified by a dimensionless constant $C$. This constant determines how efficiently the accumulated flow stress translates into measurable geometric distortion. We capture this effect with the **Mezzi scale factor**, $\zeta(r)$:
+ The vacuum possesses a property we call **compliance**, quantified by a dimensionless constant $C$. This constant determines how efficiently the accumulated flow stress translates into measurable geometric distortion. We capture this effect with the **Mezzi scale factor**, $$\zeta(r)$$:
 
  $$r_{\text{obs}} = \zeta(r) \cdot r_{\text{true}}$$
 
