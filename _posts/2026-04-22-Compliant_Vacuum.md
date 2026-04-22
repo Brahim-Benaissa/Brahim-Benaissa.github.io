@@ -154,9 +154,9 @@ Let us collaborate on:
 ## Explore the details
 
 To access the **full SPARC data results**, and **computational code**, visit:  
-🔗 &lt;a href="https://justpeers.com/ " target="_blank" rel="noopener noreferrer"&gt;JustPeers Page&lt;/a&gt;
+🔗 <a href="https://justpeers.com/" target="_blank" rel="noopener noreferrer">JustPeers Page</a>
 
 You can also read the **Research Preprint Paper** here:  
-📄 &lt;a href="https://www.preprints.org/manuscript/202604.1301 " target="_blank" rel="noopener noreferrer"&gt;SSRN Preprint&lt;/a&gt;
+📄 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176689" target="_blank" rel="noopener noreferrer">SSRN Preprint</a>
 
 ---
