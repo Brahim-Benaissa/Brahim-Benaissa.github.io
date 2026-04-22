@@ -15,6 +15,7 @@ keywords: [mezzi effect, galaxy rotation curve, dark matter, astrophysics, galac
 
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <style>
   /* Desktop styles (larger screens) */
@@ -53,7 +54,6 @@ Critiques and attempts to reproduce/refute are welcome.
  - **Radial Acceleration Relation (RAR):** There is a remarkably tight link between the acceleration measured from stellar/gas motions and the acceleration predicted by visible matter alone. This relation holds across all galaxy types, suggesting a fundamental coupling between light and motion that any theory must explain.
  - **Baryonic Tully-Fisher Relation (BTFR):** A galaxy's total visible mass scales almost perfectly with the fourth power of its rotation speed. This precise rule spans five orders of magnitude and challenges standard formation models, which expect far more variation in halo properties and baryon retention.
 
- *Together, these three observations form a strict benchmark. Any viable framework must reproduce all three simultaneously, without adjusting parameters for individual galaxies.*
 
  ---
 
