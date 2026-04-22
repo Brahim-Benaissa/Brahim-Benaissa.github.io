@@ -73,11 +73,29 @@ Critiques and attempts to reproduce/refute are welcome.
 
  Geometric compression does not occur randomly; it follows strict, predictable scaling relations:
 
- - **Surface Density:** Compressing the radial grid artificially inflates observed density. The true density is systematically lower, scaling inversely with the square root of the size correction.
- - **Mass-Radius Mapping:** Total enclosed mass scales almost linearly with the radial correction factor.
- - **Mass Dependence:** Low-mass galaxies experience minimal distortion ($\zeta \approx 0.9$), keeping them close to Euclidean geometry. Massive galaxies show extreme central compression ($\zeta \approx 0.1$), meaning their inner coordinates appear ten times smaller than they truly are.
- - **Freeman's Law:** When geometric distortion is removed, the central surface densities of disk galaxies converge to a truly universal value. This suggests Freeman's Law is a fundamental anchor of galactic structure, masked by observational projection effects.
+ - **Surface Density:** Compressing the radial grid artificially inflates observed density. The true density is systematically lower, scaling inversely with the square root of the size correction:
 
+   $$\Sigma_{\text{true}}/\Sigma_{\text{obs}} \propto (R_{\text{true}}/R_{\text{obs}})^{-0.5}$$
+
+ - **Mass-Radius Mapping:** Total enclosed mass scales almost linearly with the radial correction factor:
+
+   $$M_{\text{obs}}/M_{\text{true}} \propto r_{\text{obs}}/r_{\text{true}}$$
+
+ - **Total Mass vs. Geometry:** The true-to-observed mass ratio follows a steep power law with the Mezzi scale factor:
+
+   $$M_{\text{true}}/M_{\text{obs}} \propto \zeta^{-1.84}$$
+
+   This near-inverse-square scaling means that galaxies with strong geometric compression ($\zeta \ll 1$) have true masses several times larger than observed.
+
+ - **Lensing vs. Geometry:** Gravitational lensing deflection angles scale more weakly:
+
+   $$\alpha_{\text{true}}/\alpha_{\text{obs}} \propto \zeta^{-1.26}$$
+
+The shallower lensing slope reveals that geometric scaling affects dynamical mass more strongly than lensing mass. Although the true mass increases substantially for highly distorted systems, this mass is redistributed over proportionally larger radii, effectively diluting the surface density that governs lensing efficiency. This differential scaling provides a testable signature distinguishing geometric distortion from particle dark matter.
+
+ - **Mass Dependence:** Low-mass galaxies experience minimal distortion ($\zeta \approx 0.9$), keeping them close to Euclidean geometry. Massive galaxies show extreme central compression ($\zeta \approx 0.1$), meaning their inner coordinates appear ten times smaller than they truly are.
+
+ - **Freeman's Law:** When geometric distortion is removed, the central surface densities of disk galaxies converge to a truly universal value. This suggests Freeman's Law is a fundamental anchor of galactic structure, masked by observational projection effects.
  ---
 
 ## The Missing Mass
