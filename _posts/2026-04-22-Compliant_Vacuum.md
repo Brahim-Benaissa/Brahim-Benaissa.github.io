@@ -16,7 +16,8 @@ keywords: [mezzi effect, galaxy rotation curve, dark matter, astrophysics, galac
 ---
 
 
-&lt;style&gt;
+
+<style>
   /* Desktop styles (larger screens) */
   .responsive-iframe {
     position: relative;
@@ -33,7 +34,9 @@ keywords: [mezzi effect, galaxy rotation curve, dark matter, astrophysics, galac
       padding-bottom: 120%;  
     }
   }
-&lt;/style&gt;
+</style>
+
+
 
 
 ---
