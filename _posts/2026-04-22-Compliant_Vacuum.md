@@ -98,6 +98,7 @@ The shallower lensing slope reveals that geometric scaling affects dynamical mas
  - **Freeman's Law:** When geometric distortion is removed, the central surface densities of disk galaxies converge to a truly universal value. This suggests Freeman's Law is a fundamental anchor of galactic structure.
  ---
 
+
 ## The Missing Mass
 
  The "missing mass" is suggested to be a coordinate illusion. By reversing the Mezzi compression, we can reconstruct the true mass distribution using a simple discrete shell method:
