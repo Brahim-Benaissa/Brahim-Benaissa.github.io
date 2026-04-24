@@ -34,17 +34,14 @@ linkedin:
 
 social:
   name: Brahim Benaissa                  # it will shows as the copyright owner in Footer
-  email: brahim.enaissa.ou.edu.vn            # change to your email address YOUREMAIL@ADDRESS.COM
+  email: bb.justpeers@gmail.com            # change to your email address YOUREMAIL@ADDRESS.COM
   links:
     # The first element serves as the copyright owner's link
     - https://brahim-benaissa.github.io
     # Uncomment below to add more social links
     - https://scholar.google.com/citations?user=QA9Pf4gAAAAJ&hl=en      # change to your pages
-    - https://www.researchgate.net/profile/Brahim-Benaissa
-    - https://www.linkedin.com/in/brahim-benaissa/
     - https://www.scopus.com/authid/detail.uri?authorId=57140682400
     - https://orcid.org/0000-0002-9472-9331
-    - https://publons.com/researcher/4212351/brahim-benaissa/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
