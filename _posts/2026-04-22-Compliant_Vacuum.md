@@ -71,11 +71,11 @@ Critiques and attempts to reproduce/refute are welcome.
 
 ## The Emergent Scaling Laws
 
- Geometric compression of galaxies with masses of multiple orders of magnitude produced these scaling relations:
+ Geometric scaling of galaxies spanning three orders of magnitude in mass produced these scaling relations:
 
  - **Mass Dependence:** Low-mass galaxies experience minimal distortion ($$\zeta \approx 0.9$$), keeping them close to Euclidean geometry. Massive galaxies show extreme central compression ($$\zeta \approx 0.1$$), meaning their inner coordinates appear ten times smaller than they truly are.
 
- - **Surface Density:** Compressing the radial grid inflates observed density. The true density is systematically lower, scaling inversely with the square root of the size correction:
+ - **Surface Density:** Scaling the radial grid inflates observed density. The true frame density is systematically lower, scaling inversely with the square root of the size correction:
 
    $$\Sigma_{\text{true}}/\Sigma_{\text{obs}} \propto (R_{\text{true}}/R_{\text{obs}})^{-0.5}$$
 
