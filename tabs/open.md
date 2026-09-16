@@ -8,7 +8,7 @@ toc: true
 
 # 👨‍💻 Open Source Code
 
-## <a href="https://justpeers.com/" target="_blank"> **Mezzi Bullet Cluster** [ Python + Matlab + Full Results ] </a>
+## <a href="https://justpeers.com/" target="_blank"> **Mezzi Bullet Cluster** [ Python + Matlab + Sensitivity Results ] </a>
 
 ## <a href="https://justpeers.com/" target="_blank"> **Mezzi SPARC Galaxies** [ Python + Matlab + Full Results ] </a>
 
