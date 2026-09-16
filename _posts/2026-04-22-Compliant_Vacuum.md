@@ -140,11 +140,6 @@ The shallower lensing slope reveals that geometric scaling affects dynamical mas
 
 To astronomers, relativists, data scientists, and theorists: I invite you to test, challenge, and refine this idea. Whether you work with rotation curves, weak lensing surveys, or foundational gravity theories, your expertise is needed.
 
-Let us collaborate on:
-
-- Reproduce the SPARC analysis independently, using alternative mass models and fitting techniques.  
-- Compare Mezzi-corrected baryonic maps with lensing mass reconstructions from Euclid, Rubin Observatory, or JWST.  
-- Apply the Mezzi scaling to cluster dynamics, can it explain lensing observation without dark matter?
 
 ---
 
@@ -154,6 +149,6 @@ To access the **full SPARC data results**, and **computational code**, visit:
 🔗 <a href="https://justpeers.com/" target="_blank" rel="noopener noreferrer">JustPeers Page</a>
 
 You can also read the **Research Preprint Paper** here:  
-📄 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5176689" target="_blank" rel="noopener noreferrer">Preprint</a>
+📄 <a href="https://www.preprints.org/manuscript/202604.1301" target="_blank" rel="noopener noreferrer">Preprint</a>
 
 ---
