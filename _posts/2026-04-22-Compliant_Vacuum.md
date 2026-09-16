@@ -67,6 +67,15 @@ Critiques and attempts to reproduce/refute are welcome.
 
  Here, $$\zeta(r)$$ ranges between 0 and 1. When $$\zeta < 1$$, it means our observation capture a radially compressed projection of the galaxy. The true physical extent is larger than what we infer.  
 
+
+ <div class="responsive-iframe">
+   <iframe src="https://brahimbenaissa.com/Mezzi_LOS/mezzi%20LOS.html"
+           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 16px;"
+           title="Mezzi Line of Sight" loading="lazy" allowfullscreen scrolling="no"></iframe>
+ </div>
+
+
+
  ---
 
 ## The Emergent Scaling Laws
