@@ -31,7 +31,7 @@ If you're looking for collaboration, do not hesitate to contact me.
         <img src="{{site.baseurl}}/assets/files/Projects/Mezzi Effect/TrueFrame.png" width="100%">
     </a>
 </p>
- 
+
 
 # Soft Computing Tools
 
@@ -77,24 +77,4 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 
 ---
-
-# Past Projects
-
-## Deep Learning for **Multidisciplinary Design Optimization** *(@ Toyota technological Institute)*
-
-## Exploratoty Topology Optimization Algorithms <a target="_blank" href="https://musaddiqalali.github.io/">  with Dr. Al ALi  </a>
-
----
-
-## Data-based modeling for **Innovative Structural Health Monitoring**
-
-
----
-
-## Cost effective **Indoor Localization** *(@ Kyushu Institute of Technology)*
-
----
-
-## <a href="{{site.baseurl}}/posts/Human-Activity-Recognition"> Machine learning for **Human Activity recognition** *(@ Kyushu Institute of Technology)* </a>
-
----
+ 
