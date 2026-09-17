@@ -14,11 +14,21 @@ toc: true
  <a href="https://www.scopus.com/authid/detail.uri?authorId=57140682400" target="_blank">Scopus</a>
 </div>
 
+
+
+## 2026
+
+**B Benaissa**, **On the Observer-Frame Interpretation of Radial Coordinates in Gravitational Potentials**, *Preprints*. <a href=" https://doi.org/10.20944/preprints202608.2229.v2 " target="_blank"> https://doi.org/10.20944/preprints202608.2229.v2</a>  
+
+
+**B Benaissa**, **On the Observer-Frame Interpretation of Radial Coordinates in Gravitational Potentials**, *Preprints*. <a href=" https://doi.org/10.20944/preprints202604.1301.v2 " target="_blank"> https://doi.org/10.20944/preprints202604.1301.v2</a>  
+
+
 ## 2025
 
 H Takenouchi, **B Benaissa**, M Tokumaru, **Applying Yuki Algorithm To Interactive Evolutionary Computation**, *Intelligent Informatics*. <a href="https://doi.org/10.3156/jsoft.37.1_553" target="_blank"> https://doi.org/10.3156/jsoft.37.1_553 </a>  
 
-**B Benaissa**, **Resolving Galactic Rotation Curve Discrepancies Through a Proposed Relativistic Observation Effect**, *SSRN Preprint*. <a href=" http://dx.doi.org/10.2139/ssrn.5176689 " target="_blank"> http://dx.doi.org/10.2139/ssrn.5176689 </a>  
+**B Benaissa**, **Resolving Galactic Rotation Curve Discrepancies Through a Proposed Relativistic Observation Effect**, *Preprints*. <a href=" http://dx.doi.org/10.20944/preprints202503.0983.v1 " target="_blank"> http://dx.doi.org/10.20944/preprints202503.0983.v1 </a>  
 
 N Hassaine, M Dahak, N Touat, S Khatir, **B Benaissa**, T Cuong-Le, **Damage identification in functionally graded material beam structures based on frequency analysis and AOA-ANN**, *Mechanics Based Design of Structures and Machines*. <a href=" https://doi.org/10.1080/15397734.2025.2487176 " target="_blank"> https://doi.org/10.1080/15397734.2025.2487176 </a>  
 
