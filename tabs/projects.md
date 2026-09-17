@@ -22,7 +22,9 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 # The Mezzi Effect
 
+## <a href="{{site.baseurl}}/posts/MEZZI_EFFECT" target="_blank"> What is the Mezzi Effect? </a>
 ## <a href="{{site.baseurl}}/posts/Compliant_Vacuum" target="_blank"> The Compliant Vacuum </a>
+## <a href="{{site.baseurl}}/posts/Mezzi_Bullet_Cluster" target="_blank"> Mezzi Bullet Cluster </a>
 
 ## <a href="https://justpeers.com/" target="_blank"> Full code and results (JustPeers Open Repository)</a>
 
@@ -77,4 +79,3 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 
 ---
- 
