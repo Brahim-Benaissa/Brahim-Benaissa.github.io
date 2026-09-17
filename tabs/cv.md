@@ -4,13 +4,7 @@ title: CV
 toc: true
 ---
 
-<!--
----
-
-## <a href="{{ site.baseurl }}{% link /assets/files/Brahim-Benaissa_CV.pdf %}" target="_blank"> 📎 Curriculum Vitae (PDF)</a>
-
----
--->
+ 
 
 # 🧰 Experience
 
@@ -32,7 +26,7 @@ toc: true
 ## Startup Founder
 ( 2019 ) | **Entrepreneurship** | **Web platform**
 
-- <a href="https://eyenbros.com/" target="_blank">*Technology platform for Social and Solidarity Economy.*</a>
+
 
 ---
 
@@ -85,10 +79,10 @@ toc: true
 - **Classical Mechanics**. 2011-2013. For undergraduate students in the Department of Science and Technology. <a href="http://www.univ-medea.dz/en/" target="_blank">*Medea University*</a>. Algeria.
 
 ---
-
+<!--
 ## Supervision
 
-<!-- - *AI modeling for  s*, **MSc.,  2022, Toyota Technological Institute. Japan**.  -->
+ - *AI modeling for  s*, **MSc.,  2022, Toyota Technological Institute. Japan**.  
 
 - *Information-Based Design optimization*, **MSc. 2024, Toyota Technological Institute. Japan**.  
 
@@ -107,9 +101,11 @@ toc: true
 - *Developing indoor localization system based BLE signal mapping*, **Joint Research.  2017, Kyushu Institute of technology. Japan. Technical University of Košice. Slovakia**. <a href="https://hyokadb02.jimu.kyutech.ac.jp/html/190_ronbn_1_ja.html" target="_blank">*Link*</a>
 
 ---
+-->
 
-# ✋ Scientific Community Roles
 <!--
+# ✋ Scientific Community Roles
+
 ## Journal Editor
 
    - **Editor**: <a href="https://jurnal.unimed.ac.id/2012/index.php/jids" target="_blank"> Journal of Informatics and Data Science  </a>. ISSN: 2964-0415
@@ -117,9 +113,11 @@ toc: true
   - **Editor**: <a href=" http://journalofscience.acs.ou.edu.vn/index.php/acs/about/editorialTeam " target="_blank"> Advances in Computational Structures  </a>. ISSN :2815-6218  
 
   - **Guest Editor**: <a href="https://www.mdpi.com/journal/buildings/special_issues/OR578F0237" target="_blank"> Special Issue: Advances in Inverse Problem Applications in Structural Health Monitoring </a>.
--->
----
 
+---
+-->
+
+<!--
 ## Conference Organization
 
 - **Managing Chair**: <a href="https://icsces.com/" target="_blank"> ICSCES 2023</a>  International Conference of Steel and Composite for Engineering Structures. 20-21 November 2023. Università del Salento, Lecce, Italy.
@@ -145,6 +143,9 @@ toc: true
 - **Scientific committee**: <a href="https://mobicase.eai-conferences.org/2018/show/prog-com.html" target="_blank"> EAI MobiCASE 2018 </a>  9th EAI International Conference on Mobile Computing, Applications and Services. February 28–March 2, 2018. Osaka, Japan. <a href="https://link.springer.com/book/10.1007/978-3-319-90740-6" target="_blank"> https://link.springer.com/book/10.1007/978-3-319-90740-6</a>
 
 ---
+
+-->
+
 <!--
 ## Journal Reviewer
 
