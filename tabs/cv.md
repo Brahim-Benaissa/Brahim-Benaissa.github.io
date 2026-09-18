@@ -4,7 +4,7 @@ title: CV
 toc: true
 ---
 
- 
+
 
 # 🧰 Experience
 
@@ -24,7 +24,7 @@ toc: true
 ---
 
 ## Startup Founder
-( 2019 ) | **Entrepreneurship** | **Web platform**
+( 2021 ) | **Entrepreneurship** | **Web platform**
 
 
 
