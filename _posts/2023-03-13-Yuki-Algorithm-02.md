@@ -53,39 +53,6 @@ YUKI Algorithm and POD-RBF for Elastostatic and dynamic crack identification. *J
 
 </p>
 
-
-<!--
----
-
-
-## 📺 Tutorial
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/Jz3TDvnZ3zo/0.jpg)](http://www.youtube.com/watch?v=Jz3TDvnZ3zo "Video Title")
-
-<p align="center">
-
-<iframe
-    width="750"
-    height="480"
-    src="https://www.youtube.com/embed/UmX4kyB2wfg"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen>
-</iframe>
-
-</p>
-
--->
-
----
-
-## 👁️‍🗨️ Read
-
-<p align="center">
-
-<object data="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM/YUKI ALGORITHM 1.0.pdf %}" type="application/pdf" width="750px" height="500px"> </object>
-
-</p>
-
+ 
 
 ---
