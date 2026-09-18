@@ -11,6 +11,28 @@ pin: true
 ---
 
 
+
+<style>
+  /* Desktop styles (larger screens) */
+  .responsive-iframe {
+    position: relative;
+    width: 100%;
+    padding-bottom: 80%;  
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  /* Mobile styles (smaller screens) */
+  @media (max-width: 768px) {
+    .responsive-iframe {
+      padding-bottom: 120%;  
+    }
+  }
+</style>
+
+
+
 ## <a target="_blank" href="{{ site.baseurl }}{% link /assets/files/Projects/YUKI ALGORITHM 2.0/YUKI py.zip %}"  download>   Download Python Code (Zip)</a>
 
 
