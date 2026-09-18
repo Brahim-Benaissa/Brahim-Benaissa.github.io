@@ -46,7 +46,7 @@ If you're looking for collaboration, do not hesitate to contact me.
 </p>
 
 
-## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> POD-RBF Tool</a>
+## <a href="{{site.baseurl}}/posts/POD_RBF"> POD-RBF Tool</a>
 
 <p align="center">
 
