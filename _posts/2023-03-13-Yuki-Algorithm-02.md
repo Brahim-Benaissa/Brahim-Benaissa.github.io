@@ -51,7 +51,7 @@ It creates a local search area centered around the best solution found so far X_
 
 
 <div class="responsive-iframe">
-  <iframe src="https://brahimbenaissa.com/yuki_Ilu/bc_kMap.html"
+  <iframe src="https://brahimbenaissa.com/yuki_Ilu/yuki_algo.html"
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; border-radius: 16px;"
           title="BC k Map" loading="lazy" allowfullscreen scrolling="no"></iframe>
 </div>
