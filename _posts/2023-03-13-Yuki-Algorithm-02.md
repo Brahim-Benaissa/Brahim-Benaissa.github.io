@@ -1,5 +1,5 @@
 ---
-title: YUKI Algorithm 2.0
+title: YUKI Algorithm
 author: Brahim Benaissa
 date: 2023-03-13 16:07:00 +0900
 categories: [Open Source Code, Optimization, Python]
