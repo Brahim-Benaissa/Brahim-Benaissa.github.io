@@ -37,7 +37,7 @@ If you're looking for collaboration, do not hesitate to contact me.
 
 # Soft Computing Tools
 
-## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> YUKI Algorithm 2</a>
+## <a href="{{site.baseurl}}/posts/Yuki-Algorithm-02"> YUKI Algorithm</a>
 
 <p align="center">
 
