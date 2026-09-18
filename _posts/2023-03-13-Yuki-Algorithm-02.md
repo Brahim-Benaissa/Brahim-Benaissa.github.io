@@ -57,7 +57,7 @@ YUKI is a population based metaheuristic for global optimization. The idea behin
 
 
 
-The local search area is centered on the best solution found so far, X_best, and its size is determined by the distance between this point and the mean of the personal bests, X_MeanBest;the center of the "cloud of best points". The local boundaries are calculated independently for each dimension using the expressions: D = |X_best − X_MeanBest|, LT = X_best + D, and LB = X_best − D, clipped to the global bounds [lb, ub]. Because the box is defined per dimension, it can shrink at different rates along different axes.
+The local search area is centered on the best solution found so far, X_best, and its size is determined by the distance between this point and the mean of the personal bests, X_MeanBest;the center of the "cloud of best points". The local boundaries are calculated independently for each dimension using the expressions: D =  X_best − X_MeanBest , LT = X_best + D, and LB = X_best − D, clipped to the global bounds [lb, ub]. Because the box is defined per dimension, it can shrink at different rates along different axes.
 
 The YUKI algorithm partitions the population into two groups. One group is tasked with exploring the search space beyond the local region, while the other focuses on searching within it. In the first version, the number of individuals in each group varied linearly over the iterations; more explorers in the early stages, more exploiters as the search matured. In the improved YUKI algorithm, this is replaced by a simpler scheme in which the rate is constant throughout the search and set by the user. This parameter is named EXP (exploration rate), with a value between 0 and 1, giving the portion of the population dedicated to exploration.
 
