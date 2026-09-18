@@ -38,21 +38,11 @@ keywords: [mezzi effect, galaxy rotation curve, dark matter, astrophysics, galac
 
 ---
 
-## A Preprint Research
-
-This framework remains in preprint status and has not undergone formal peer review. All findings, correlations, fits, and interpretations should be considered provisional and exploratory.
-
-The <a href="https://justpeers.com/" target="_blank" rel="noopener noreferrer"> Full Results and Computational Code</a> are provided for independent verification.
-
-Critiques and attempts to reproduce/refute are welcome.
-
- ---
-
 ## The Problem of Galaxy Rotation Curves
 
 The observed flat rotation curves, where stars maintain high velocities at large galactic radii, contradict the Newtonian predictions. This anomaly has presented a significant challenge to our understanding of gravity and the distribution of visible matter in galaxies.
 
-The prevailing explanation invokes dark matter, a non interactive form of matter that permeates galaxies, providing the additional gravitational pull needed to explain the observations. However, despite extensive searches, dark matter remains undetected.
+The working explanation invokes dark matter, a non interactive form of matter that permeates galaxies, providing the additional gravitational pull needed to explain the observations. However, despite extensive searches, dark matter remains undetected.
 
 ---
 
@@ -70,7 +60,7 @@ The prevailing explanation invokes dark matter, a non interactive form of matter
 
 ## Mezzi effect visualization
 
-The mezzi effect is a relativistic observational effect that causes galaxies to appear compressed. This effect makes distant stars appear closer to the center than they actully are, which leads to miscalculate their orbital speeds. By accounting for this distortion, the Newtonian model results align with observed flat rotation curves.
+The mezzi effect is an observational effect that causes galaxies to appear compressed. This effect makes distant stars appear closer to the center than they actully are. By accounting for this distortion, the Newtonian model results align with observed flat rotation curves.
 
 
 <div class="responsive-iframe">
@@ -82,27 +72,6 @@ The mezzi effect is a relativistic observational effect that causes galaxies to 
 
 ---
 
-## Questions to be Answered
-
-- Can the Mezzi scale factor be derived from first principles?     
-- How does it connect to established relativistic phenomena?
-- Can the SPARC data results results correspond to the Lensing observations?    
-- Can the mezzi Effect be applied to galaxy custers?
-
----
-
-## A Call for Collaboration
-
-To astronomers, relativists, data scientists, and theorists: I invite you to test, challenge, and refine this idea. Whether you work with rotation curves, weak lensing surveys, or foundational gravity theories, your expertise is needed.
-
-Let us collaborate on:
-
-- Reproduce the SPARC analysis independently, using alternative mass models and fitting techniques.  
-- Compare Mezzi-corrected baryonic maps with lensing mass reconstructions from Euclid, Rubin Observatory, or JWST.  
-- Explore theoretical derivations of ξ(r) within Painlevé–Gullstrand geometry or other GR frameworks.  
-- Apply the Mezzi scaling to cluster dynamics, can it explain lensing observation without dark matter?
-
----
 
 
 ## Explore the details
