@@ -225,7 +225,7 @@ Patent office: JP.
 📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2019144120-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>   
 
 ---
-
+<!--
 # 🎤 Conference Presentations
 
 ## 2024
@@ -279,3 +279,5 @@ Patent office: JP.
 - **Identifying defect size in two dimensional plates based on boundary measurements using  reduced model and genetic algorithm**. <a href="https://www.asjp.cerist.dz/en/article/102157" target="_blank"> JIP 2013</a> 1ères Journées Internationales de Physique de l’Université Constantine 1, 16-17 December 2013. Constantine, Algeria.   
 
 - **The influence of the position and number of deformation sensors on the identification of cracks using dual boundary element method**. <a href="{{ site.baseurl }}{% link /assets/files/Conferences/CAM2013.pdf %}" target="_blank">CAM 2013 (PDF)</a> Congrès Algérien de Mécanique.  25-28 2013, Mascara, Algeria.   
+
+-->
