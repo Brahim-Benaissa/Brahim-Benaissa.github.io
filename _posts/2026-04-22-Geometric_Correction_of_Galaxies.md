@@ -1,5 +1,5 @@
 ---
-title: Compliant Vacuum
+title: Geometric Correction of Galaxies
 author: Brahim Benaissa
 date: 2026-04-22 08:31:00 +0900   
 categories: [Physics, Gravity]
@@ -142,12 +142,6 @@ The shallower lensing slope reveals that geometric scaling affects dynamical mas
  - In the **observer frame**, geometric compression steepens the slope to $$M \propto v^{3.70}$$, aligning with the empirical $$v^4$$ law.
 
  Furthermore, the vertical offset (normalization) of the BTFR strongly correlates with geometric compression in observed data. Once we correct for the Mezzi effect, this correlation vanishes. The offset is not a signature of star formation efficiency or halo physics; it is a direct consequence of measuring a the true frame geometry through a compressed coordinate grid.
-
-
-
-## A Call for Collaboration
-
-To astronomers, relativists, data scientists, and theorists: I invite you to test, challenge, and refine this idea. Whether you work with rotation curves, weak lensing surveys, or foundational gravity theories, your expertise is needed.
 
 
 ---

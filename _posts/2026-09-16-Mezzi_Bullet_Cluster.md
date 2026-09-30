@@ -83,12 +83,6 @@ By applying the Mezzi Area Jacobian to the baseline baryonic mass model, the fra
           title="BC k Map" loading="lazy" allowfullscreen scrolling="no"></iframe>
 </div>
 
----
-
-## A Call for Collaboration
-
-To astronomers, relativists, data scientists, and theorists: I invite you to test, challenge, and refine this idea. The Bullet Cluster is a critical test case for any alternative framework, and independent verification is essential.
-
 
 ---
 
