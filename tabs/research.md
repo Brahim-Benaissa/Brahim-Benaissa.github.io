@@ -171,14 +171,14 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. **Genetic Algorithm Based
 
 # 📜 Patents
 
-<!-- <a href="https://www.j-platpat.inpit.go.jp/s0100" target="_blank"> japanese Patent search </a>. -->
+ 
 
 **Brahim Benaissa**  **ベネッサ ブラヒム**
 
 
 ## 2022
 
-**B Benaissa**, K Yoshida. **Indoor position estimation system, indoor location estimation method Using BLE Beacon and Bluetooth receivers**. **屋内位置推定システム及び屋内位置推定方法**.
+**Indoor position estimation system, indoor location estimation method Using BLE Beacon and Bluetooth receivers**. **屋内位置推定システム及び屋内位置推定方法**.
 Patent number: JP,2022-030674,A.
 Application number: JP,2020-134829.
 Filing date: Aug.07,2020.
@@ -190,7 +190,7 @@ Patent office: JP.
 
 ## 2021
 
-D Belanova, K Yoshida, **B Benaissa**. **VR space image correction system, VR space image correction method, and program for executing VR space image correction method**. **ＶＲ空間画像補正システム、ＶＲ空間画像補正方法、及びＶＲ空間画像補正方法を実行するプログラム**.
+**VR space image correction system, VR space image correction method, and program for executing VR space image correction method**. **ＶＲ空間画像補正システム、ＶＲ空間画像補正方法、及びＶＲ空間画像補正方法を実行するプログラム**.
 Patent number: JP,2021-051512,A.
 Application number: JP,2019-173523.
 Filing date: Sep.24,2019.
@@ -202,7 +202,7 @@ Patent office: JP.
 
 ## 2020
 
-**B Benaissa**, F Hendrichovsky, K Yoshida. **Mapping system for indoor location estimation and mapping program for indoor location estimation**. **屋内位置推定用マッピングシステム及び屋内位置推定用マッピングプログラム**.
+**Mapping system for indoor location estimation and mapping program for indoor location estimation**. **屋内位置推定用マッピングシステム及び屋内位置推定用マッピングプログラム**.
 Patent number: JP,2020-085715,A.
 Application number: JP,2018-222171.
 Filing date: Nov.28,2018.
@@ -214,7 +214,7 @@ Patent office: JP.
 
 ## 2019
 
-**B Benaissa**, K Yoshida. **Indoor location estimation system, indoor location estimation method, and program for executing the indoor location estimation method Using BLE Beacon and Smartphone**. **屋内位置推定システム、屋内位置推定方法、及び屋内位置推定方法を実行するプログラム**.
+**Indoor location estimation system, indoor location estimation method, and program for executing the indoor location estimation method Using BLE Beacon and Smartphone**. **屋内位置推定システム、屋内位置推定方法、及び屋内位置推定方法を実行するプログラム**.
 Patent number: JP,2019-144120,A.
 Application number: JP,2018-028688.
 Filing date: Feb.21,2018.
