@@ -168,8 +168,8 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. **Genetic Algorithm Based
 
 
 ---
-<!--
-# 📜 Patents
+
+# 📜 Patents Applications
 
 
 
@@ -224,6 +224,7 @@ Patent office: JP.
 🔗 <a href="https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2019-144120/D2AEC53EF2F8FF9FB2D2206C0D40F75F9B90308B837CEA68B2BC4074FF9D4E6C/11/en" target="_blank"> Patent Link </a>.
 📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2019144120-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>   
 
+<!--
 ---
 
 # 🎤 Conference Presentations
