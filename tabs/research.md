@@ -168,10 +168,10 @@ S Khatir, I Belaidi, R Serra, **B Benaissa**, A Aicha. **Genetic Algorithm Based
 
 
 ---
-
+<!--
 # 📜 Patents
 
- 
+
 
 **Brahim Benaissa**  **ベネッサ ブラヒム**
 
@@ -225,7 +225,7 @@ Patent office: JP.
 📎 <a href="{{ site.baseurl }}{% link /assets/files/patents/JPA 2019144120-000000.pdf %}" target="_blank">  **(Download Patent PDF)** </a>   
 
 ---
-<!--
+
 # 🎤 Conference Presentations
 
 ## 2024
